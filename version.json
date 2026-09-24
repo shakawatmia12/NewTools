@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.3.zip",
-  "sha256": "a7a571b3f96463c060e16937a94f01642ad28387acd281aeea0cb29d15ae44ce",
-  "sig": "HXRUb0czKujx+f750ZhGQVRYAVzRFDxVFoZxkg9//d3idkJYPUA1Jnd0DXZMgJH5+phOKTzNJ1Nl2B8VAQd9Bw==",
-  "notes": "Native-compiled build (stronger protection) + fixes AI browser not closing after ask."
+  "version": "1.0.4",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.4.zip",
+  "sha256": "ce4cd10ffbcbb52d39a92651cefcad696897007a88959ef56a6842139675cc94",
+  "sig": "7nDABzhquRsjcekiOkiFOgNfuscebXPqC7eostUpyY79Cicf9q7WIBMOPYii+NJfoAm1Cy7O9inkjRMZRJ3KBA==",
+  "notes": "Adds a Repair tool (Repair.exe inside the app folder) to fix a broken/blocked install, new app icon, and the app now requests admin permission on launch."
 }
