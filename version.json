@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/shakawatmia12/NewTools/main/update_v1.0.1.zip",
-  "sha256": "95fb6f7422f67f12de59c606e78a45e938334e02cb695d4e3f4fe23011ea2bf6",
-  "sig": "qXvauzKwTWozbcH2GvdZ283vuEODbaC9rn7RV1JlIxI8iefFqHIJxzkLW9y/GjUUmkYev8PQR9PyzxX3BNoRBw==",
-  "notes": "Fix: browser profiles folder defaults to app Browser folder"
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/shakawatmia12/NewTools/main/update_v1.0.2.zip",
+  "sha256": "f2c1cfaea3faca084f5042641a68fbd42d808cd96f86608738f25a96020a66aa",
+  "sig": "LCz2ESXRbYPRer5L5QhQPUuh6QvlnA5WunXVZ6AE/2oaXl4EbDFC+B/SERW4SjThE6kskCC9rVXOyPr3xva1Dw==",
+  "notes": "Fix: AI browser now always closes after asking (kill first, then disconnect)."
 }
