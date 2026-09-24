@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.4.zip",
-  "sha256": "ce4cd10ffbcbb52d39a92651cefcad696897007a88959ef56a6842139675cc94",
-  "sig": "7nDABzhquRsjcekiOkiFOgNfuscebXPqC7eostUpyY79Cicf9q7WIBMOPYii+NJfoAm1Cy7O9inkjRMZRJ3KBA==",
-  "notes": "Adds a Repair tool (Repair.exe inside the app folder) to fix a broken/blocked install, new app icon, and the app now requests admin permission on launch."
+  "version": "1.0.5",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.5.zip",
+  "sha256": "4680095fd36379a70bb736dbbe1e2f85e4781d171ec01c1d7afc87611a26303f",
+  "sig": "JTbbcN90qTCNvv1kEFV81dGkk9y3tCcnDUwG9aj1CktZYPCNfmijAS+v7C6RA4UQAeNjhIsGQabqBaOkGAlWDw==",
+  "notes": "Back to the proven PyInstaller build for reliability (Nuitka was blocking the app from opening on some PCs). Keeps the Repair tool and new app icon."
 }
