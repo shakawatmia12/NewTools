@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/shakawatmia12/NewTools/main/update_v1.0.2.zip",
-  "sha256": "f2c1cfaea3faca084f5042641a68fbd42d808cd96f86608738f25a96020a66aa",
-  "sig": "LCz2ESXRbYPRer5L5QhQPUuh6QvlnA5WunXVZ6AE/2oaXl4EbDFC+B/SERW4SjThE6kskCC9rVXOyPr3xva1Dw==",
-  "notes": "Fix: AI browser now always closes after asking (kill first, then disconnect)."
+  "version": "1.0.3",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.3.zip",
+  "sha256": "a7a571b3f96463c060e16937a94f01642ad28387acd281aeea0cb29d15ae44ce",
+  "sig": "HXRUb0czKujx+f750ZhGQVRYAVzRFDxVFoZxkg9//d3idkJYPUA1Jnd0DXZMgJH5+phOKTzNJ1Nl2B8VAQd9Bw==",
+  "notes": "Native-compiled build (stronger protection) + fixes AI browser not closing after ask."
 }
