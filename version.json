@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.8.zip",
-  "sha256": "eb9a00577c371808767d2405369576a1bf1b597685c37997add9a348b7c13fa9",
-  "sig": "EDovohiAu0rwvrjOLtgRQNKRGAzoY7gSgV+91D66PLNcsNTfM/DzWjJEnXRgoYG21cg90kCIprnYOIBCVMogBA==",
-  "notes": "Per-page fair-share concurrency for 24/7 servicing: each page can be given a guaranteed slice of the Max Concurrent Browser Windows cap so one busy page can no longer starve another, with graceful (non-forceful) handback as windows finish. AI content generation is now serialized per polling browser so concurrently-arriving posts don't race each other on it. Account selection for react/comment/share now prefers whichever account's Last Interact is oldest instead of picking uniformly at random, spreading usage evenly across the fleet."
+  "version": "1.0.9",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.9.zip",
+  "sha256": "0699a5304fc21832f0569d5980ea414df99269bf1b3eeecb9530ec85b478313b",
+  "sig": "DYoX39lK4rQYN+ribrYu5nZbv8RgSgSAMV321yA4aKRpeG2SwlO8M3Ivh1W9umRSu1+VfxDqCkY0EFGIgnaVBQ==",
+  "notes": "Fixes a lost-update race condition in the 24/7 service's shared state file, introduced by v1.0.8's new concurrent per-page servicing: several pages'/posts' processing threads writing dashboard status and daily-quota counters at the same moment could silently clobber each other's update, undercounting the daily limit and occasionally showing stale dashboard status. All state-file writes are now serialized under one lock."
 }
