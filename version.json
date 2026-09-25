@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.5.zip",
-  "sha256": "4680095fd36379a70bb736dbbe1e2f85e4781d171ec01c1d7afc87611a26303f",
-  "sig": "JTbbcN90qTCNvv1kEFV81dGkk9y3tCcnDUwG9aj1CktZYPCNfmijAS+v7C6RA4UQAeNjhIsGQabqBaOkGAlWDw==",
-  "notes": "Back to the proven PyInstaller build for reliability (Nuitka was blocking the app from opening on some PCs). Keeps the Repair tool and new app icon."
+  "version": "1.0.6",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.6.zip",
+  "sha256": "f07eeb463f076879e7c443a6e5d2d83a52702d42cf446f98bc083ae06c51bdca",
+  "sig": "RTVOU/YqohRXnaFjUcszW4SqDyba+f5HRtH2Imp5j2d82zK7naRhimLDmviCEVOz2+mDKx/IZ9YECshdL1nxDQ==",
+  "notes": "Adds per-step live status + waiting time to the Page Watch dashboard so it's clear what each post is doing (checking post / downloading media / asking AI / reacting-commenting-sharing) and how long it's been on that step."
 }
