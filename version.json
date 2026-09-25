@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.6.zip",
-  "sha256": "f07eeb463f076879e7c443a6e5d2d83a52702d42cf446f98bc083ae06c51bdca",
-  "sig": "RTVOU/YqohRXnaFjUcszW4SqDyba+f5HRtH2Imp5j2d82zK7naRhimLDmviCEVOz2+mDKx/IZ9YECshdL1nxDQ==",
-  "notes": "Adds per-step live status + waiting time to the Page Watch dashboard so it's clear what each post is doing (checking post / downloading media / asking AI / reacting-commenting-sharing) and how long it's been on that step."
+  "version": "1.0.7",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.7.zip",
+  "sha256": "d1056e8d95baa573be0995082a2f1966e6b5893f141b78f41642aba21b4fcdbd",
+  "sig": "F1ullCLPw6UnTY23fgVKScz4Fk6SOmg1PdGh0ebWErI8PAmwJzt1GTrlL3WmT2jnyYVfEqsu0lo7SoMrbxBIDg==",
+  "notes": "Fixes Page Watch AI count-order: comment/share target counts are now capped to how many accounts can actually deliver (excluding 24h comment-blocked accounts) BEFORE asking AI, so nothing generated goes unused."
 }
