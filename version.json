@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.7.zip",
-  "sha256": "d1056e8d95baa573be0995082a2f1966e6b5893f141b78f41642aba21b4fcdbd",
-  "sig": "F1ullCLPw6UnTY23fgVKScz4Fk6SOmg1PdGh0ebWErI8PAmwJzt1GTrlL3WmT2jnyYVfEqsu0lo7SoMrbxBIDg==",
-  "notes": "Fixes Page Watch AI count-order: comment/share target counts are now capped to how many accounts can actually deliver (excluding 24h comment-blocked accounts) BEFORE asking AI, so nothing generated goes unused."
+  "version": "1.0.8",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.8.zip",
+  "sha256": "eb9a00577c371808767d2405369576a1bf1b597685c37997add9a348b7c13fa9",
+  "sig": "EDovohiAu0rwvrjOLtgRQNKRGAzoY7gSgV+91D66PLNcsNTfM/DzWjJEnXRgoYG21cg90kCIprnYOIBCVMogBA==",
+  "notes": "Per-page fair-share concurrency for 24/7 servicing: each page can be given a guaranteed slice of the Max Concurrent Browser Windows cap so one busy page can no longer starve another, with graceful (non-forceful) handback as windows finish. AI content generation is now serialized per polling browser so concurrently-arriving posts don't race each other on it. Account selection for react/comment/share now prefers whichever account's Last Interact is oldest instead of picking uniformly at random, spreading usage evenly across the fleet."
 }
