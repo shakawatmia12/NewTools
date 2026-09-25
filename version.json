@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.9.zip",
-  "sha256": "0699a5304fc21832f0569d5980ea414df99269bf1b3eeecb9530ec85b478313b",
-  "sig": "DYoX39lK4rQYN+ribrYu5nZbv8RgSgSAMV321yA4aKRpeG2SwlO8M3Ivh1W9umRSu1+VfxDqCkY0EFGIgnaVBQ==",
-  "notes": "Fixes a lost-update race condition in the 24/7 service's shared state file, introduced by v1.0.8's new concurrent per-page servicing: several pages'/posts' processing threads writing dashboard status and daily-quota counters at the same moment could silently clobber each other's update, undercounting the daily limit and occasionally showing stale dashboard status. All state-file writes are now serialized under one lock."
+  "version": "1.0.10",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.10.zip",
+  "sha256": "0229dd35ac801bf73996b81f281e9c54808f3d1dceb31d5218f6d816a8a080b9",
+  "sig": "s8NYISNs6kVQOfLyDPe4ZwiyPT/B9pQ10t+JHxAw2//jmGPYEbIILhllF2JyC7Q7zSSM9ZqnKEm/Z3tq/0rsBQ==",
+  "notes": "24/7 servicing reliability: the AI now gets the FULL post caption (See more expanded) instead of the feed's cut text; every photo/video of a multi-media post is fetched with multi-layer download fallback and a post whose media can't be fetched is never asked as text-only; AI asks always go to the user's own Gemini link (skeleton-page wait fix, reply detection by unique tag); already-seen posts are no longer re-detected as new when only their time label/caption/image reading drifts; a shared-state race that left finished posts showing in_progress is fixed; the Facebook Accounts Center 'Confirm your accounts' wall is answered automatically; dead accounts are auto-removed from the servicing list; share/react/comment counts are real and shortfalls are retried."
 }
