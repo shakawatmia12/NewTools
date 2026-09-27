@@ -1,7 +1,7 @@
 {
-  "version": "1.0.13",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.13.zip",
-  "sha256": "b8fd4b2caded22fc013351d4669290460d9533f8102fb7b779e1dbfe2a2af3e7",
-  "sig": "dkxDgkL21ZDreBPbtYPW1Jr46qY9b+kuQuyfM844WLfoAJpCxu3RMw0sIwjh+cxLwlgfesN7roW885GQh8FyCw==",
-  "notes": "Opening/restoring a browser now shows only ONE window - extra windows Chrome restored from an earlier session are closed automatically (the Facebook one is kept). Includes everything in 1.0.12."
+  "version": "1.0.14",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.14.zip",
+  "sha256": "40715b80357490ee756d9950b7aa5aea5835b48ee7fc77804a5bd55e7efcf6a9",
+  "sig": "6JJb8RX6953q+0fUGYN/48SAGmKsD0l6BE1LphvsgPjFOuO16mow52U/+HolYK7MF2iKYZuH6mRscecll9feCw==",
+  "notes": "Share: waits for the share sheet on slow proxies (was giving up after ~4s), 'Share to Feed' fallback when an account has no 'Share now', longer confirmation wait; post-not-found retries the link once; slow Chrome connect retried; comment box no longer blocked by a leftover reaction picker. Includes 1.0.13 (single browser window)."
 }
