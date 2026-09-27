@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.11.zip",
-  "sha256": "ef84392be627cbf7723677f60dfc5c4189dda4d7058a84ba1fa9c2bc7248cb94",
-  "sig": "bFk4rG4nU/oULVhENz82km2qKdUkAoHV+ea30jR4p3Pelw8JXlcxmxshxxOK9CDVBp08TyUlIWPXRy7R0C4XAQ==",
-  "notes": "Smart VPN (Config Proxy): detects a dead VPN server even when Android still shows 'connected' (reads OpenVPN's own status) and switches to a working config automatically; checks the EXACT config that is connected; waits smartly for the VPN handshake instead of a fixed timer (no more good configs wrongly quarantined); never blames a config when the phone's own Wi-Fi/network is down; waits for a rebooting phone to finish booting; never breaks a tunnel OpenVPN is already reconnecting by itself; Switch Profile waits for a busy phone instead of skipping it; tasks only start when the VPN really carries traffic; fixed a crash when closing the Config Proxy window; far fewer warnings (only real problems are shown)."
+  "version": "1.0.12",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.12.zip",
+  "sha256": "3a0295063323d881b6bc74d68f944e30c2a2cffb686d1043aa525bc15839a17f",
+  "sig": "jjWqc+X0/1apTfsdtk/xePduEA/0rSSIU7AZ+KOPCzDLIyf0i7yaxFmJU5/Tswn6NRGj2CjmSXFiB1hY5ZQYCQ==",
+  "notes": "Bangla-language FB accounts are switched to English automatically (fixes 'Couldn't find any post', picker/comment/share failures); stops tasks on a logged-out account (one relogin, then stop); reactions no longer land on the next reel; change-reaction multi-strategy; reCAPTCHA image-solve fix; 24/7 auto-removes checkpoint/locked/suspended/relogin-failed accounts from its selection; click column headers to sort in the account picker; MaxCare-style right-click Select/Copy menu; ADB default folders Owner/Profile 1-3; Threads removed; Account Info no longer gets junk rows from multi-line errors."
 }
