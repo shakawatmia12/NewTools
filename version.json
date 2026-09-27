@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.16.zip",
-  "sha256": "5dc0955d89a0062d70b1da4d446fa20e38960109aa801ee0e24bbc3451b00669",
-  "sig": "PeHkorJAxR+Qbl+DgnkLpPPy+fijn15TmuxbGHWvTXkbV8CSKOp51LZcWBIuWgK7/MRUQExeLUQ5JV27o3BUBQ==",
-  "notes": "24/7: reactions that fail on a healthy account are now retried through other accounts (2 rounds, like comments/shares already were); when hover doesn't open the reaction picker, the React-chevron / hover-main strategies run before falling back to Like; page name shown next to each post link in Today's posts."
+  "version": "1.0.17",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.17.zip",
+  "sha256": "80f29618a655b962f6d41b397841e942e3d548a43d7499f47dda2107b2d8a66f",
+  "sig": "pr9Z2cocZaPMRxrEUK5n7oK2SeZl6pTpZkYIuKFYrLAQU8s0M+4mybp2oZj5AJ6PvKcE0DgcvcfRUVAgYxAeCw==",
+  "notes": "24/7: the same post is never serviced twice any more - the reaction summary ('You and N others') no longer leaks into the post's identity, and every new post is checked against Facebook's real post id (Copy Link gives a new link each time); a failed reaction change on an already-reacted account now counts its existing reaction instead of failing."
 }
