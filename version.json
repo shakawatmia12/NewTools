@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.10.zip",
-  "sha256": "0229dd35ac801bf73996b81f281e9c54808f3d1dceb31d5218f6d816a8a080b9",
-  "sig": "s8NYISNs6kVQOfLyDPe4ZwiyPT/B9pQ10t+JHxAw2//jmGPYEbIILhllF2JyC7Q7zSSM9ZqnKEm/Z3tq/0rsBQ==",
-  "notes": "24/7 servicing reliability: the AI now gets the FULL post caption (See more expanded) instead of the feed's cut text; every photo/video of a multi-media post is fetched with multi-layer download fallback and a post whose media can't be fetched is never asked as text-only; AI asks always go to the user's own Gemini link (skeleton-page wait fix, reply detection by unique tag); already-seen posts are no longer re-detected as new when only their time label/caption/image reading drifts; a shared-state race that left finished posts showing in_progress is fixed; the Facebook Accounts Center 'Confirm your accounts' wall is answered automatically; dead accounts are auto-removed from the servicing list; share/react/comment counts are real and shortfalls are retried."
+  "version": "1.0.11",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.11.zip",
+  "sha256": "ef84392be627cbf7723677f60dfc5c4189dda4d7058a84ba1fa9c2bc7248cb94",
+  "sig": "bFk4rG4nU/oULVhENz82km2qKdUkAoHV+ea30jR4p3Pelw8JXlcxmxshxxOK9CDVBp08TyUlIWPXRy7R0C4XAQ==",
+  "notes": "Smart VPN (Config Proxy): detects a dead VPN server even when Android still shows 'connected' (reads OpenVPN's own status) and switches to a working config automatically; checks the EXACT config that is connected; waits smartly for the VPN handshake instead of a fixed timer (no more good configs wrongly quarantined); never blames a config when the phone's own Wi-Fi/network is down; waits for a rebooting phone to finish booting; never breaks a tunnel OpenVPN is already reconnecting by itself; Switch Profile waits for a busy phone instead of skipping it; tasks only start when the VPN really carries traffic; fixed a crash when closing the Config Proxy window; far fewer warnings (only real problems are shown)."
 }
