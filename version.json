@@ -1,7 +1,7 @@
 {
-  "version": "1.0.30",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.30.zip",
-  "sha256": "46248861b0ded93217c3844b6fb1c55f2b30c8f9efe5c24d3a8cb667a56c5ff2",
-  "sig": "2Nc35fzHhzbgrFSs8U6udXxzjdA4uEAwL1PAANuKikznFDNmaTxpGBYWut1zdf9Ve/qMUvHFGDJwt6Wc4xiHCw==",
-  "notes": "UI never freezes during 24/7 servicing (file reads/status off the UI thread, freeze watchdog), AI caption no longer takes the comment box text"
+  "version": "1.0.31",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.31.zip",
+  "sha256": "be15dbb9508d2a16fdaeb38840459184e10755751346053bc9d35938df283a98",
+  "sig": "lrN2AaP+k92WGywcsSQX5Vjyh3Bt08HEMtzyOc/QowKk4i5bCzEbjOEM1UooMj2XnRg3dZimNaENZpk5GiGICQ==",
+  "notes": "24/7 service status now shows the real number of pages being watched"
 }
