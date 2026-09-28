@@ -1,7 +1,7 @@
 {
-  "version": "1.0.32",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.32.zip",
-  "sha256": "7e6498d08e9505f088089adc6308e0f22276f3bc4a610413f8ddf238654a34eb",
-  "sig": "30RKvUs6yoZHk7i7lFhD2CaCj8dskS78NnA7cu+quHEKhXR/HG3FlM8Hev/PYy62TrE997zZtvVo0ZZsb3IgBA==",
-  "notes": "ADB Account Info: Device column, auto profile folders, Check Login with auto relogin; OMOCaptcha moved to Global Settings"
+  "version": "1.0.33",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.33.zip",
+  "sha256": "443d6031a52e9251174ea1df235058e7f45f33169e26b4a7fc1f15a3deb6b77c",
+  "sig": "nbWJzNMPnMnzUD7l8klIe1JceiouJfLxHfPHTz9V15HMRJJ9mrZaxr8bgLMHYYEXCwmmDigSmhV/UWinsRFJBA==",
+  "notes": "ADB Check Login: wrong account logged in on a profile is logged out and the set account logged in; 2FA login fixed on phones"
 }
