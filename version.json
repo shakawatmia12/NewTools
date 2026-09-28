@@ -1,7 +1,7 @@
 {
-  "version": "1.0.25",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.25.zip",
-  "sha256": "80369ff775fe251a7179ce359818151b01da2f68b1cb145b15a4f7776c368acb",
-  "sig": "XQnnkyT2SQu4Iygmr7LB91LJSZXLrVx4kzK2JBeeeMiyVfIWSDDd0DirrARc5i9rB58F5Q3Msma6dn7MZrhmCg==",
-  "notes": "Logged-out detection in any language (c_user cookie): logged-out scraper accounts are rotated out, no language switch attempt on logged-out pages"
+  "version": "1.0.26",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.26.zip",
+  "sha256": "a853384003df658f312558069e8fddfc30025b24799959c113da782a68466f5d",
+  "sig": "BDg9BIxAN4p0WmaXFhev9du3K12NCjqL3TjupVnUfaWANSEGYLsdRIGEhehtYp1uUtGu4KVWKO4oMOXplQQaCw==",
+  "notes": "Page scraping never uses checkpoint/locked/disabled/proxy-dead accounts; logged-in accounts first (by reliability), logged-out only as last resort with relogin; logged-out detection in any language"
 }
