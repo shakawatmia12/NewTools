@@ -1,7 +1,7 @@
 {
-  "version": "1.0.21",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.21.zip",
-  "sha256": "c92c83fb2aa6f75762c71395a3f417ff22c6934336d1c23c1aaae802d62bb322",
-  "sig": "O49I0pLQAG6gFNkDXSw6UAOsQxqd0dc4ZN7j0DTvNpHoUPNfuhR2Vh6FCQW/gEVKcf2+dztZQ1eWFcrVy6/uAQ==",
-  "notes": "Power-cut safety extended: the license file is written safely and restored from its backup if damaged (an unattended PC won't ask for activation again), Chrome profile Preferences are written safely and never overwritten when unreadable (no more profile settings reset), and a missing Account Info file is brought back from its last good copy instead of starting empty."
+  "version": "1.0.22",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.22.zip",
+  "sha256": "aa9aa6151e940297a0b4491142409cf1a043a071bbafe28ffe132597a037808e",
+  "sig": "A6giQueSiP54S47qo/1+QZay30iCaA8NrgSz1VA6uRmBDZheHygEc6JDihqsHdO7MDpjbIVag2HIBY2Qx5r5Cg==",
+  "notes": "Comment and Share buttons are now found two independent ways: by their label, and - if Facebook renames the label or the UI isn't English - by Facebook's own built-in button markers (same approach the Like button already had). Tested live with every label lookup switched off: comment and share still landed."
 }
