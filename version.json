@@ -1,7 +1,7 @@
 {
-  "version": "1.0.26",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.26.zip",
-  "sha256": "a853384003df658f312558069e8fddfc30025b24799959c113da782a68466f5d",
-  "sig": "BDg9BIxAN4p0WmaXFhev9du3K12NCjqL3TjupVnUfaWANSEGYLsdRIGEhehtYp1uUtGu4KVWKO4oMOXplQQaCw==",
-  "notes": "Page scraping never uses checkpoint/locked/disabled/proxy-dead accounts; logged-in accounts first (by reliability), logged-out only as last resort with relogin; logged-out detection in any language"
+  "version": "1.0.27",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.27.zip",
+  "sha256": "8a7467de6716d42f738e142f281f47b5d67d0edba26fbaac727222a3004f7fbc",
+  "sig": "wF7bS4XgtmAboj/yDyhxSXPghrrxFelFPXYqM3iyLP9XqjfqN94+RYM5HG3JS7AKmujgq+1eMMm5aHRQPKJqCw==",
+  "notes": "Window cap counts real open Chrome windows (scraper/closing/extra windows included); comment typing verified and focus-guarded - no half-typed comments"
 }
