@@ -1,7 +1,7 @@
 {
-  "version": "1.0.31",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.31.zip",
-  "sha256": "be15dbb9508d2a16fdaeb38840459184e10755751346053bc9d35938df283a98",
-  "sig": "lrN2AaP+k92WGywcsSQX5Vjyh3Bt08HEMtzyOc/QowKk4i5bCzEbjOEM1UooMj2XnRg3dZimNaENZpk5GiGICQ==",
-  "notes": "24/7 service status now shows the real number of pages being watched"
+  "version": "1.0.32",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.32.zip",
+  "sha256": "7e6498d08e9505f088089adc6308e0f22276f3bc4a610413f8ddf238654a34eb",
+  "sig": "30RKvUs6yoZHk7i7lFhD2CaCj8dskS78NnA7cu+quHEKhXR/HG3FlM8Hev/PYy62TrE997zZtvVo0ZZsb3IgBA==",
+  "notes": "ADB Account Info: Device column, auto profile folders, Check Login with auto relogin; OMOCaptcha moved to Global Settings"
 }
