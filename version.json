@@ -1,7 +1,7 @@
 {
-  "version": "1.0.28",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.28.zip",
-  "sha256": "a771798b767fdfc211f848735042296da7df56a8019e2e4508a78068f70d10d8",
-  "sig": "4EhbYnxNtdJP2cNDbzO8qOkTch0adl6KgtJJRECqngCcmuz9AySMDcrBzerDKGMzK8BVh+NcSFIYr4QAA4vYCQ==",
-  "notes": "Fixes 1.0.27 comment typing crash; comment_fail files deleted when the account's task ends (all cleared at app start); update-failed message fix"
+  "version": "1.0.29",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.29.zip",
+  "sha256": "e8fdd5a0b8e778a92fdb714e82e85c8295bec95ed9048616e2460eab9ba75347",
+  "sig": "Vb6QNTCvZMSv8OwAF/V57xa0HjhQ9lSPuibnLxq5QSrZhkNVtBbisCCGGytc+IgDx483kYJrJFDrf5nrEfmkDQ==",
+  "notes": "Window cap exact: scraping window counted on top of servicing slots (live system test: max 3 of cap 3, 0 over)"
 }
