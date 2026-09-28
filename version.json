@@ -1,7 +1,7 @@
 {
-  "version": "1.0.27",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.27.zip",
-  "sha256": "8a7467de6716d42f738e142f281f47b5d67d0edba26fbaac727222a3004f7fbc",
-  "sig": "wF7bS4XgtmAboj/yDyhxSXPghrrxFelFPXYqM3iyLP9XqjfqN94+RYM5HG3JS7AKmujgq+1eMMm5aHRQPKJqCw==",
-  "notes": "Window cap counts real open Chrome windows (scraper/closing/extra windows included); comment typing verified and focus-guarded - no half-typed comments"
+  "version": "1.0.28",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.28.zip",
+  "sha256": "a771798b767fdfc211f848735042296da7df56a8019e2e4508a78068f70d10d8",
+  "sig": "4EhbYnxNtdJP2cNDbzO8qOkTch0adl6KgtJJRECqngCcmuz9AySMDcrBzerDKGMzK8BVh+NcSFIYr4QAA4vYCQ==",
+  "notes": "Fixes 1.0.27 comment typing crash; comment_fail files deleted when the account's task ends (all cleared at app start); update-failed message fix"
 }
