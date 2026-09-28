@@ -1,7 +1,7 @@
 {
-  "version": "1.0.17",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.17.zip",
-  "sha256": "80f29618a655b962f6d41b397841e942e3d548a43d7499f47dda2107b2d8a66f",
-  "sig": "pr9Z2cocZaPMRxrEUK5n7oK2SeZl6pTpZkYIuKFYrLAQU8s0M+4mybp2oZj5AJ6PvKcE0DgcvcfRUVAgYxAeCw==",
-  "notes": "24/7: the same post is never serviced twice any more - the reaction summary ('You and N others') no longer leaks into the post's identity, and every new post is checked against Facebook's real post id (Copy Link gives a new link each time); a failed reaction change on an already-reacted account now counts its existing reaction instead of failing."
+  "version": "1.0.18",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.18.zip",
+  "sha256": "458fc694e8ce6ed788a67a368daadcb337eb0407540fd1ef68789d407b06e31c",
+  "sig": "6hpLteh+PdL7/YDHVHR0qM4tmTHHDF19dthXhnP7CNyipnMHN0Xq00CIGlq3oWlZj1zA8x1CUdTViB919Qm6Aw==",
+  "notes": "Data safety: all data files are written atomically (never half-written), no account can vanish from Account Info except by a real delete, grid edits only write the cells you changed, full data backups at startup / every 6h / before every update, and a startup check offers to restore accounts or 24/7 pages that suddenly went missing. 24/7: accounts are only auto-removed after a relogin really failed and are put back automatically once they work again; Copy Link is cross-checked against the post's own id."
 }
