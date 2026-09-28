@@ -1,7 +1,7 @@
 {
-  "version": "1.0.19",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.19.zip",
-  "sha256": "1372b138f0a43dd1b139786b66d79d93ad6ec43faab8370a4b2711f956623d4b",
-  "sig": "YlD9v5QPnXc7i/Xy05hykCfe1jLpvC94dt4kIEyXMz/mkrP1+qLSa1GTrzXStjsIs8xq2LW15g5TgmJT8DS2AA==",
-  "notes": "Power-cut safe data: saves go straight to disk (write-through) and a file damaged by a sudden power-off/restart is detected and restored automatically at startup (no dialog, so an unattended 24/7 PC resumes on its own). Deletions you make are remembered and never brought back by a restore. Backups are also mirrored to Documents\\ADBAutomation Data Backups so a new install folder can recover everything. Chrome opens exactly one window on the last Facebook page (no more double windows from session restore)."
+  "version": "1.0.20",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.20.zip",
+  "sha256": "be47692c29a242ef494c0939e1b271c01afbbee7a53f359778f038449a7405a1",
+  "sig": "fGldTQcSL68MknThAOJin1z5bD4X+1skpeyznd5DrtnaFvCoZDKDuo6m/bJC7sefZvcH/MNClwAo2hhRklS2BQ==",
+  "notes": "24/7 service: posts now keep going until the target is met - after the normal retries, up to 3 top-up rounds hand whatever is still missing to the most reliable unused accounts (one account can take reaction+comment+share at once). Every account's track record is kept; accounts that keep failing are used last and rest for 6 h after 4 failures in a row. Comment check fixed: short/emoji comments (e.g. a heart) were posted but reported as failed, which made retries add extra comments - now confirmed by the account's own new comment appearing, and comment attempts per post are capped."
 }
