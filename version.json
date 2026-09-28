@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.18.zip",
-  "sha256": "458fc694e8ce6ed788a67a368daadcb337eb0407540fd1ef68789d407b06e31c",
-  "sig": "6hpLteh+PdL7/YDHVHR0qM4tmTHHDF19dthXhnP7CNyipnMHN0Xq00CIGlq3oWlZj1zA8x1CUdTViB919Qm6Aw==",
-  "notes": "Data safety: all data files are written atomically (never half-written), no account can vanish from Account Info except by a real delete, grid edits only write the cells you changed, full data backups at startup / every 6h / before every update, and a startup check offers to restore accounts or 24/7 pages that suddenly went missing. 24/7: accounts are only auto-removed after a relogin really failed and are put back automatically once they work again; Copy Link is cross-checked against the post's own id."
+  "version": "1.0.19",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.19.zip",
+  "sha256": "1372b138f0a43dd1b139786b66d79d93ad6ec43faab8370a4b2711f956623d4b",
+  "sig": "YlD9v5QPnXc7i/Xy05hykCfe1jLpvC94dt4kIEyXMz/mkrP1+qLSa1GTrzXStjsIs8xq2LW15g5TgmJT8DS2AA==",
+  "notes": "Power-cut safe data: saves go straight to disk (write-through) and a file damaged by a sudden power-off/restart is detected and restored automatically at startup (no dialog, so an unattended 24/7 PC resumes on its own). Deletions you make are remembered and never brought back by a restore. Backups are also mirrored to Documents\\ADBAutomation Data Backups so a new install folder can recover everything. Chrome opens exactly one window on the last Facebook page (no more double windows from session restore)."
 }
