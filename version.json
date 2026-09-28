@@ -1,7 +1,7 @@
 {
-  "version": "1.0.22",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.22.zip",
-  "sha256": "aa9aa6151e940297a0b4491142409cf1a043a071bbafe28ffe132597a037808e",
-  "sig": "A6giQueSiP54S47qo/1+QZay30iCaA8NrgSz1VA6uRmBDZheHygEc6JDihqsHdO7MDpjbIVag2HIBY2Qx5r5Cg==",
-  "notes": "Comment and Share buttons are now found two independent ways: by their label, and - if Facebook renames the label or the UI isn't English - by Facebook's own built-in button markers (same approach the Like button already had). Tested live with every label lookup switched off: comment and share still landed."
+  "version": "1.0.23",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.23.zip",
+  "sha256": "0a6ab3fb228620a9c6deffc22764c3dd22083e0bfc368f00ed0c1ba9ce05ee5c",
+  "sig": "+UXmBXsMP4sB7ZF8ypEHpYVWd/ARLbom6zTwbsJw3pcbPgW/Gss3QiSnyfuYut65z1iCnLQWgtdO5sFTdWa0BA==",
+  "notes": "Every account is kept in English automatically: if an account's Facebook is in another language (Bangla etc.) it is switched to English (US) before any work, now with a second, slower retry and a real check that the page is English afterwards. Tested live: a Bangla account was switched in 7 s and then commented and shared normally."
 }
