@@ -1,7 +1,7 @@
 {
-  "version": "1.0.20",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.20.zip",
-  "sha256": "be47692c29a242ef494c0939e1b271c01afbbee7a53f359778f038449a7405a1",
-  "sig": "fGldTQcSL68MknThAOJin1z5bD4X+1skpeyznd5DrtnaFvCoZDKDuo6m/bJC7sefZvcH/MNClwAo2hhRklS2BQ==",
-  "notes": "24/7 service: posts now keep going until the target is met - after the normal retries, up to 3 top-up rounds hand whatever is still missing to the most reliable unused accounts (one account can take reaction+comment+share at once). Every account's track record is kept; accounts that keep failing are used last and rest for 6 h after 4 failures in a row. Comment check fixed: short/emoji comments (e.g. a heart) were posted but reported as failed, which made retries add extra comments - now confirmed by the account's own new comment appearing, and comment attempts per post are capped."
+  "version": "1.0.21",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.0.21.zip",
+  "sha256": "c92c83fb2aa6f75762c71395a3f417ff22c6934336d1c23c1aaae802d62bb322",
+  "sig": "O49I0pLQAG6gFNkDXSw6UAOsQxqd0dc4ZN7j0DTvNpHoUPNfuhR2Vh6FCQW/gEVKcf2+dztZQ1eWFcrVy6/uAQ==",
+  "notes": "Power-cut safety extended: the license file is written safely and restored from its backup if damaged (an unattended PC won't ask for activation again), Chrome profile Preferences are written safely and never overwritten when unreadable (no more profile settings reset), and a missing Account Info file is brought back from its last good copy instead of starting empty."
 }
