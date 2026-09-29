@@ -1,7 +1,7 @@
 {
-  "version": "1.0.37",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.37.zip",
-  "sha256": "5ee1ac72f81a934d47500361830d15a65f04b1bf16bc692b5d0adfdfffb04e23",
-  "sig": "/ucvN3S3bGaDJgEfslJdQQsx7XhIK9gbQgdoC4RIgdmHy4mZErMwA6VG/aqhvquaxPuE2a1rCkgfRPf1I21fDQ==",
-  "notes": "Smart login pacing (Too many attempts cooldown, wrong-password memory), 2FA fresh-code retry, stuck-phone auto reboot, portrait lock, confirm-account/human-check detection, Facebook new Like/Share labels (react verified), name reading fix"
+  "version": "1.0.38",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.38.zip",
+  "sha256": "3ea2b1f082df15bcb908b7227d1c35d78150e78a5a42aaecd98e6ac7fc2ae24e",
+  "sig": "irMCyoIWP9qHPzbpRik7Xo84Ay17wRn0iooler/TZ4HyCj/kWpfWHgiOsBqnIVxrA8pgiAC3zqz0hUSfsGhUAg==",
+  "notes": "Browser: CAPTCHA now solved automatically (reCAPTCHA puzzles step by step, retries), no more 'Playwright Sync API' error when opening browsers, no 100s wait after an already-finished login, 2FA loading/remember-browser pages handled, instant OMOCaptcha key setup, less log spam. ADB: Read Notification recognizes the new page and no endless loop, phones stay portrait (monkey auto-rotate bug), Add Friend by UID detects the new 'request is on the way' sheet, Suggestions reports 'no suggestions' correctly, checkpoint marks the account unhealthy."
 }
