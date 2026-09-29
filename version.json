@@ -1,7 +1,7 @@
 {
-  "version": "1.0.35",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.35.zip",
-  "sha256": "9a6facf93459f96dfff73e5b9e2886fd0685894457291b3d605cc41a74c46c81",
-  "sig": "Sm7EsXtYUMtzlVJzG+FtIur4K7gDKdDn1ZD17quJ8PicW5jQ5r1Y1a4SzPt5Jsb91poqfoLVLayKyBGYpawzBA==",
-  "notes": "ADB: smart VPN guard (verifies VPN before every task, stops the task if VPN drops, no more connect-disconnect-connect); Check Login reads names reliably, recognises 'Confirm this is your account', never logs out the right account; Profile column shows login on device. Captcha: waits for the picture before solving, retries OMOCaptcha job failures. AI (Gemini): detects Gemini's own error replies and uses Redo in the same chat, waits for the full answer, recovers a closed tab."
+  "version": "1.0.36",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.36.zip",
+  "sha256": "e17af8f198fbbe39004e7cf3fee055893b3ffb9ff16fda9752943a9302bc4d69",
+  "sig": "nqJwO1JbHOlxHcEVQGQRUs9+AihWiOxQSy33jfBR6RFSx8J+XUSoNE/CikmfLiARONf8EQMx9j8YvUAh6B9uCQ==",
+  "notes": "Background Facebook on other profiles no longer uses the real IP; wrong names fixed; Facebook warnings (automated behavior, language, profile update) handled; suspended/flagged accounts reported clearly; captcha retry and login form fixes; screenshots saved for unclear results"
 }
