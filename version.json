@@ -1,7 +1,7 @@
 {
-  "version": "1.0.38",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.38.zip",
-  "sha256": "3ea2b1f082df15bcb908b7227d1c35d78150e78a5a42aaecd98e6ac7fc2ae24e",
-  "sig": "irMCyoIWP9qHPzbpRik7Xo84Ay17wRn0iooler/TZ4HyCj/kWpfWHgiOsBqnIVxrA8pgiAC3zqz0hUSfsGhUAg==",
-  "notes": "Browser: CAPTCHA now solved automatically (reCAPTCHA puzzles step by step, retries), no more 'Playwright Sync API' error when opening browsers, no 100s wait after an already-finished login, 2FA loading/remember-browser pages handled, instant OMOCaptcha key setup, less log spam. ADB: Read Notification recognizes the new page and no endless loop, phones stay portrait (monkey auto-rotate bug), Add Friend by UID detects the new 'request is on the way' sheet, Suggestions reports 'no suggestions' correctly, checkpoint marks the account unhealthy."
+  "version": "1.0.39",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.39.zip",
+  "sha256": "d264550c239bdaa7016bfe0ca909c378493377ecc2b5c13c84423ce4f5853cc7",
+  "sig": "HEDzAel5JZVzeTWLkema5pXL8xLLTcr4RhC+1etCme6DS8QeWMwFqMD4SHws5AfXST2gxwwxuJr9HeQhaQDACA==",
+  "notes": "Action-block guard on every ADB task (stops on 'You Can't Use This Feature Right Now', 24h rest), Read Notification new layout + faster, Add by UID end-of-list/no-friends seeds, browser login: empty-form re-entry, Google-verify wall, Arkose progress wait, reCAPTCHA reload, proxy-timeout reason"
 }
