@@ -1,7 +1,7 @@
 {
-  "version": "1.0.33",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.33.zip",
-  "sha256": "443d6031a52e9251174ea1df235058e7f45f33169e26b4a7fc1f15a3deb6b77c",
-  "sig": "nbWJzNMPnMnzUD7l8klIe1JceiouJfLxHfPHTz9V15HMRJJ9mrZaxr8bgLMHYYEXCwmmDigSmhV/UWinsRFJBA==",
-  "notes": "ADB Check Login: wrong account logged in on a profile is logged out and the set account logged in; 2FA login fixed on phones"
+  "version": "1.0.35",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.35.zip",
+  "sha256": "9a6facf93459f96dfff73e5b9e2886fd0685894457291b3d605cc41a74c46c81",
+  "sig": "Sm7EsXtYUMtzlVJzG+FtIur4K7gDKdDn1ZD17quJ8PicW5jQ5r1Y1a4SzPt5Jsb91poqfoLVLayKyBGYpawzBA==",
+  "notes": "ADB: smart VPN guard (verifies VPN before every task, stops the task if VPN drops, no more connect-disconnect-connect); Check Login reads names reliably, recognises 'Confirm this is your account', never logs out the right account; Profile column shows login on device. Captcha: waits for the picture before solving, retries OMOCaptcha job failures. AI (Gemini): detects Gemini's own error replies and uses Redo in the same chat, waits for the full answer, recovers a closed tab."
 }
