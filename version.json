@@ -1,7 +1,7 @@
 {
-  "version": "1.0.36",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.36.zip",
-  "sha256": "e17af8f198fbbe39004e7cf3fee055893b3ffb9ff16fda9752943a9302bc4d69",
-  "sig": "nqJwO1JbHOlxHcEVQGQRUs9+AihWiOxQSy33jfBR6RFSx8J+XUSoNE/CikmfLiARONf8EQMx9j8YvUAh6B9uCQ==",
-  "notes": "Background Facebook on other profiles no longer uses the real IP; wrong names fixed; Facebook warnings (automated behavior, language, profile update) handled; suspended/flagged accounts reported clearly; captcha retry and login form fixes; screenshots saved for unclear results"
+  "version": "1.0.37",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.37.zip",
+  "sha256": "5ee1ac72f81a934d47500361830d15a65f04b1bf16bc692b5d0adfdfffb04e23",
+  "sig": "/ucvN3S3bGaDJgEfslJdQQsx7XhIK9gbQgdoC4RIgdmHy4mZErMwA6VG/aqhvquaxPuE2a1rCkgfRPf1I21fDQ==",
+  "notes": "Smart login pacing (Too many attempts cooldown, wrong-password memory), 2FA fresh-code retry, stuck-phone auto reboot, portrait lock, confirm-account/human-check detection, Facebook new Like/Share labels (react verified), name reading fix"
 }
