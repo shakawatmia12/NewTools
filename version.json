@@ -1,7 +1,7 @@
 {
-  "version": "1.0.50",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.50.zip",
-  "sha256": "8cee32126f683bced9f6435fed3b9484215078847b4eb37f5fce9aa73708b751",
-  "sig": "3T+pIjlw2kKM3k0aWjOwyE9RcPXXlKTqK1O15Z4xks0lHybNcx0ncOVLa1xg9x5KoLjVDqw0crRiSaGP3kg9DA==",
-  "notes": "Smart wall detection from MaxCare's 2598 saved pages (disabled/suspended/locked named correctly, locked -> auto-unlock, Trust-device fixed, consent pages passed), screen+button picture library (MaxPhone+MaxCare built in), OpenCV fallback, login in-app proof"
+  "version": "1.0.51",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.51.zip",
+  "sha256": "b3ddec77a321da4c2009a0c8d98779129d4f250c45f08b65b665f9fcaf3a4bc3",
+  "sig": "u2qoNnLjakGDATji6YgGuqz+e17PSVXxHn4QbLdQ0wTABQzxNtiuF8Ft9gT1d8R9DsOqJZ4ICaUsRI1hTqXJDQ==",
+  "notes": "MaxCare+MaxPhone deep pass: wrong-password page no longer reported as unknown ID; phone+browser now stop on 'You Can't Use Reactions', 'You can't post in groups', 'Your account is restricted' (popup OK never hides them); v1.0.50 wall detection + consent pages"
 }
