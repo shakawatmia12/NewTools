@@ -1,7 +1,7 @@
 {
-  "version": "1.0.51",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.51.zip",
-  "sha256": "b3ddec77a321da4c2009a0c8d98779129d4f250c45f08b65b665f9fcaf3a4bc3",
-  "sig": "u2qoNnLjakGDATji6YgGuqz+e17PSVXxHn4QbLdQ0wTABQzxNtiuF8Ft9gT1d8R9DsOqJZ4ICaUsRI1hTqXJDQ==",
-  "notes": "MaxCare+MaxPhone deep pass: wrong-password page no longer reported as unknown ID; phone+browser now stop on 'You Can't Use Reactions', 'You can't post in groups', 'Your account is restricted' (popup OK never hides them); v1.0.50 wall detection + consent pages"
+  "version": "1.0.52",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.52.zip",
+  "sha256": "c1795371f2ff4117767549c48db88afc0814de65c882747e3c38745100ce478d",
+  "sig": "1VMyp+geHnJ40Ey88nAajiTohqV1EYkz/3601MJ03FeIv5B4jttYz1tZfgg1lWBJATMryDkG3RdIdkfmpTlcDw==",
+  "notes": "Account Info no longer shows 'logged_out' next to an old 'Login: Success'; reaction change re-verified live (Care->Angry->Love same post); includes v1.0.50-51 smart wall detection + MaxPhone block screens"
 }
