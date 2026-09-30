@@ -1,7 +1,7 @@
 {
-  "version": "1.0.49",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.49.zip",
-  "sha256": "05ffd44a624ee76767926d04a886eaf32f7d591fa73023e23ea62927497804b3",
-  "sig": "RdBjnA9gZhshdFvaYA5Efv7VAOcp3tbRbsDpbv06w5e3ZAKKQdj5Q98kckbN+s5i/buFhqA0YxtMdNvgyqvJBg==",
-  "notes": "Browser login: 'Check your notifications on another device' now goes Try another way -> Authentication app -> Continue -> 2FA code (no reload loop); Arkose puzzle arrows/submit found in nested frames"
+  "version": "1.0.50",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.50.zip",
+  "sha256": "8cee32126f683bced9f6435fed3b9484215078847b4eb37f5fce9aa73708b751",
+  "sig": "3T+pIjlw2kKM3k0aWjOwyE9RcPXXlKTqK1O15Z4xks0lHybNcx0ncOVLa1xg9x5KoLjVDqw0crRiSaGP3kg9DA==",
+  "notes": "Smart wall detection from MaxCare's 2598 saved pages (disabled/suspended/locked named correctly, locked -> auto-unlock, Trust-device fixed, consent pages passed), screen+button picture library (MaxPhone+MaxCare built in), OpenCV fallback, login in-app proof"
 }
