@@ -1,7 +1,7 @@
 {
-  "version": "1.0.55",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.55.zip",
-  "sha256": "d37bfa56a4c4b47258f92ac84ae8e23ed0a8dd40b23ae188e464288ad3223b6d",
-  "sig": "iwc/pJSFBGWAUVlqL3mDeP9pwRMNzsgzZ4Bv1kHtMs7jph7WOxNZolwoihogRJ4tJuH4AFiTt+8MQ5jFv9jPCQ==",
-  "notes": "Picture fallback: a button's proven picture is tapped only when its text is missing (self-verified, never destructive); every browser wall kept under its own name"
+  "version": "1.0.56",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.56.zip",
+  "sha256": "7db776e9168d73f4fb2bc0bcefd4bec648c9c1edd2e3076ace0f012f4b5dba6c",
+  "sig": "MW4TBskA7BwiLy+oxn/cjgfmiknOPjM+6Qpk6nX8Y9figPsgQB6mwn+qxmfClcNRP6zUsROwFZ+9EgAZS9RvDQ==",
+  "notes": "Reactions: verifies the exact reaction landed (wrong one is re-picked), never a plain tap on an already-reacted post; picture fallback can't prove itself with its own tap"
 }
