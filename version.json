@@ -1,7 +1,7 @@
 {
-  "version": "1.0.54",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.54.zip",
-  "sha256": "d713dd4005ebc6355c5340e12670f5da37f50712c8d1b5bdfbc4d73cd3e4797b",
-  "sig": "nBbkP50oQeHEb+kKf8RPNR9kVF3bZFSOZt2yqNTxPVHteIZ+YO/bibOrLiNaURfwpcatHYdZRk/1MUr7kg2iCQ==",
-  "notes": "Login failures after a passed CAPTCHA now say so (Facebook refusing, not wrong password); Account Info never shows an old success/proxy message next to logged_out; page-watch code hygiene"
+  "version": "1.0.55",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.55.zip",
+  "sha256": "d37bfa56a4c4b47258f92ac84ae8e23ed0a8dd40b23ae188e464288ad3223b6d",
+  "sig": "iwc/pJSFBGWAUVlqL3mDeP9pwRMNzsgzZ4Bv1kHtMs7jph7WOxNZolwoihogRJ4tJuH4AFiTt+8MQ5jFv9jPCQ==",
+  "notes": "Picture fallback: a button's proven picture is tapped only when its text is missing (self-verified, never destructive); every browser wall kept under its own name"
 }
