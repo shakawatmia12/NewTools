@@ -1,7 +1,7 @@
 {
-  "version": "1.0.56",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.56.zip",
-  "sha256": "7db776e9168d73f4fb2bc0bcefd4bec648c9c1edd2e3076ace0f012f4b5dba6c",
-  "sig": "MW4TBskA7BwiLy+oxn/cjgfmiknOPjM+6Qpk6nX8Y9figPsgQB6mwn+qxmfClcNRP6zUsROwFZ+9EgAZS9RvDQ==",
-  "notes": "Reactions: verifies the exact reaction landed (wrong one is re-picked), never a plain tap on an already-reacted post; picture fallback can't prove itself with its own tap"
+  "version": "1.0.57",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.57.zip",
+  "sha256": "1e119dd42e87aefeb34956f6ea241e360f66b2ae0f7a4656672cc6719998341c",
+  "sig": "5pjOFnbok+XtucFVN1TL0+9qJ/iMwrWRQV8HXa72biyz+u6B9ZXOjQfTL1JAZPFxOZmY2usP4svexmemaMMjAA==",
+  "notes": "Relogin screens (login form, 2FA, email code, CAPTCHA, wrong password, bounced) saved as pictures; proxy checker shows IP/country for proxies that block ip-api; 2FA picture name fix"
 }
