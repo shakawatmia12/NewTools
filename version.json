@@ -1,7 +1,7 @@
 {
-  "version": "1.0.42",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.42.zip",
-  "sha256": "34536cbb4bd7d36a7490d6721bd473e7921e53e90e9cbfef33329b96f4a26a3e",
-  "sig": "mz07+1RFRyfAgVS/bnxzQuzQGi3N3W68cIxfMdSEh19G8bKXhtRrq2KGq6KpM4CRKtbYI9tWKYOlcVCGa9N2CQ==",
-  "notes": "Browser: real account name (not managed Page name), 24/7 selection ignores deleted accounts; AI Setup + settings saved safely"
+  "version": "1.0.43",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.43.zip",
+  "sha256": "56deeb282ab2a25f2213e07e4ff5d647856e3dcbe54fcbbe23117be294e7b78d",
+  "sig": "FRaPV5pikTqnbo/yAXN/nAfHR5Ao84XR8vpZdS48Zs0N2POOVQiPR2UJdQZACuG7l9UcNX/0WBixdCKawNmNDA==",
+  "notes": "AI Ask: auto-accepts Gemini's video notice (Send was blocked 150s+), fails fast on unsent prompt; human-like comment prompt; 24/7: no AI ask when no usable account, one summary line for missing Chrome profiles, start-time check of selected accounts"
 }
