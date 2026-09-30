@@ -1,7 +1,7 @@
 {
-  "version": "1.0.52",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.52.zip",
-  "sha256": "c1795371f2ff4117767549c48db88afc0814de65c882747e3c38745100ce478d",
-  "sig": "1VMyp+geHnJ40Ey88nAajiTohqV1EYkz/3601MJ03FeIv5B4jttYz1tZfgg1lWBJATMryDkG3RdIdkfmpTlcDw==",
-  "notes": "Account Info no longer shows 'logged_out' next to an old 'Login: Success'; reaction change re-verified live (Care->Angry->Love same post); includes v1.0.50-51 smart wall detection + MaxPhone block screens"
+  "version": "1.0.53",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.53.zip",
+  "sha256": "0e62ce3dc263ab59e13e3ccf2676ef0d498b351370c85ce99391a676f5b8c3cd",
+  "sig": "nXNGFdqMJSkYfbgpGPNXizA1kaM0CV7Mbx6SjBPUG+LFcdfZhUeoPIWeqoLLwOq+Ge6nDgZjLJwa67VV/3bbCg==",
+  "notes": "Found from our own saved failures: curly apostrophe pages (isn't connected / You're logged in) now recognised; phone Check Login reads own-profile page as logged in and skips Facebook's 'technical problem' page at once"
 }
