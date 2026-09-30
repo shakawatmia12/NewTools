@@ -1,7 +1,7 @@
 {
-  "version": "1.0.45",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.45.zip",
-  "sha256": "11e751afb242c126e2e983eace1e78658505e46ba0874964b148609b079fdeb2",
-  "sig": "V2U/S4hKfSP3jN7m+tAvuS0U2rzkFlOjvSnIdneoEfzkM9ospgadqpmyR0Yc8T301pMNX8nXwqDDIeNd5SOCAw==",
-  "notes": "New: Resend Service button on every 24/7 target page - paste any number of that page's post links and they get react/comment/share by the page's own settings, with live status in the page card."
+  "version": "1.0.46",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.46.zip",
+  "sha256": "c20333ad0d9330165633367515c81d60ffc42756e753556e8bf1c821e0d3f9a8",
+  "sig": "W9ADfwGNmPWzpjUq6PKCOX3WvHkVwrwumUv71XPjfoI4c8wGBgrzfzTKGYr98zRDnyunLZFJ7shmQNoAUt/IBA==",
+  "notes": "Resend Service: share links resolved to the real post (duplicates serviced once), fresh accounts first on a post serviced before, target counts shown at once; reactions: change-to-Like on posts opened over the feed fixed, an already-present reaction is no longer thrown away"
 }
