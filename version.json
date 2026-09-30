@@ -1,7 +1,7 @@
 {
-  "version": "1.0.53",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.53.zip",
-  "sha256": "0e62ce3dc263ab59e13e3ccf2676ef0d498b351370c85ce99391a676f5b8c3cd",
-  "sig": "nXNGFdqMJSkYfbgpGPNXizA1kaM0CV7Mbx6SjBPUG+LFcdfZhUeoPIWeqoLLwOq+Ge6nDgZjLJwa67VV/3bbCg==",
-  "notes": "Found from our own saved failures: curly apostrophe pages (isn't connected / You're logged in) now recognised; phone Check Login reads own-profile page as logged in and skips Facebook's 'technical problem' page at once"
+  "version": "1.0.54",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.54.zip",
+  "sha256": "d713dd4005ebc6355c5340e12670f5da37f50712c8d1b5bdfbc4d73cd3e4797b",
+  "sig": "nBbkP50oQeHEb+kKf8RPNR9kVF3bZFSOZt2yqNTxPVHteIZ+YO/bibOrLiNaURfwpcatHYdZRk/1MUr7kg2iCQ==",
+  "notes": "Login failures after a passed CAPTCHA now say so (Facebook refusing, not wrong password); Account Info never shows an old success/proxy message next to logged_out; page-watch code hygiene"
 }
