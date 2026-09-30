@@ -1,7 +1,7 @@
 {
-  "version": "1.0.57",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.57.zip",
-  "sha256": "1e119dd42e87aefeb34956f6ea241e360f66b2ae0f7a4656672cc6719998341c",
-  "sig": "5pjOFnbok+XtucFVN1TL0+9qJ/iMwrWRQV8HXa72biyz+u6B9ZXOjQfTL1JAZPFxOZmY2usP4svexmemaMMjAA==",
-  "notes": "Relogin screens (login form, 2FA, email code, CAPTCHA, wrong password, bounced) saved as pictures; proxy checker shows IP/country for proxies that block ip-api; 2FA picture name fix"
+  "version": "1.0.58",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.58.zip",
+  "sha256": "f9eca79e42ebb6f2b44e88798dac70113f67048a4cc98093df197852c9e08c6a",
+  "sig": "SxA9BYs9mpTFKY3Uoer7uAAIqeq0SkpCYSY8yDhN7V9GrjOVht6BWyb/FRhjWZE23PrTiQnEipQfGbaev5LSAw==",
+  "notes": "Check Proxy warns when several accounts leave through the SAME exit IP (Facebook can link them); relogin screen pictures; proxy checker geo fallback"
 }
