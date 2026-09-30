@@ -1,7 +1,7 @@
 {
-  "version": "1.0.44",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.44.zip",
-  "sha256": "f17e66e23ea095dc240ddd120e8399eccfb8b0ba673ca164e8e21aea20ce85f3",
-  "sig": "EE+A47PjGMR4Te8vjOKa/iqsiCl796U0eRX0YEy4sSyeDZoDIkyvB27CewdDkAQ2OoWkxt++rtYPW+7S8dAlDQ==",
-  "notes": "reCAPTCHA on phones: 3x3, 'none left' and 4x4 puzzles solved (was: left for a person); smarter puzzle choice; ADB relogin: captcha checked before 'logged in', lock screen handled, 2FA retry guarded; browser solver no longer un-picks tiles"
+  "version": "1.0.45",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.45.zip",
+  "sha256": "11e751afb242c126e2e983eace1e78658505e46ba0874964b148609b079fdeb2",
+  "sig": "V2U/S4hKfSP3jN7m+tAvuS0U2rzkFlOjvSnIdneoEfzkM9ospgadqpmyR0Yc8T301pMNX8nXwqDDIeNd5SOCAw==",
+  "notes": "New: Resend Service button on every 24/7 target page - paste any number of that page's post links and they get react/comment/share by the page's own settings, with live status in the page card."
 }
