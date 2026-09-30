@@ -1,7 +1,7 @@
 {
-  "version": "1.0.41",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.41.zip",
-  "sha256": "4dc017140c41f0f625c9336a0cba504f1e9145212ff9fbbb51ea5918e7b25770",
-  "sig": "huGFNAeWOYm+sBiZTqQ1zS9g8DDtIiBuyAuixU/V2DKbdyGt+UbvR3v+SWOzw+3gDh8cqViuz3+c9O7AG4G9BA==",
-  "notes": "ADB: lock-screen detection, stuck-Android auto reboot, photo link open; Browser: account name vs page name, column sort fix, reCAPTCHA accuracy; AI Setup: new tabs no longer hang"
+  "version": "1.0.42",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.42.zip",
+  "sha256": "34536cbb4bd7d36a7490d6721bd473e7921e53e90e9cbfef33329b96f4a26a3e",
+  "sig": "mz07+1RFRyfAgVS/bnxzQuzQGi3N3W68cIxfMdSEh19G8bKXhtRrq2KGq6KpM4CRKtbYI9tWKYOlcVCGa9N2CQ==",
+  "notes": "Browser: real account name (not managed Page name), 24/7 selection ignores deleted accounts; AI Setup + settings saved safely"
 }
