@@ -1,7 +1,7 @@
 {
-  "version": "1.0.43",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.43.zip",
-  "sha256": "56deeb282ab2a25f2213e07e4ff5d647856e3dcbe54fcbbe23117be294e7b78d",
-  "sig": "FRaPV5pikTqnbo/yAXN/nAfHR5Ao84XR8vpZdS48Zs0N2POOVQiPR2UJdQZACuG7l9UcNX/0WBixdCKawNmNDA==",
-  "notes": "AI Ask: auto-accepts Gemini's video notice (Send was blocked 150s+), fails fast on unsent prompt; human-like comment prompt; 24/7: no AI ask when no usable account, one summary line for missing Chrome profiles, start-time check of selected accounts"
+  "version": "1.0.44",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.44.zip",
+  "sha256": "f17e66e23ea095dc240ddd120e8399eccfb8b0ba673ca164e8e21aea20ce85f3",
+  "sig": "EE+A47PjGMR4Te8vjOKa/iqsiCl796U0eRX0YEy4sSyeDZoDIkyvB27CewdDkAQ2OoWkxt++rtYPW+7S8dAlDQ==",
+  "notes": "reCAPTCHA on phones: 3x3, 'none left' and 4x4 puzzles solved (was: left for a person); smarter puzzle choice; ADB relogin: captcha checked before 'logged in', lock screen handled, 2FA retry guarded; browser solver no longer un-picks tiles"
 }
