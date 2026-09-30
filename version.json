@@ -1,7 +1,7 @@
 {
-  "version": "1.0.58",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.58.zip",
-  "sha256": "f9eca79e42ebb6f2b44e88798dac70113f67048a4cc98093df197852c9e08c6a",
-  "sig": "SxA9BYs9mpTFKY3Uoer7uAAIqeq0SkpCYSY8yDhN7V9GrjOVht6BWyb/FRhjWZE23PrTiQnEipQfGbaev5LSAw==",
-  "notes": "Check Proxy warns when several accounts leave through the SAME exit IP (Facebook can link them); relogin screen pictures; proxy checker geo fallback"
+  "version": "1.0.59",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.59.zip",
+  "sha256": "7236ede2411d0b88e2532e9b7aa7c9a042d6f54e4ae699a69766c527cf758784",
+  "sig": "5YZmEtXDa7s99C3ZH8Po9oFwB6x6R6V/sHaSUGGik/6+RNO96EBWxkl+uxumrMrhnVIZcmFdUxKVT0L8d9RLAw==",
+  "notes": "Phone fixes: reactions land exactly (tray position/order/direction), already-reacted posts get changed not skipped, long posts open (scroll to the buttons), reel reactions checked by picture, Home tab picture fixed, account-wall screens captured"
 }
