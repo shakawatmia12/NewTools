@@ -1,7 +1,7 @@
 {
-  "version": "1.0.40",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.40.zip",
-  "sha256": "43d424931e7bdd3d121886e36b873dc5accce6a6a86885c54db2fdb6f848b482",
-  "sig": "MHtka8R3p7IgGPdBXCwnE3ZGM8xurFSzkALGCD00FxPMotQgpQ7awbkFcij4F5OtI/xkL4hx1eUB0pUzTFrbBQ==",
-  "notes": "UI freeze fix (Account Info lock), faster account table refresh, reCAPTCHA 4x4 -> reload for clearer puzzle"
+  "version": "1.0.41",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.41.zip",
+  "sha256": "4dc017140c41f0f625c9336a0cba504f1e9145212ff9fbbb51ea5918e7b25770",
+  "sig": "huGFNAeWOYm+sBiZTqQ1zS9g8DDtIiBuyAuixU/V2DKbdyGt+UbvR3v+SWOzw+3gDh8cqViuz3+c9O7AG4G9BA==",
+  "notes": "ADB: lock-screen detection, stuck-Android auto reboot, photo link open; Browser: account name vs page name, column sort fix, reCAPTCHA accuracy; AI Setup: new tabs no longer hang"
 }
