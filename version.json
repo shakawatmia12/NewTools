@@ -1,7 +1,7 @@
 {
-  "version": "1.0.47",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.47.zip",
-  "sha256": "bc092decc176ad6d2107915392e0b8f37d9f4e7f3e3f7b7603c6f802701f1cc4",
-  "sig": "L8L3IrlUQKHe8f5I65aY8hld92bw7J/xHIO2UjodDJ3gdtP3gTnUBf/UwLIvaBt/8DwLb6V4TbgJ1kMX4I1GDQ==",
-  "notes": "Browser accounts are never opened twice at once: two posts serviced together (or a Resend beside the 24/7 service) no longer close each other's windows - a busy account is picked last and waited for; watchers skip accounts open elsewhere"
+  "version": "1.0.48",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.48.zip",
+  "sha256": "23a9090465ccd8707404504f664c562b99331b0755b4ef97279dbc02db72805f",
+  "sig": "ROcieCYnZrcCsbdXgUPGtgSNAh1npvXQlKGf2NH6PHUSRGZFcezi38V0N/qfJKG7Q1m/SA9lNA7YfhjCz6XpBA==",
+  "notes": "ADB servicing: reels work again on the new Reels viewer (count-style buttons, tray-only reaction verified by the count), results are counted only when really done (a link that never opened / a checkpointed account no longer shows as success, and gets a replacement); Check Login closes unknown popups instead of timing out"
 }
