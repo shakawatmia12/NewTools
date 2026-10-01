@@ -1,7 +1,7 @@
 {
-  "version": "1.0.65",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.65.zip",
-  "sha256": "85bb7782a7550e02a97bbd595774788628dcb6beceb6b0b9f3eb71bc323060f6",
-  "sig": "asWfFBa1lJ9dc4ZJzPqe550rzsmabE8BNGxbKmbnTUBE3WkxepShW4/AghdMSrwcRCmxcUnXIo/ECCMHFCZcBg==",
-  "notes": "Login-wall popups over the feed detected properly; Settings Close button no longer cut off; captcha/SIM polling more robust"
+  "version": "1.0.66",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.66.zip",
+  "sha256": "d659fba6f7c1f815ed073c973b585ab46447ce3f3581583f1c58c63f15548993",
+  "sig": "AWEYHTvlWZBEK6VEechOUvGNkUuBEK4g5ZrmNH6E1ISEExm2F0/7npC4L4cUPCZoKBjal7gPUa+g+ylJchOWAg==",
+  "notes": "Login-wall popup now judged by screen structure (no false relogin from post text); HeroSMS picks the cheapest in-stock country instead of Russia; captcha/SIM providers survive odd answers; balance check no longer reports garbage as OK"
 }
