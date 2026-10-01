@@ -1,7 +1,7 @@
 {
-  "version": "1.0.67",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.67.zip",
-  "sha256": "eb0a234cfabf7ac4d485b53cf5d1dc5bf53ad57d75b13192ca675a6dc28a14b9",
-  "sig": "mDJmyAgNKLtxN9yrhiPpWzL2oxfsBJCqy/0GjnlLI2aoxkrBlEF59WkdgiNFtdpyooIGVCJlGfdKXV4oGJYpCg==",
-  "notes": "Anti-Captcha added as captcha fallback (RockCaptcha service is offline); clearer provider Check errors"
+  "version": "1.0.68",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.68.zip",
+  "sha256": "2164a65096714e785e16c96decce0d720be8543467d35e97f54c0d9d47e0b4c3",
+  "sig": "kA6cYUy9qP3e/QBoSSS334juOTDWkzvzezbqH17QBkc4wtPpIdP1Wbume5Km1e4cbrnklryaCM7teND3UuFBCg==",
+  "notes": "Account Info - Browser/ADB: Search box (pick a column, type to filter) + Status filter dropdown. Browser login: a rejected 2FA code now waits for the next code instead of re-sending the same one."
 }
