@@ -1,7 +1,7 @@
 {
-  "version": "1.0.75",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.75.zip",
-  "sha256": "0286a32f9b32783031604626cc1c8acf73f76e45cf050f2b754a1714451f8407",
-  "sig": "VR+3yEMDryksw5+oH7H/EVkNnPAoeSl3nPrM/dS/VtcJ/vtCehTVghIGx2i8T4Qrsxpb6bjuFISUyAXBEg62Aw==",
-  "notes": "Phone actions: story shortcut popup handled (verified live), Join suggestion group via Groups-Discover + exact search (verified live), group welcome pages, join failure cap"
+  "version": "1.0.76",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.76.zip",
+  "sha256": "d8e1402c37fe58986fd0ec36fca272e51ce743b221250fd6b48c313ac3192364",
+  "sig": "FtB8hRPtrMD2i3gb0n5mo14PprHQ9kVZpp3iT4WEbiCVZldAoeQzL0BEF8ghq9LCn87EMIbv0X7Kn5Nwyz8zDQ==",
+  "notes": "Phone actions safety: join tap cap ignores bad links, invite never re-taps a row, group posts not confirmed counted honestly"
 }
