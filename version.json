@@ -1,7 +1,7 @@
 {
-  "version": "1.0.69",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.69.zip",
-  "sha256": "94dc38420bd9efe0dc12d4f6ef50661b42cee0dd8d744ac50769084b03f4ed41",
-  "sig": "TGwpcSKzZEGgpn6M2IHu+whseof1x41QlJBEKxcAqQkIi4rbTEG9UVEflfxBhAJz0U3/HP4yek4pbgYb4uUGBQ==",
-  "notes": "Account Info - Browser/ADB: Search box (pick a column, type to filter) + Status filter dropdown; a filtered view no longer leaves empty ghost rows. Browser login: a rejected 2FA code now waits for the next code instead of re-sending the same one."
+  "version": "1.0.70",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.70.zip",
+  "sha256": "7489852d80b7683ae8347c8c2b104817d719e41784bd57102e2d594a5915f980",
+  "sig": "sqyb95l4PapA/1Nh2qdsD17oGjbFNMnBWSzQ3uAvnOCCOp0u6i3rOMo9apLRL5kM9IxvaCluogkISsaGuYMRAA==",
+  "notes": "Account Info - Browser/ADB: Search box + Bulk search (paste many UIDs/emails, see which weren't found, tick the found ones) + Status filter incl. (No status). Browser login: a rejected 2FA code waits for the next code."
 }
