@@ -1,7 +1,7 @@
 {
-  "version": "1.0.74",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.74.zip",
-  "sha256": "e8af63ee8fd3c955ee0898200ae9ef147012a5f5582505a344b1059795fc0adb",
-  "sig": "988Z7rqdpbj7YqOiqpupfGT0PffBzSLWbtDpBuEWbPbxw06UrQIuIVUSutVtXq2ecjLtQJ2+pLG+fXCjxxEoAA==",
-  "notes": "Phone actions: no double posts after a 24/7 interruption, private-group join requests counted, story photo-access steps, stronger share/invite proof"
+  "version": "1.0.75",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.75.zip",
+  "sha256": "0286a32f9b32783031604626cc1c8acf73f76e45cf050f2b754a1714451f8407",
+  "sig": "VR+3yEMDryksw5+oH7H/EVkNnPAoeSl3nPrM/dS/VtcJ/vtCehTVghIGx2i8T4Qrsxpb6bjuFISUyAXBEg62Aw==",
+  "notes": "Phone actions: story shortcut popup handled (verified live), Join suggestion group via Groups-Discover + exact search (verified live), group welcome pages, join failure cap"
 }
