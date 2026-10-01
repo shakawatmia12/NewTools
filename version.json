@@ -1,7 +1,7 @@
 {
-  "version": "1.0.60",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.60.zip",
-  "sha256": "4c067e7fc068d4b9b491b9fb77d3139044315a6843cfa98cf7bee7ba4f5a599c",
-  "sig": "C3jREsTIlPovnpYA0LQ6O2ftvlwrzpiT1xRSBtsWt2+3hku+P+dpvDrAh0rk/mii7fjE9Jo88URpQtPxwWKVAw==",
-  "notes": "Share verified on timeline + caption read-back; 24/7 uses the right account per phone profile; picture library learns from every screen; automation-warning Dismiss kept by picture; logged-out link open reported at once"
+  "version": "1.0.61",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.61.zip",
+  "sha256": "e83307d91e7bcfaaac748a2c31100fd28aaad465dd93a2012eb2a57fd8b86c67",
+  "sig": "1dZLKcPd64Uu9VPAjsjxNCYGy+1GEL9o1DZpjV7VBMH8+3qpex5MTdZRLVPPkEVvmmYuE8h17wQTXdEQ3nxSCQ==",
+  "notes": "Recognise and handle Facebook's session-expired, open-app-again, forced new-password and data-usage screens during login (no more 8s unknown-screen stalls)."
 }
