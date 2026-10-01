@@ -72,3 +72,4 @@ update_v1.0.74.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.0.75.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.0.76.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.0.77.zip filter=lfs diff=lfs merge=lfs -text
+update_v1.0.78.zip filter=lfs diff=lfs merge=lfs -text

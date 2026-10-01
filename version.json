@@ -1,7 +1,7 @@
 {
-  "version": "1.0.77",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.77.zip",
-  "sha256": "d8a69f61a85f6c561e3f48bfcb6bfee017492d87689e270faa04fc05d8a97d39",
-  "sig": "NA83/D/CGRADakNlQUA+wTFGQlUXX6E7OV5RhSyiEvd5ufDbdUJrk595Lwxp/B4dqNJt1OehAC8FLoG2Six1DA==",
-  "notes": "Phone actions deep review: a Stop no longer loses or fails the item being opened, Invite never ticks Select all and handles scrolled rows, group post proof, Share group search focus, keyword join scroll count"
+  "version": "1.0.78",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.78.zip",
+  "sha256": "a0c4bbab8dcd534e96b77f4ee1797b636c7176c11c96332c2ffd004e481a84ed",
+  "sig": "gdZD7ZpiWdBF+L7MhXMxb7BNSy2g3iqXd/0gp1epvDmWkXbJxH5ynSzMUAZLSrv60iu3zq9idLVVST8PCxRACw==",
+  "notes": "Group posts can be shared (hidden share sheet found on screen), search tab guard"
 }
