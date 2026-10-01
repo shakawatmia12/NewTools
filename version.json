@@ -1,7 +1,7 @@
 {
-  "version": "1.0.63",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.63.zip",
-  "sha256": "849d6b0b70092b09ab96fb5e1a9ccdce8f768235ce94e43a82dddc9e648f9c33",
-  "sig": "9r63TAlcxOm9dct7EbeQ5qYl0xNjueV0xDQItOhpVv9bTeJTlIdBvX2XquJopTUMKJ+VoLrXsK0lkJPR5wQrDQ==",
-  "notes": "v1.0.63: captcha fallback now works even without an OMOCaptcha key (text/OCR via CapSolver/2captcha/RockCaptcha); reCAPTCHA grids still use OMOCaptcha"
+  "version": "1.0.64",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.64.zip",
+  "sha256": "e0ff3be6be0aad82f7b923b43444c9ff5fa3a148ec8636f1a5985b7464574ca3",
+  "sig": "9YnD+h6JIVw5pNzJpjcuzw0vKONkb3kqtPF/4OT5RwHHrY5Z/GrdjDK++tDsN5TYmm+3MRQj9Eq/MSQaUfP+Bg==",
+  "notes": "Captcha: CapSolver/2captcha now solve Facebook's reCAPTCHA (Enterprise) token in the browser login when OMOCaptcha can't; SIM OTP: sms-activate (shut down) replaced by HeroSMS, number entered before waiting, dead orders stop at once; login walls never misread from a feed post; settings saved on window close."
 }
