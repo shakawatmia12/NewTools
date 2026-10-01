@@ -1,7 +1,7 @@
 {
-  "version": "1.0.72",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.72.zip",
-  "sha256": "e37b5aaf1abd3d76320d2b0f8f0a3bdd0d34529b50dea29f478460f6b9b25c7a",
-  "sig": "JN/tWMGBwjAIW4SrshUtv+a2rKuEfMA0na4+cyJXHRwhifuPdi1lr7ClYzF2me1qLB9qFfehbyfIl2AlpnrpDA==",
-  "notes": "Data backups: the outside-the-folder copy now goes to AppData (Windows Security blocked the Documents copy on every start). Includes 1.0.71 Account Info search/filter fixes."
+  "version": "1.0.73",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.73.zip",
+  "sha256": "6faa6ed7a06d99426da46ec4dbff74327ad150fb33dec81b5c0e80dc94929b13",
+  "sig": "shRo5RjaspkwXO0m18rdrxPsoMpa6L+6zMCpFsbmw4T/hCKUO5dVMtpIBe1FsOuLsCQn6gYHC53B0XzfpZ02Bg==",
+  "notes": "New phone actions: Join groups (by link / keyword / suggestions, answers membership questions), Buff Follow UID, Post Wall / Post Groups / Post Story, Share to wall or groups, Invite friends to groups/pages, Interact Videos/Lives"
 }
