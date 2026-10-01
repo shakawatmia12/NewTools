@@ -1,7 +1,7 @@
 {
-  "version": "1.0.70",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.70.zip",
-  "sha256": "7489852d80b7683ae8347c8c2b104817d719e41784bd57102e2d594a5915f980",
-  "sig": "sqyb95l4PapA/1Nh2qdsD17oGjbFNMnBWSzQ3uAvnOCCOp0u6i3rOMo9apLRL5kM9IxvaCluogkISsaGuYMRAA==",
-  "notes": "Account Info - Browser/ADB: Search box + Bulk search (paste many UIDs/emails, see which weren't found, tick the found ones) + Status filter incl. (No status). Browser login: a rejected 2FA code waits for the next code."
+  "version": "1.0.71",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.71.zip",
+  "sha256": "14101768d21c2f6f8a7cf0e82c1653f6e9b349b10d2e798388656fe6473fdf2c",
+  "sig": "olqAtEm6blCRZJMlPi86OEqrTc977SGFK43ZUXwLjCb+KyFvsIN7Q8kU66arU55lecW1VMozobBZXz2mq0IdAQ==",
+  "notes": "Account Info: search keeps hidden ticks, Check Login follows the filtered view, hidden-UID overwrite guard, Search clear button + Esc, faster typing, bulk paste of full account lines/cookies, Selected (+hidden) and All shown/total counters"
 }
