@@ -57,3 +57,4 @@ update_v1.0.59.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.0.60.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.0.61.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.0.62.zip filter=lfs diff=lfs merge=lfs -text
+update_v1.0.63.zip filter=lfs diff=lfs merge=lfs -text

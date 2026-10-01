@@ -1,7 +1,7 @@
 {
-  "version": "1.0.62",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.62.zip",
-  "sha256": "888a14c52dd36ae65c85799d4a347258c4a759fc6fb1f1b8402b10069c4e106d",
-  "sig": "d6k7v5m2W2M8xA7zTjxqYi4HRoaz8G78caXqJeye1mN2pxggXnFzhhS+UFWdHBDLS0L5OihJQnc9h8FwEEkkCw==",
-  "notes": "Add CapSolver / 2captcha / RockCaptcha captcha fallback behind OMOCaptcha, and 5sim / sms-activate / DaisySMS SIM-OTP services - all key-settable in Global Settings."
+  "version": "1.0.63",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.63.zip",
+  "sha256": "849d6b0b70092b09ab96fb5e1a9ccdce8f768235ce94e43a82dddc9e648f9c33",
+  "sig": "9r63TAlcxOm9dct7EbeQ5qYl0xNjueV0xDQItOhpVv9bTeJTlIdBvX2XquJopTUMKJ+VoLrXsK0lkJPR5wQrDQ==",
+  "notes": "v1.0.63: captcha fallback now works even without an OMOCaptcha key (text/OCR via CapSolver/2captcha/RockCaptcha); reCAPTCHA grids still use OMOCaptcha"
 }
