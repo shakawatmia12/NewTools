@@ -1,7 +1,7 @@
 {
-  "version": "1.0.66",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.66.zip",
-  "sha256": "d659fba6f7c1f815ed073c973b585ab46447ce3f3581583f1c58c63f15548993",
-  "sig": "AWEYHTvlWZBEK6VEechOUvGNkUuBEK4g5ZrmNH6E1ISEExm2F0/7npC4L4cUPCZoKBjal7gPUa+g+ylJchOWAg==",
-  "notes": "Login-wall popup now judged by screen structure (no false relogin from post text); HeroSMS picks the cheapest in-stock country instead of Russia; captcha/SIM providers survive odd answers; balance check no longer reports garbage as OK"
+  "version": "1.0.67",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.67.zip",
+  "sha256": "eb0a234cfabf7ac4d485b53cf5d1dc5bf53ad57d75b13192ca675a6dc28a14b9",
+  "sig": "mDJmyAgNKLtxN9yrhiPpWzL2oxfsBJCqy/0GjnlLI2aoxkrBlEF59WkdgiNFtdpyooIGVCJlGfdKXV4oGJYpCg==",
+  "notes": "Anti-Captcha added as captcha fallback (RockCaptcha service is offline); clearer provider Check errors"
 }
