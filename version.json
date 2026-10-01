@@ -1,7 +1,7 @@
 {
-  "version": "1.0.59",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.59.zip",
-  "sha256": "7236ede2411d0b88e2532e9b7aa7c9a042d6f54e4ae699a69766c527cf758784",
-  "sig": "5YZmEtXDa7s99C3ZH8Po9oFwB6x6R6V/sHaSUGGik/6+RNO96EBWxkl+uxumrMrhnVIZcmFdUxKVT0L8d9RLAw==",
-  "notes": "Phone fixes: reactions land exactly (tray position/order/direction), already-reacted posts get changed not skipped, long posts open (scroll to the buttons), reel reactions checked by picture, Home tab picture fixed, account-wall screens captured"
+  "version": "1.0.60",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.60.zip",
+  "sha256": "4c067e7fc068d4b9b491b9fb77d3139044315a6843cfa98cf7bee7ba4f5a599c",
+  "sig": "C3jREsTIlPovnpYA0LQ6O2ftvlwrzpiT1xRSBtsWt2+3hku+P+dpvDrAh0rk/mii7fjE9Jo88URpQtPxwWKVAw==",
+  "notes": "Share verified on timeline + caption read-back; 24/7 uses the right account per phone profile; picture library learns from every screen; automation-warning Dismiss kept by picture; logged-out link open reported at once"
 }
