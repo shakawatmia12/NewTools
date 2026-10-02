@@ -1,7 +1,7 @@
 {
-  "version": "1.0.79",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.79.zip",
-  "sha256": "945ab8c9b820686e9dbb024a2176fe355722db7cac4d7bf63df1f4ca4e44bf7d",
-  "sig": "E9dBCRMKTGmDDPVItp8Wd+0vC3N7U7YW7Kc6Ia9Pe0aW/L1qFpU0/qYhx/B0TnutNsoVXECIuTMga3voaiCLBQ==",
-  "notes": "Every phone action walked live: group posts/shares/invites/joins/lives fixed, Share to a Page, Page-profile guard, Confirm Friend stale-card fix, 5 more SIM OTP services"
+  "version": "1.0.80",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.80.zip",
+  "sha256": "5e33bf6825416507ebfaa69b3cd72e19153207f044abcd7954e935ce05c9577f",
+  "sig": "ET1UzQ/enAhF+UC1pGJ9TuOf3b16iXR9RqeQvomp0kTbu4yGr7DWxThEoJVABXKOxWPckUQuR0wc34cRdMTtDg==",
+  "notes": "Group posts: react (all 7, verified by icon, light+dark), comment, private/Page layouts; Page-profile guard fixes; Confirm Friend refresh; clearer Page-invite message"
 }
