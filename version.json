@@ -1,7 +1,7 @@
 {
-  "version": "1.0.81",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.81.zip",
-  "sha256": "53827a9d7d5bd477c711937b5e401a2b0270fcde346d047e6863b3123cd811a6",
-  "sig": "PW6SS/YLUXiUJQwwlWcVlstASS5ZXjmJ049Brownj3OXwmun1QYKa8J4/iZIGQ6cqmagrZRgHbGP7UP9+cOBAA==",
-  "notes": "Interact Comment: reacts on the right comment (link | comment text), changes an existing reaction, verified; Confirm Friend: empty requests page recognised"
+  "version": "1.0.82",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.82.zip",
+  "sha256": "d3f8177c929f687b1abbde3ad52ffa63214c9c154a9d7396be86f39d8c3bd304",
+  "sig": "lVQDb/mRYnFskRYQesIZ3KrqZ7RRiqhahbilJlbAXoUNXEvU7PYkFu0NB/GzIjY/Ull9z3LboD8exVXHX0g8Dg==",
+  "notes": "22 more phone actions (Groups/Reels/Watch/Story/Keyword/Friends interaction, Like Page, Events, Marketplace, Message, Add friends by keyword, Cancel invites, Unfriend, Leave/Create group, Breaks); hacked-lock detection; upright-screen guard; join take-back fix"
 }
