@@ -1,7 +1,7 @@
 {
-  "version": "1.0.80",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.80.zip",
-  "sha256": "5e33bf6825416507ebfaa69b3cd72e19153207f044abcd7954e935ce05c9577f",
-  "sig": "ET1UzQ/enAhF+UC1pGJ9TuOf3b16iXR9RqeQvomp0kTbu4yGr7DWxThEoJVABXKOxWPckUQuR0wc34cRdMTtDg==",
-  "notes": "Group posts: react (all 7, verified by icon, light+dark), comment, private/Page layouts; Page-profile guard fixes; Confirm Friend refresh; clearer Page-invite message"
+  "version": "1.0.81",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.81.zip",
+  "sha256": "53827a9d7d5bd477c711937b5e401a2b0270fcde346d047e6863b3123cd811a6",
+  "sig": "PW6SS/YLUXiUJQwwlWcVlstASS5ZXjmJ049Brownj3OXwmun1QYKa8J4/iZIGQ6cqmagrZRgHbGP7UP9+cOBAA==",
+  "notes": "Interact Comment: reacts on the right comment (link | comment text), changes an existing reaction, verified; Confirm Friend: empty requests page recognised"
 }
