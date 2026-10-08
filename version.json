@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.8.zip",
-  "sha256": "bf5150b53ebb585b8ed9f3c4ab7e6314038a6e2f323af10eb149c2c15fe484aa",
-  "sig": "UcEfHhs0O/R3uE1h4A7AlS560GYB895hqcqiegoDMNnCCGHHO3Y/Sq8RWFFOrLdic2Ne/zmLqA57x3ToPHHEBg==",
-  "notes": "Auto-unlock now works in ANY Facebook/browser language (not just English): the account-lock 'confirm this is your account / Get a code by email' flow is found and walked by URL + page structure + the masked '@' email option + one-time-code field, across iframes, so non-English locked accounts are no longer dropped as checkpoints. More reliable 'Get a code by email' click (targets the real button, not its label), structural ID/photo/video-step safety stop, email method preferred on the chooser, and unrecognized/still-locked unlock screens now save a screenshot+text for diagnosis."
+  "version": "1.1.9",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.9.zip",
+  "sha256": "6c0e79be980b547dcc9cecad66bff6927ae10a364360396b96d3831f553bc634",
+  "sig": "Y9Okm5Ko95ZGIy4G3VVnAg+mZ0nocP9UER8OJvZSzOlxSQxDju5I+urXovPmZ+0j+bvTZxRLNjuA+94SKUYjBA==",
+  "notes": "Bulletproof language-independent account recovery (any FB/browser language - Spanish/Portuguese/French/Chinese/Thai/...): (1) email auto-unlock now walks the real multi-step flow - entry, the 'Confirm how you want to be contacted' radio chooser (native OR div[role=radio] email option picked by the masked '@'), and the code screen - pressing Next/Continue robustly even when it's a div[role=button] or a non-English/structural primary button, so the code is actually sent and typed (single-field AND 6-box OTP); (2) 2FA submits in any language via URL + numeric field; (3) the 'We suspect automated behaviour' soft notice and ad/promo popups are dismissed, not terminated. Also safer: never mis-clicks a heading, bails on photo/ID/video steps. Builds on v1.1.8."
 }
