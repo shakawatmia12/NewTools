@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.7.zip",
-  "sha256": "47cade1fd5756fa293b5f2e52e2e20345fa783607c4265d65e543a0c9a5575d9",
-  "sig": "gMsGOqyvtuHQf7Ge0tH0/jD59vuTMdjCu0k54Zxx4sfg+UihqKg5DO7f/0tol1lC3DGem5WhihjX4Tb03g9oBw==",
-  "notes": "Media: a 1-photo post can no longer reach the AI as 2 - size-variant photos are collapsed by both their fbcdn id and a new pixel (visual) match, so the AI always sees the post's real photo count (multi-photo and video posts unaffected). Ads: Business Suite 'Create ad'/Boost/Sponsored creatives are now excluded from a post's media by multiple signals, so the AI never writes comments about the wrong image. Unlock: the 24/7 auto-unlock no longer reports success while a checkpoint/'confirm you're human' wall is still showing."
+  "version": "1.1.8",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.8.zip",
+  "sha256": "bf5150b53ebb585b8ed9f3c4ab7e6314038a6e2f323af10eb149c2c15fe484aa",
+  "sig": "UcEfHhs0O/R3uE1h4A7AlS560GYB895hqcqiegoDMNnCCGHHO3Y/Sq8RWFFOrLdic2Ne/zmLqA57x3ToPHHEBg==",
+  "notes": "Auto-unlock now works in ANY Facebook/browser language (not just English): the account-lock 'confirm this is your account / Get a code by email' flow is found and walked by URL + page structure + the masked '@' email option + one-time-code field, across iframes, so non-English locked accounts are no longer dropped as checkpoints. More reliable 'Get a code by email' click (targets the real button, not its label), structural ID/photo/video-step safety stop, email method preferred on the chooser, and unrecognized/still-locked unlock screens now save a screenshot+text for diagnosis."
 }
