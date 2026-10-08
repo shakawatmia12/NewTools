@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.5.zip",
-  "sha256": "7bea5b17bc2b07cc3f8a636f4709682435c3ec80ec933eb99a737aba9c4dee7b",
-  "sig": "GcDFkuO5/9GhTo/SXtGyUm9pdT4vk3Z5iUppgOevXN2IMtbwgSovZel9TNcvD6xeldg1ftaf/s+IJP2NnGmLDg==",
-  "notes": "Smarter AI (Gemini) content: far more reliable replies - human-like typing/sending, hidden-window visibility fix, auto-retry on a fresh chat + failover to another AI account, clear logout/limit messages, and it never asks the AI on an empty post. New: live update download progress (percent + speed + Cancel). Facebook-style country-restriction picker (search & pick country names). Name list with USA/BD source + male/female + bulk generate (First+Last names); Review/Comment lists too."
+  "version": "1.1.6",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.6.zip",
+  "sha256": "1cf24ba0dc1b5cbed36fcbc93d2e26e518a6e74efd734d2dcc931082060fe08b",
+  "sig": "AbDfNG+idfs19ycws9pI0uOU7DE/WuZ4CvbR3WXNx+7cP9QcI94AV39mNrs3hAvCfHF7OKIBG8eUUJcv7wzpDA==",
+  "notes": "Mid-scrape password re-entry auto-login (no more drop on enter_password), page doc_id cache survives restart, 24/7 servicing now uses the full concurrent-window cap (scraper no longer eats a slot) with verified fair-share across 3+ pages."
 }
