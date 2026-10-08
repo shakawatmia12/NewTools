@@ -1,7 +1,7 @@
 {
-  "version": "1.0.82",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.0.82.zip",
-  "sha256": "d3f8177c929f687b1abbde3ad52ffa63214c9c154a9d7396be86f39d8c3bd304",
-  "sig": "lVQDb/mRYnFskRYQesIZ3KrqZ7RRiqhahbilJlbAXoUNXEvU7PYkFu0NB/GzIjY/Ull9z3LboD8exVXHX0g8Dg==",
-  "notes": "22 more phone actions (Groups/Reels/Watch/Story/Keyword/Friends interaction, Like Page, Events, Marketplace, Message, Add friends by keyword, Cancel invites, Unfriend, Leave/Create group, Breaks); hacked-lock detection; upright-screen guard; join take-back fix"
+  "version": "1.1.5",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.5.zip",
+  "sha256": "7bea5b17bc2b07cc3f8a636f4709682435c3ec80ec933eb99a737aba9c4dee7b",
+  "sig": "GcDFkuO5/9GhTo/SXtGyUm9pdT4vk3Z5iUppgOevXN2IMtbwgSovZel9TNcvD6xeldg1ftaf/s+IJP2NnGmLDg==",
+  "notes": "Smarter AI (Gemini) content: far more reliable replies - human-like typing/sending, hidden-window visibility fix, auto-retry on a fresh chat + failover to another AI account, clear logout/limit messages, and it never asks the AI on an empty post. New: live update download progress (percent + speed + Cancel). Facebook-style country-restriction picker (search & pick country names). Name list with USA/BD source + male/female + bulk generate (First+Last names); Review/Comment lists too."
 }
