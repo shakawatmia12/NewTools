@@ -1,7 +1,7 @@
 {
-  "version": "1.1.12",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.12.zip",
-  "sha256": "fc152cae65a303be932c9574c10a7d3524e6873705c7859d793d53dfc36dd12c",
-  "sig": "rrs9deTLNozI8+Jyaf1XiaSe9hNn6hnJPFH4/KobbasH5ciRApl4jsrtSCLSOL8IlfoTEW+LvYeGuLXpi0LbBw==",
-  "notes": "AI Ask: when no reply comes (incl. Gemini 'Something went wrong (1099)' with the prompt stuck unsent), refresh the configured link and re-ask from scratch up to 3 times instead of returning nothing."
+  "version": "1.1.13",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.13.zip",
+  "sha256": "2fb5bb861bab14a5d8baced985d3490fa74a2e620114a13c81ce38bec7b49017",
+  "sig": "XbjPq7Zqc2ieZfToSTC8kJ2gTqpukXRLMIT9qFS3o2umhr/en2ZptHDh19TSlPCU09aNg1jcpbdLoq7gWNiUDQ==",
+  "notes": "AI Ask reliability (LIVE-verified): a wedged Gemini chat that accepts the prompt but never answers now re-asks on a FRESH chat of the same account/Gem; and short all-caps replies (OK/YES) are no longer wrongly stripped to empty by the attachment-chip cleaner."
 }
