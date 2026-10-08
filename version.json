@@ -1,7 +1,7 @@
 {
-  "version": "1.1.11",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.11.zip",
-  "sha256": "eebaf048def43f51d1a3a360210038eb4471892cc79cbcfac44505dd68de59c6",
-  "sig": "wBQOILUL5BCl1OPAwVHF2+o0fqqiBAP7VGKvhoEs5RxNFOmqodiry0YfmoVMf8Y9JOOdOB0w8M6dj6uprk5TDQ==",
-  "notes": "AutoUnlock email-code fix: recognise the new 'Enter confirmation code' checkpoint screen, take only a freshly-sent code (ignore older codes in the inbox), wait ~45s then resend once and stop instead of spamming (avoids Facebook's rate limit)."
+  "version": "1.1.12",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.12.zip",
+  "sha256": "fc152cae65a303be932c9574c10a7d3524e6873705c7859d793d53dfc36dd12c",
+  "sig": "rrs9deTLNozI8+Jyaf1XiaSe9hNn6hnJPFH4/KobbasH5ciRApl4jsrtSCLSOL8IlfoTEW+LvYeGuLXpi0LbBw==",
+  "notes": "AI Ask: when no reply comes (incl. Gemini 'Something went wrong (1099)' with the prompt stuck unsent), refresh the configured link and re-ask from scratch up to 3 times instead of returning nothing."
 }
