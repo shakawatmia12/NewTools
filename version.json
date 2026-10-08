@@ -1,7 +1,7 @@
 {
-  "version": "1.1.13",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.13.zip",
-  "sha256": "2fb5bb861bab14a5d8baced985d3490fa74a2e620114a13c81ce38bec7b49017",
-  "sig": "XbjPq7Zqc2ieZfToSTC8kJ2gTqpukXRLMIT9qFS3o2umhr/en2ZptHDh19TSlPCU09aNg1jcpbdLoq7gWNiUDQ==",
-  "notes": "AI Ask reliability (LIVE-verified): a wedged Gemini chat that accepts the prompt but never answers now re-asks on a FRESH chat of the same account/Gem; and short all-caps replies (OK/YES) are no longer wrongly stripped to empty by the attachment-chip cleaner."
+  "version": "1.1.14",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.14.zip",
+  "sha256": "1d1d8c67e91ebe1c5c30534870426faa338ad71e7674d7586a1387a0ddbb3134",
+  "sig": "8eJESbobbcWs1IXnR0S2BvL2mH7nCUvJbCmkvlAbbm7Sv2nBrX0NUowWLRDSj1UbhIuiD4rF91dp+SBJMgavAQ==",
+  "notes": "AI Ask warm-up probe (LIVE-verified): sends a cheap 'Hi' first and only sends the real prompt once the chat answers it, moving to a fresh chat if it stays silent - big drop in wedged/no-reply. Plus mobile relogin now handles the 'Choose a way to log in -> Enter password' screen instead of closing on it."
 }
