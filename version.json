@@ -1,7 +1,7 @@
 {
-  "version": "1.1.10",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.10.zip",
-  "sha256": "be01cb1bdf61fc7832393fee31e980345b880df5e49b8bf38cef43b37f1ab6dc",
-  "sig": "lWIyPrIbFSPLiBlo/0LEggaPT9fOFzPCw0qPggjKhvXc2lenuLmQap9MTTuFp3ejhaDTAxEyvdqovSVgM0jcDw==",
-  "notes": "Proxy false-dead fix: accounts with a WORKING proxy were being marked 'proxy dead' and never opened. Liveness is now checked against several tiny neutral endpoints (not facebook.com, which blocks datacenter proxy IPs), a proxy counts as alive if it reaches ANY of them or even completes a tunnel/TLS handshake (a slow target/ReadTimeout is no longer 'dead'), and it's only declared dead when the proxy server itself is unreachable on every endpoint - re-confirmed twice. The in-browser check now treats a plain Facebook load timeout as 'retry then continue' instead of killing the account, while a hard proxy net-error still fails fast. Builds on v1.1.9."
+  "version": "1.1.11",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.11.zip",
+  "sha256": "eebaf048def43f51d1a3a360210038eb4471892cc79cbcfac44505dd68de59c6",
+  "sig": "wBQOILUL5BCl1OPAwVHF2+o0fqqiBAP7VGKvhoEs5RxNFOmqodiry0YfmoVMf8Y9JOOdOB0w8M6dj6uprk5TDQ==",
+  "notes": "AutoUnlock email-code fix: recognise the new 'Enter confirmation code' checkpoint screen, take only a freshly-sent code (ignore older codes in the inbox), wait ~45s then resend once and stop instead of spamming (avoids Facebook's rate limit)."
 }
