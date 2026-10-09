@@ -1,7 +1,7 @@
 {
-  "version": "1.1.17",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.17.zip",
-  "sha256": "303dcad89d80cbadbf4b0f5c85986e9b5b185dffb4de5ae3fcfa5699f8c5d001",
-  "sig": "A7vjt4/bi0R97tMjg29/Jp1hqrqoZmKG/0aVV8mEiAGfqCByc49D+99/DbIEsjaQhU1JxVmrR2ilMQQMI7gfAQ==",
-  "notes": "24/7 now works whatever language the watching account's Facebook is in: new posts labeled e.g. '5 min' / 'Agora mesmo' are detected right away (were invisible until '1 h' and then dropped as pre-existing), and the post link is copied via the share menu in any language. ADB: uiautomator2 assets (u2.jar) are now bundled - fixes 'Resource assets/u2.jar not found' on phones."
+  "version": "1.1.18",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.18.zip",
+  "sha256": "4a5663b6c9c6071e1605036e2cb83206e1201a4f2cff6cce47c6ac9246cb63f9",
+  "sig": "LShvK6Sy/QVisawDLyTjh+s9uKIEaxChonepp8io3L+EQajEIJZ5H+cLe+EIys5CGYNPvOZIsV10sCE4raw1Cw==",
+  "notes": "Language, deep pass: login/2FA/relogin pages now open in English (locale cookie, live-verified); 24/7 caption identity is the same in every UI language and ignores like/comment counts (no duplicate 'new post' after a language change; Bangla-only text posts now identified by their text); Bangla/any-script time labels; Copy link waits for a slow share menu. Account language switch also runs in Mobile mode, answers Facebook's email-code check once and then rests 30 days (no code spam). 24/7 uses English accounts first. ADB: Facebook app set to English on Android 13+."
 }
