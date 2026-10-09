@@ -1,7 +1,7 @@
 {
-  "version": "1.1.16",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.16.zip",
-  "sha256": "9df3e996a5e58bc709a2f7b7deaa0187da2fc713db3597c1e3619ba757e3d598",
-  "sig": "12yB8Kg5ltH3NmsfWch/lk90l2xC0cYJscl6pxSIvpanXedHYag0P49KESC7gXOLlPspmL4q9tf2UXyyhwg8CQ==",
-  "notes": "24/7 Browser servicing: an account whose browser is already open (or waiting to open) for one link now does the next links in that SAME window before closing (each link only after its AI ask is ready, own react/comment/share role) - fewer windows, faster service. New Account folders in 24/7 Service Page Setting; each page's settings picks which folder services it."
+  "version": "1.1.17",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.17.zip",
+  "sha256": "303dcad89d80cbadbf4b0f5c85986e9b5b185dffb4de5ae3fcfa5699f8c5d001",
+  "sig": "A7vjt4/bi0R97tMjg29/Jp1hqrqoZmKG/0aVV8mEiAGfqCByc49D+99/DbIEsjaQhU1JxVmrR2ilMQQMI7gfAQ==",
+  "notes": "24/7 now works whatever language the watching account's Facebook is in: new posts labeled e.g. '5 min' / 'Agora mesmo' are detected right away (were invisible until '1 h' and then dropped as pre-existing), and the post link is copied via the share menu in any language. ADB: uiautomator2 assets (u2.jar) are now bundled - fixes 'Resource assets/u2.jar not found' on phones."
 }
