@@ -1,7 +1,7 @@
 {
-  "version": "1.1.18",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.18.zip",
-  "sha256": "4a5663b6c9c6071e1605036e2cb83206e1201a4f2cff6cce47c6ac9246cb63f9",
-  "sig": "LShvK6Sy/QVisawDLyTjh+s9uKIEaxChonepp8io3L+EQajEIJZ5H+cLe+EIys5CGYNPvOZIsV10sCE4raw1Cw==",
-  "notes": "Language, deep pass: login/2FA/relogin pages now open in English (locale cookie, live-verified); 24/7 caption identity is the same in every UI language and ignores like/comment counts (no duplicate 'new post' after a language change; Bangla-only text posts now identified by their text); Bangla/any-script time labels; Copy link waits for a slow share menu. Account language switch also runs in Mobile mode, answers Facebook's email-code check once and then rests 30 days (no code spam). 24/7 uses English accounts first. ADB: Facebook app set to English on Android 13+."
+  "version": "1.1.19",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.19.zip",
+  "sha256": "38b885e420a57a984c91a0b6f5dd56241df1e13adf1e456169db8ffd10ddd8e0",
+  "sig": "QD/2KLkCWM4SXudxRCI5lxjoud30rqGNzG0egpeJOCq96XWqulxHNxHFRU+Bv1wV8Og3Cl4+jNbpLFTMPlCrCQ==",
+  "notes": "Recovery Password (mail) now works in BOTH Web and Mobile (m.facebook) browser modes using the account's own Android user-agent + proxy. Smart screen detection drives every recovery step (find account, send code, enter code, authenticator 2FA, human-check/captcha, 'choose a way to log in', log-in-with-password, set new password) with a live per-step Status Detail trace, and a false 'password changed' (when Facebook showed a log-in-with-password box) is fixed."
 }
