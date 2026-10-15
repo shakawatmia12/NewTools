@@ -1,7 +1,7 @@
 {
-  "version": "1.1.22",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.22.zip",
-  "sha256": "e22f4b4c3dd626c03f5dfd7fa8e92393f603387b53963541d39412b4c1ad8a91",
-  "sig": "RDiNLb4hOX7pbw4LQbT8MJ2x9l+iB0CYOsSpInG4Ckd7T/DiARajoMp7bfVEgwUXS60hkvwVJVtTkfORBJOhDg==",
-  "notes": "Fix: Chrome windows now fully close at task end (kill by profile, not pid) - no more leftover Chrome piling up across threads."
+  "version": "1.1.23",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.23.zip",
+  "sha256": "9ec63551547dd1507f10708c30a543391ef41b60fa2c2f9f8851b2f531ef8465",
+  "sig": "fBHHU4ziDRP4V3QommwMY4GcHn4WWJv9GnLb5N69jcYIoCpJGQ2iVuS8nT00tnBiGTqXdQRWjD6pA1eFCVb1AQ==",
+  "notes": "Fix: exact profile match when closing Chrome - a uid that is a prefix of another no longer kills the wrong account's running browser (mid-task 'Target closed'); plus the v1.1.22 clean-close-by-profile."
 }
