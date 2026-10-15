@@ -1,7 +1,7 @@
 {
-  "version": "1.1.19",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.19.zip",
-  "sha256": "38b885e420a57a984c91a0b6f5dd56241df1e13adf1e456169db8ffd10ddd8e0",
-  "sig": "QD/2KLkCWM4SXudxRCI5lxjoud30rqGNzG0egpeJOCq96XWqulxHNxHFRU+Bv1wV8Og3Cl4+jNbpLFTMPlCrCQ==",
-  "notes": "Recovery Password (mail) now works in BOTH Web and Mobile (m.facebook) browser modes using the account's own Android user-agent + proxy. Smart screen detection drives every recovery step (find account, send code, enter code, authenticator 2FA, human-check/captcha, 'choose a way to log in', log-in-with-password, set new password) with a live per-step Status Detail trace, and a false 'password changed' (when Facebook showed a log-in-with-password box) is fixed."
+  "version": "1.1.20",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.20.zip",
+  "sha256": "4cb3a8bfdd23961b0e1941f12848c555cb6171527e2aec99380b52a00b0219bd",
+  "sig": "kiMAXQYBdT7aKqmbIjsvay8hEwuSNAk8uLAWYZ8U6Yn1Wff0Vub9e6vGHPS+9O1H3Dhh5lFs8x87SLnL4U6RAg==",
+  "notes": "Hidden 'Recovery Password' now runs MetaMax-style over pure HTTP (no browser window): finds the account, emails the reset code, reads it, sets the new password and captures the live session cookie - fast, low-data, invisible. FIXED: the recovered session cookie + new password are now actually saved into Account Info (a silent error previously lost the cookie on every password recovery). NEW 100% finisher: if the request engine can't complete a step (captcha wall, rate-limited IP, or a screen it can't drive), an invisible off-screen browser finishes the recovery automatically - only a genuine 'no account' is skipped."
 }
