@@ -1,7 +1,7 @@
 {
-  "version": "1.1.23",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.23.zip",
-  "sha256": "9ec63551547dd1507f10708c30a543391ef41b60fa2c2f9f8851b2f531ef8465",
-  "sig": "fBHHU4ziDRP4V3QommwMY4GcHn4WWJv9GnLb5N69jcYIoCpJGQ2iVuS8nT00tnBiGTqXdQRWjD6pA1eFCVb1AQ==",
-  "notes": "Fix: exact profile match when closing Chrome - a uid that is a prefix of another no longer kills the wrong account's running browser (mid-task 'Target closed'); plus the v1.1.22 clean-close-by-profile."
+  "version": "1.1.24",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.24.zip",
+  "sha256": "65066b66a2d67bc4c5d87d23c9d3a7e85c8dc2aa2621aaa0153b35550d1a51ce",
+  "sig": "+o2BD7Br8vUBgnpE76nFFlrZ2bV8RRgAJrQwuGB0UEyht85LT8icLpRj8I3/gkmtTp9Ha/eqG1qqAd8pzGcHDA==",
+  "notes": "Add Recovery Password (SMS): reads the FB reset code off the account's own registered 555api number (MetaMax SMS-recovery logic), alongside the existing mail recovery."
 }
