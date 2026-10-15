@@ -1,7 +1,7 @@
 {
-  "version": "1.1.21",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.21.zip",
-  "sha256": "4020236ed81ba6f942c2fe30217efe83554997a8d4a9fbeeb82ba9e9b39021bc",
-  "sig": "tTXN540vaXX1RlObkPwn5KfpDrfwqROxlThczxQNVymt7Q+zV163+S/DBRJnjIY1VgcR4kc0ELHmmM2d0rsKAQ==",
-  "notes": "Recovery Password back-half FIXED (live-found 2026-10-15): (1) the OMOCaptcha captcha solver is now SEEDED into every new profile up front (code + API key) so a fresh profile is never left with no solver - a reCAPTCHA wall can actually be solved; (2) Facebook's new 'Allow the use of cookies' consent wall is now recognised and dismissed instead of silently stalling the flow; (3) the 2026 'Enter code' box (a bare aria-label input) is now filled correctly and Continue is NEVER clicked on an empty box (no more wasted codes); (4) hidden mode now hides the window the instant it appears (no visible flash / no missed windows), and when a captcha appears it briefly shows the window so the solver can work, then hides it again."
+  "version": "1.1.22",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.22.zip",
+  "sha256": "e22f4b4c3dd626c03f5dfd7fa8e92393f603387b53963541d39412b4c1ad8a91",
+  "sig": "RDiNLb4hOX7pbw4LQbT8MJ2x9l+iB0CYOsSpInG4Ckd7T/DiARajoMp7bfVEgwUXS60hkvwVJVtTkfORBJOhDg==",
+  "notes": "Fix: Chrome windows now fully close at task end (kill by profile, not pid) - no more leftover Chrome piling up across threads."
 }
