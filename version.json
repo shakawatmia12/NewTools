@@ -1,7 +1,7 @@
 {
-  "version": "1.1.20",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.20.zip",
-  "sha256": "4cb3a8bfdd23961b0e1941f12848c555cb6171527e2aec99380b52a00b0219bd",
-  "sig": "kiMAXQYBdT7aKqmbIjsvay8hEwuSNAk8uLAWYZ8U6Yn1Wff0Vub9e6vGHPS+9O1H3Dhh5lFs8x87SLnL4U6RAg==",
-  "notes": "Hidden 'Recovery Password' now runs MetaMax-style over pure HTTP (no browser window): finds the account, emails the reset code, reads it, sets the new password and captures the live session cookie - fast, low-data, invisible. FIXED: the recovered session cookie + new password are now actually saved into Account Info (a silent error previously lost the cookie on every password recovery). NEW 100% finisher: if the request engine can't complete a step (captcha wall, rate-limited IP, or a screen it can't drive), an invisible off-screen browser finishes the recovery automatically - only a genuine 'no account' is skipped."
+  "version": "1.1.21",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.21.zip",
+  "sha256": "4020236ed81ba6f942c2fe30217efe83554997a8d4a9fbeeb82ba9e9b39021bc",
+  "sig": "tTXN540vaXX1RlObkPwn5KfpDrfwqROxlThczxQNVymt7Q+zV163+S/DBRJnjIY1VgcR4kc0ELHmmM2d0rsKAQ==",
+  "notes": "Recovery Password back-half FIXED (live-found 2026-10-15): (1) the OMOCaptcha captcha solver is now SEEDED into every new profile up front (code + API key) so a fresh profile is never left with no solver - a reCAPTCHA wall can actually be solved; (2) Facebook's new 'Allow the use of cookies' consent wall is now recognised and dismissed instead of silently stalling the flow; (3) the 2026 'Enter code' box (a bare aria-label input) is now filled correctly and Continue is NEVER clicked on an empty box (no more wasted codes); (4) hidden mode now hides the window the instant it appears (no visible flash / no missed windows), and when a captcha appears it briefly shows the window so the solver can work, then hides it again."
 }
