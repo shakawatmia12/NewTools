@@ -1,7 +1,7 @@
 {
-  "version": "1.1.32",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.32.zip",
-  "sha256": "19ea7008ea406c8e00ac9b2467ef97af600d126c8fec59be18e114179ee40265",
-  "sig": "DE/a7rY6FNyPToZU7wSpMrWDNYFwVxFS9D9DmMfwRycAmjY4CnW9L7bibHsvHuiUaxMSjd8F2o2Rkr89v14WAA==",
-  "notes": "Lighter UI: console log inserts now coalesced into one repaint per burst (was per-line see/scroll on the UI thread) - smoother during busy tasks."
+  "version": "1.1.33",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.33.zip",
+  "sha256": "998e4e54abfecad374974dead262168b3de3748a50cdba390ddd95dceda9ffe9",
+  "sig": "4eJjqqzyy35LwdPjJZMDaYBTd8T5DtaYABKIAXYBVoOtSemXywk7Xkph8E3KeLJFdcxF1b8ndZPin0f2+t1OBw==",
+  "notes": "Major task-time speedup: live status writes no longer re-read + rewrite + back up the whole account file every step (75ms to 1ms/step); playwright now loads lazily. Smoother UI during tasks, less disk/RAM churn."
 }
