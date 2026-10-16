@@ -1,7 +1,7 @@
 {
-  "version": "1.1.30",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.30.zip",
-  "sha256": "6b74c676f177c54cf2d6e15a2b56fed9063fc9f843041ce3d7eeb573af614618",
-  "sig": "NkNAUESXd21/sK/hVilf+KgpH49OFvvK/XbspNNwc4h0fgjGKV4NN/HZWjXkXZwM0tYw5VojJmbhq/xkhz+dBw==",
-  "notes": "Themed popups (all screens color-matched) + log file writes moved off the UI thread (faster, no stutter during tasks)"
+  "version": "1.1.31",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.31.zip",
+  "sha256": "1e1557ea9529fea249cf6ebda4a24e3f3c2be0ce88e632ff13ffc3b46a19fc18",
+  "sig": "V+PtwFf+HYAG2c9p2o1nCms0VxSh0aP9wLP7RFzBVRc07WrSTqwZ/ndmrGTSNkV39elS/y/qFH+6dchZ6AjcDQ==",
+  "notes": "Faster UI: live-status sheet redraws now coalesced (no per-step repaint storm during tasks) + page list skips redundant rebuilds"
 }
