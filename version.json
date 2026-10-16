@@ -1,7 +1,7 @@
 {
-  "version": "1.1.35",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.35.zip",
-  "sha256": "de8d98c8011ccecc84b0d9e38498f0d3cd3c92e26c0dbc715ca0f5680d22cf0e",
-  "sig": "cVdtZgWVcwpefDEYkxjjQ+ck6qjfNgwbylymFSlRkly3XXgkHu94o/snNeD9FSuCB0Mp4L6jFGG1jLRnM775Bw==",
-  "notes": "Proxy now works on every PC (the gost proxy binary + all assets are bundled - fixes 'gost unavailable' / 0 Live). Facebook auto-installs onto a profile from Owner if missing. Fixed the duplicate 'Owner' folder that split its accounts. New right-click 'Open Manually' (connects proxy, opens + logs in, leaves open). Smarter screen detection when the app shows a blank screen."
+  "version": "1.1.36",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.36.zip",
+  "sha256": "68524fbf27c86eb69e81bd9c54666d4f4167bc5d339f31099a41d7057e3f13c5",
+  "sig": "+qMpzNaD+FrnhRkSt1D467wcfJ1zGz2sGtlvzat1JxXSvLhgiD0WpMKZLWGtUU1lP3P8BJ5NF7UjPQClowgICg==",
+  "notes": "Owner profile no longer splits into two folders (canonicalised everywhere: grid, dropdowns + one-time file repair); carries v1.1.35 proxy/gost assets, free mail.td, FB install across profiles, Open Manually, short statuses."
 }
