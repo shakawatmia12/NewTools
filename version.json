@@ -1,7 +1,7 @@
 {
-  "version": "1.1.37",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.37.zip",
-  "sha256": "32721655485dfa09a58343b73c36bb68f57f1524108580448984f22f5c2b538f",
-  "sig": "8xGihvPe37s2HgJCFoNw8fxAzt0FIo4ILyBcLsJKeLy0cAGhLO/e7mXDGwBJLMSY94GaiyiL9kxxuy3LNmRgDA==",
-  "notes": "MaxPhone-style multilingual FB popup killer (all languages) + no black adb.exe windows on other PCs + ADB script Run/Stop on checked accounts with multi-profile switching + fixed duplicate profiles in Switch dropdown"
+  "version": "1.1.38",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.38.zip",
+  "sha256": "430dfe0921d2da1381cf9883bcd6c80549d9f6c25b5c83ad2c50123338ecc0f8",
+  "sig": "XyhK8sZcBC5UqTfvl/Br8akEvWr4ZINv03Fonmg8JU7LkW6/yW5tLipYYTQGc63xxqLRDgscLVSLLSmXN6fiAA==",
+  "notes": "MaxPhone-style screen+status recognition (fb_screen.py with MaxPhone's own template library: 282/956/restricted/checkpoint), single Run/Stop toggle on the ADB tab, per-category task colours, and MaxPhone task-catalogue parity."
 }
