@@ -1,7 +1,7 @@
 {
-  "version": "1.1.34",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.34.zip",
-  "sha256": "9b279d9737d26565b7718334e22a4ce5bf95d82d27ef2c48112cca7db595f6cd",
-  "sig": "2oJtPYKZml8qYsXZtiimCufLZwUzMYvqta37yXimy0IwBFVyq1k5IJ+0u5LCIVl7bM2jv1BZWZN4xQXwx/udDQ==",
-  "notes": "Email codes work again: Facebook's code mail now comes from account.meta.com with new wording - the tool reads it correctly, and nqmo.com/end.tw/qabq.com/uuf.me mailboxes are now read for FREE (no paid token). Shorter, clearer login status messages."
+  "version": "1.1.35",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.35.zip",
+  "sha256": "de8d98c8011ccecc84b0d9e38498f0d3cd3c92e26c0dbc715ca0f5680d22cf0e",
+  "sig": "cVdtZgWVcwpefDEYkxjjQ+ck6qjfNgwbylymFSlRkly3XXgkHu94o/snNeD9FSuCB0Mp4L6jFGG1jLRnM775Bw==",
+  "notes": "Proxy now works on every PC (the gost proxy binary + all assets are bundled - fixes 'gost unavailable' / 0 Live). Facebook auto-installs onto a profile from Owner if missing. Fixed the duplicate 'Owner' folder that split its accounts. New right-click 'Open Manually' (connects proxy, opens + logs in, leaves open). Smarter screen detection when the app shows a blank screen."
 }
