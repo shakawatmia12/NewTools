@@ -1,7 +1,7 @@
 {
-  "version": "1.1.27",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.27.zip",
-  "sha256": "2cfc2e76a113f0164f298fe3095e394523578c7334315deb08f23cb1e96393f2",
-  "sig": "r2xp37F9KFswGdy5SctCLJtqxmT+qZooigC0g7N1aKUcgNrIxR/kTMMKJ23AvyhS6DIzR7IVujJg4nAXXtQPAQ==",
-  "notes": "Live step-by-step status across all three systems: every task step (ADB proxy/VPN/login, Browser recover/login, Page check/token) now streams onto its account row the instant it happens, instead of only on the slow table poll - so the detail status moves like a log. Proxy that won't connect still skips that device/profile."
+  "version": "1.1.28",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.28.zip",
+  "sha256": "20374f3e70ba1fae4d878ae32e22519baecf341ca94c51fbb3e4f5d68dfff33c",
+  "sig": "WIBqvGIfp3xLEHo/ltuA5GEN46slgy2SaQAIyaBYPBfFQcrnd/KnRKQFKTzp2upgllaRxdbTcXNXpO5DFW+uAA==",
+  "notes": "ADB Check Login now shows every step like the log - Switching profile, Connecting VPN, VPN connected, Proxy connecting/connected, Facebook opened, reading state, verifying account, login sub-steps - each streams onto the account's Status Detail live as it happens."
 }
