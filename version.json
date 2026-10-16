@@ -1,7 +1,7 @@
 {
-  "version": "1.1.25",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.25.zip",
-  "sha256": "68950cc14f6ededdeaf6ba75f6f352dea8f7abb4808aad3ab9316a288d15ef72",
-  "sig": "FdwN8DEtYxm4akjkQDxer0rl2qx8Rua4z4VFcbvC5qllXsANBUmtYfUcllSNENEzmujEjstofmk6KLJgT5BXCw==",
-  "notes": "Captcha fast-bail (~18s, no 150s loop), removed OMOCaptcha blocked-tab extension, and profile list now loads from the phones on any PC (Owner/1/2/3 in dropdown + grid)"
+  "version": "1.1.26",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.26.zip",
+  "sha256": "9b8d1dedf62fc5a273589daefbb3e65fc8dac5d99d0662dfbd70f9248eae3938",
+  "sig": "cRFpzUw+NWdLk7pnfmCtHb1kkowFUsEBk7HjMfcHzVABz+M1KPt5LfMm+z5vU0glGckecauqUW1GlnLzENzTCA==",
+  "notes": "ADB task runs now stream live per-step status into each account's Status Detail in Account Info (moves step-by-step like the log instead of staying blank)"
 }
