@@ -1,7 +1,7 @@
 {
-  "version": "1.1.29",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.29.zip",
-  "sha256": "389216dfe89a43d072b2d5d63cba06007b2097b57d6dd4dbf0749ed8a521b926",
-  "sig": "DhqKDbSePwFMabZmIpRZNcVfLxxuwCwBRG+r/95NtI4vm0cfw5H+foE8a++gurcv/iVSKv3/cG/+jze6SBfeCg==",
-  "notes": "Per-account proxy (Account Info Proxy column) now connects on ALL ADB tasks - Start Automation, 956 and 282 - not just Check Login, with live step status; a proxied account/profile is skipped if its proxy won't connect (never runs on the real IP)."
+  "version": "1.1.30",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.30.zip",
+  "sha256": "6b74c676f177c54cf2d6e15a2b56fed9063fc9f843041ce3d7eeb573af614618",
+  "sig": "NkNAUESXd21/sK/hVilf+KgpH49OFvvK/XbspNNwc4h0fgjGKV4NN/HZWjXkXZwM0tYw5VojJmbhq/xkhz+dBw==",
+  "notes": "Themed popups (all screens color-matched) + log file writes moved off the UI thread (faster, no stutter during tasks)"
 }
