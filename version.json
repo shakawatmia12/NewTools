@@ -1,7 +1,7 @@
 {
-  "version": "1.1.26",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.26.zip",
-  "sha256": "9b8d1dedf62fc5a273589daefbb3e65fc8dac5d99d0662dfbd70f9248eae3938",
-  "sig": "cRFpzUw+NWdLk7pnfmCtHb1kkowFUsEBk7HjMfcHzVABz+M1KPt5LfMm+z5vU0glGckecauqUW1GlnLzENzTCA==",
-  "notes": "ADB task runs now stream live per-step status into each account's Status Detail in Account Info (moves step-by-step like the log instead of staying blank)"
+  "version": "1.1.27",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.27.zip",
+  "sha256": "2cfc2e76a113f0164f298fe3095e394523578c7334315deb08f23cb1e96393f2",
+  "sig": "r2xp37F9KFswGdy5SctCLJtqxmT+qZooigC0g7N1aKUcgNrIxR/kTMMKJ23AvyhS6DIzR7IVujJg4nAXXtQPAQ==",
+  "notes": "Live step-by-step status across all three systems: every task step (ADB proxy/VPN/login, Browser recover/login, Page check/token) now streams onto its account row the instant it happens, instead of only on the slow table poll - so the detail status moves like a log. Proxy that won't connect still skips that device/profile."
 }
