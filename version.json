@@ -1,7 +1,7 @@
 {
-  "version": "1.1.36",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.36.zip",
-  "sha256": "68524fbf27c86eb69e81bd9c54666d4f4167bc5d339f31099a41d7057e3f13c5",
-  "sig": "+qMpzNaD+FrnhRkSt1D467wcfJ1zGz2sGtlvzat1JxXSvLhgiD0WpMKZLWGtUU1lP3P8BJ5NF7UjPQClowgICg==",
-  "notes": "Owner profile no longer splits into two folders (canonicalised everywhere: grid, dropdowns + one-time file repair); carries v1.1.35 proxy/gost assets, free mail.td, FB install across profiles, Open Manually, short statuses."
+  "version": "1.1.37",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.37.zip",
+  "sha256": "32721655485dfa09a58343b73c36bb68f57f1524108580448984f22f5c2b538f",
+  "sig": "8xGihvPe37s2HgJCFoNw8fxAzt0FIo4ILyBcLsJKeLy0cAGhLO/e7mXDGwBJLMSY94GaiyiL9kxxuy3LNmRgDA==",
+  "notes": "MaxPhone-style multilingual FB popup killer (all languages) + no black adb.exe windows on other PCs + ADB script Run/Stop on checked accounts with multi-profile switching + fixed duplicate profiles in Switch dropdown"
 }
