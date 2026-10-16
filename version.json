@@ -1,7 +1,7 @@
 {
-  "version": "1.1.31",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.31.zip",
-  "sha256": "1e1557ea9529fea249cf6ebda4a24e3f3c2be0ce88e632ff13ffc3b46a19fc18",
-  "sig": "V+PtwFf+HYAG2c9p2o1nCms0VxSh0aP9wLP7RFzBVRc07WrSTqwZ/ndmrGTSNkV39elS/y/qFH+6dchZ6AjcDQ==",
-  "notes": "Faster UI: live-status sheet redraws now coalesced (no per-step repaint storm during tasks) + page list skips redundant rebuilds"
+  "version": "1.1.32",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.32.zip",
+  "sha256": "19ea7008ea406c8e00ac9b2467ef97af600d126c8fec59be18e114179ee40265",
+  "sig": "DE/a7rY6FNyPToZU7wSpMrWDNYFwVxFS9D9DmMfwRycAmjY4CnW9L7bibHsvHuiUaxMSjd8F2o2Rkr89v14WAA==",
+  "notes": "Lighter UI: console log inserts now coalesced into one repaint per burst (was per-line see/scroll on the UI thread) - smoother during busy tasks."
 }
