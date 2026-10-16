@@ -1,7 +1,7 @@
 {
-  "version": "1.1.28",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.28.zip",
-  "sha256": "20374f3e70ba1fae4d878ae32e22519baecf341ca94c51fbb3e4f5d68dfff33c",
-  "sig": "WIBqvGIfp3xLEHo/ltuA5GEN46slgy2SaQAIyaBYPBfFQcrnd/KnRKQFKTzp2upgllaRxdbTcXNXpO5DFW+uAA==",
-  "notes": "ADB Check Login now shows every step like the log - Switching profile, Connecting VPN, VPN connected, Proxy connecting/connected, Facebook opened, reading state, verifying account, login sub-steps - each streams onto the account's Status Detail live as it happens."
+  "version": "1.1.29",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.29.zip",
+  "sha256": "389216dfe89a43d072b2d5d63cba06007b2097b57d6dd4dbf0749ed8a521b926",
+  "sig": "DhqKDbSePwFMabZmIpRZNcVfLxxuwCwBRG+r/95NtI4vm0cfw5H+foE8a++gurcv/iVSKv3/cG/+jze6SBfeCg==",
+  "notes": "Per-account proxy (Account Info Proxy column) now connects on ALL ADB tasks - Start Automation, 956 and 282 - not just Check Login, with live step status; a proxied account/profile is skipped if its proxy won't connect (never runs on the real IP)."
 }
