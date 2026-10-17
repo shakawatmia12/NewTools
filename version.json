@@ -1,7 +1,7 @@
 {
-  "version": "1.1.44",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.44.zip",
-  "sha256": "c2e76d1b9115d6e0a9a35d2d11338863aaa8a7c13b50a42b1e2e21c7419cf9ea",
-  "sig": "8wUJPM33rRrZkpiXWaWLFKgo7zYW1vLd1qeMy7EBPVxcsEOO6QDd5pG5oitKEsWklp3n0hLHf7IMt125FAeaBw==",
-  "notes": "Fix Check Update: updates now download from the media host, so git-LFS releases no longer fail with 'checksum mismatch'; updater auto-retries on the media host. New: Warm Up 24/7 button in the Account Info-ADB tab (ADB only; behaviour coming)."
+  "version": "1.1.45",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.45.zip",
+  "sha256": "04519a2456b68ca4284accf82b033d395d36870436ec39e8b0efd5baa5a0adf6",
+  "sig": "z8VGp/s4mXvhi6ysEjOR0l2Ae+V7X4jegistcou9Kv2mJmAPdZJ4o6xAb3uLiLNi2/xWjWrIPBEc/BNH1jS2BQ==",
+  "notes": "Language/version-proof login detection: FB circle-f logo photo backstop (MaxPhone-style) + DOM field-count gate added to is_logged_out, so logged-out screens are recognised in any FB app version/language without logging healthy sessions out on a guess. Warm Up 24/7 engine login brain live-tested across all real devices/profiles."
 }
