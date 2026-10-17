@@ -1,7 +1,7 @@
 {
-  "version": "1.1.41",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.41.zip",
-  "sha256": "d886dbe23ec8a88c9f4af64be56a39767513b6c0c473ff3b780fdb47e598eb79",
-  "sig": "SpJwucBwbLApdkrXcDV6TPnL1cwwUrXLenLxWhfkKBkiw4bOG4VK244EHpJsIGkWsfJqYNxjuyt2w8kPORPPCg==",
-  "notes": "Language-proof account status across all 3 systems (Page/Browser/ADB). The ADB task guard that stops the moment Facebook shows a restriction/suspend/checkpoint/human-check wall now recognises those walls in Bengali, Hindi, Vietnamese, Indonesian, Spanish, Portuguese and Arabic - not only English - both mid-task and at the pre/post health gate, with no extra screenshot cost (MaxPhone/MaxCare-style multilingual markers). Browser and Page already classify by URL path (language-independent) and normalise the UI to English, so all three now hold up when an account's language changes."
+  "version": "1.1.42",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.42.zip",
+  "sha256": "47caf885675cd60cdca3ab8ff87c0169610edf5a717ebf1c81f78562fe9b2b9b",
+  "sig": "OrSfO6iJVmNL3nakIVUiG4CbWUFtAKfj7rT4fWBlUsb1F7sH+tQrviwUCng1BhyFHNuXmD3vldnJeYxpLZ7QDw==",
+  "notes": "Human-like taps and swipes across all ADB tasks (anti-bot): taps now scatter inside the button instead of hitting dead-centre, swipes curve and vary in speed - via a central device-level layer, so every task inherits it."
 }
