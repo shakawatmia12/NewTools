@@ -1,7 +1,7 @@
 {
-  "version": "1.1.42",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.42.zip",
-  "sha256": "47caf885675cd60cdca3ab8ff87c0169610edf5a717ebf1c81f78562fe9b2b9b",
-  "sig": "OrSfO6iJVmNL3nakIVUiG4CbWUFtAKfj7rT4fWBlUsb1F7sH+tQrviwUCng1BhyFHNuXmD3vldnJeYxpLZ7QDw==",
-  "notes": "Human-like taps and swipes across all ADB tasks (anti-bot): taps now scatter inside the button instead of hitting dead-centre, swipes curve and vary in speed - via a central device-level layer, so every task inherits it."
+  "version": "1.1.43",
+  "url": "https://raw.githubusercontent.com/shakawatmia12/NewTools/main/update_v1.1.43.zip",
+  "sha256": "83354b454bd413b5fbcc2e737fa1432acd669e09b108821592bc30c477eb788e",
+  "sig": "wy28WI2EFgkZsVtHCEfEQMwbAYoTkVa/T8y4zQb23ruKasht2JD7WuAPhFJvGjWqeY0gVSSRNROKN/JHkg1DDg==",
+  "notes": "Browser/Page: human mouse-travel on FB action clicks (like/comment/share/add-friend/page-admin) - real pointer path + scattered hit, kills the instant dead-centre click tell. Degrades to the proven click escalation on any failure. ADB humanizer unchanged."
 }
