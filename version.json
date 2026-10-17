@@ -1,7 +1,7 @@
 {
-  "version": "1.1.39",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.39.zip",
-  "sha256": "c37815007ba43a8788ff9dba31b913b338760f869c160e333c49160536f8f3a3",
-  "sig": "6a/BU3n051euMpcwECA+rPnaWgLFFAjrK308SIKZEOIrToc1DNFi5RO3Xc9uwzCqFvP5ddn9IuFtz1TtrvsLBA==",
-  "notes": "Deeper, self-healing FB tasks: Happy Birthday / Poke Friends / Reply Message now fall back to the in-app Menu (Birthdays/Pokes/Messenger) route when a deep link misses, plus Search Google / Access Website browser warm-ups. Login screen now recognised by MaxPhone/SD-Farm photos; every task's health check gains a language-proof photo backstop for restriction/checkpoint walls, with a stricter solo-image false-match gate."
+  "version": "1.1.40",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.40.zip",
+  "sha256": "703a02e17872f96b0f0f71fb1ac9deed2d284f75e1ead35cfd27a6d7d42cdd01",
+  "sig": "ug/To7flLJStguMdhK1N8vLlqszgW9T9bEUMhMq3i3CAEnLezbhTGxxwYsLfyshOH+OCTRulMSPI5mFXojMHAQ==",
+  "notes": "Smart session brain: profile-switch now waits+verifies it actually landed before running (fixes tasks running on the wrong/previous profile), name-independent profile resolver (Profile N = Nth secondary user), single state-aware switch/VPN/proxy decision used everywhere. New: per-account status screenshot saved whenever a 282/checkpoint/suspended/logged-out wall is detected (right-click a row - View Status Screenshot). Global Settings now expands properly when maximized."
 }
