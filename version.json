@@ -1,7 +1,7 @@
 {
-  "version": "1.1.38",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.38.zip",
-  "sha256": "430dfe0921d2da1381cf9883bcd6c80549d9f6c25b5c83ad2c50123338ecc0f8",
-  "sig": "XyhK8sZcBC5UqTfvl/Br8akEvWr4ZINv03Fonmg8JU7LkW6/yW5tLipYYTQGc63xxqLRDgscLVSLLSmXN6fiAA==",
-  "notes": "MaxPhone-style screen+status recognition (fb_screen.py with MaxPhone's own template library: 282/956/restricted/checkpoint), single Run/Stop toggle on the ADB tab, per-category task colours, and MaxPhone task-catalogue parity."
+  "version": "1.1.39",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.39.zip",
+  "sha256": "c37815007ba43a8788ff9dba31b913b338760f869c160e333c49160536f8f3a3",
+  "sig": "6a/BU3n051euMpcwECA+rPnaWgLFFAjrK308SIKZEOIrToc1DNFi5RO3Xc9uwzCqFvP5ddn9IuFtz1TtrvsLBA==",
+  "notes": "Deeper, self-healing FB tasks: Happy Birthday / Poke Friends / Reply Message now fall back to the in-app Menu (Birthdays/Pokes/Messenger) route when a deep link misses, plus Search Google / Access Website browser warm-ups. Login screen now recognised by MaxPhone/SD-Farm photos; every task's health check gains a language-proof photo backstop for restriction/checkpoint walls, with a stricter solo-image false-match gate."
 }
