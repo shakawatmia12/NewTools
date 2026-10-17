@@ -1,7 +1,7 @@
 {
-  "version": "1.1.40",
-  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.40.zip",
-  "sha256": "703a02e17872f96b0f0f71fb1ac9deed2d284f75e1ead35cfd27a6d7d42cdd01",
-  "sig": "ug/To7flLJStguMdhK1N8vLlqszgW9T9bEUMhMq3i3CAEnLezbhTGxxwYsLfyshOH+OCTRulMSPI5mFXojMHAQ==",
-  "notes": "Smart session brain: profile-switch now waits+verifies it actually landed before running (fixes tasks running on the wrong/previous profile), name-independent profile resolver (Profile N = Nth secondary user), single state-aware switch/VPN/proxy decision used everywhere. New: per-account status screenshot saved whenever a 282/checkpoint/suspended/logged-out wall is detected (right-click a row - View Status Screenshot). Global Settings now expands properly when maximized."
+  "version": "1.1.41",
+  "url": "https://github.com/shakawatmia12/NewTools/raw/main/update_v1.1.41.zip",
+  "sha256": "d886dbe23ec8a88c9f4af64be56a39767513b6c0c473ff3b780fdb47e598eb79",
+  "sig": "SpJwucBwbLApdkrXcDV6TPnL1cwwUrXLenLxWhfkKBkiw4bOG4VK244EHpJsIGkWsfJqYNxjuyt2w8kPORPPCg==",
+  "notes": "Language-proof account status across all 3 systems (Page/Browser/ADB). The ADB task guard that stops the moment Facebook shows a restriction/suspend/checkpoint/human-check wall now recognises those walls in Bengali, Hindi, Vietnamese, Indonesian, Spanish, Portuguese and Arabic - not only English - both mid-task and at the pre/post health gate, with no extra screenshot cost (MaxPhone/MaxCare-style multilingual markers). Browser and Page already classify by URL path (language-independent) and normalise the UI to English, so all three now hold up when an account's language changes."
 }
