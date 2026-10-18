@@ -1,7 +1,7 @@
 {
-  "version": "1.1.47",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.47.zip",
-  "sha256": "2569ed5f69819784831164385ed26648567f2d0865865b3b32f147c37fd2c2f8",
-  "sig": "mYD20XbbDEjnj5NItZZFRPSOkPT2hZ0RPhaQ/yaS15eDp7HE8FTi/yt8SXAgEzZ/7iBcQv2NPqNtFrLWQkMsBg==",
-  "notes": "Warm-up: comments now MATCH the post (on-topic, account language) + story reaction & reply; more videos/reels watched daily; daily 1 photo + 1 video post with location check-in (country-wise media). Fixes media posting on newer Facebook composers (Gallery control, text-editor caption, Location check-in, Post/Next button, video upload timing)."
+  "version": "1.1.48",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.48.zip",
+  "sha256": "a93ecb7792ca2608dc96c1980b908863c82af13c6e23a8557cb8e7c8f270009d",
+  "sig": "aF7Y68on0Rz44yeWDViolHoh5Zb1G7amGqNRHOiiVM0b0sSNVEqsmXppRDtvHoTE82pBF7tPJ1AXuwZe8YkMAA==",
+  "notes": "Item 17 fix: profile switch now starts the target user first and re-verifies it stays (stopped secondary users no longer bounce back, task runs on the right profile)"
 }
