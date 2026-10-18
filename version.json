@@ -1,7 +1,7 @@
 {
-  "version": "1.1.46",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.46.zip",
-  "sha256": "2fee9b71cc1a29f7a310a48805871a337be2595c1bc537b60c55b577f91b24fb",
-  "sig": "Vs2fA2aqgLEZwp4hLWVNM1smiBkVvJBtKwTp+rYR5MlP5mXbbZ4/L0TwFiciybYVin2nuIV7vP+AUTnSVMFtDQ==",
-  "notes": "Email-code login/unlock rebuilt: multilingual code (any language), fresh-not-stale code, auto-resend, wrong-code + other-mailbox detect, Meta 'change password' prompt dismissed when skippable. Per-account gendered niche (car/bike/gamer, cat/chocolate...) + one-time profile details saved to DB (set once, never churned)."
+  "version": "1.1.47",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.47.zip",
+  "sha256": "2569ed5f69819784831164385ed26648567f2d0865865b3b32f147c37fd2c2f8",
+  "sig": "mYD20XbbDEjnj5NItZZFRPSOkPT2hZ0RPhaQ/yaS15eDp7HE8FTi/yt8SXAgEzZ/7iBcQv2NPqNtFrLWQkMsBg==",
+  "notes": "Warm-up: comments now MATCH the post (on-topic, account language) + story reaction & reply; more videos/reels watched daily; daily 1 photo + 1 video post with location check-in (country-wise media). Fixes media posting on newer Facebook composers (Gallery control, text-editor caption, Location check-in, Post/Next button, video upload timing)."
 }
