@@ -1,7 +1,7 @@
 {
-  "version": "1.1.48",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.48.zip",
-  "sha256": "a93ecb7792ca2608dc96c1980b908863c82af13c6e23a8557cb8e7c8f270009d",
-  "sig": "aF7Y68on0Rz44yeWDViolHoh5Zb1G7amGqNRHOiiVM0b0sSNVEqsmXppRDtvHoTE82pBF7tPJ1AXuwZe8YkMAA==",
-  "notes": "Item 17 fix: profile switch now starts the target user first and re-verifies it stays (stopped secondary users no longer bounce back, task runs on the right profile)"
+  "version": "1.1.49",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.49.zip",
+  "sha256": "c9c0774e5f7c6439c4a2d4d92d92f6050f23a058120d0f49d4ba6e2f66e11ab7",
+  "sig": "NsY2aAKskAL0vt1AvzP9gIzdK9NU5WNSJjcAgGeDNRejdXhD4BfzQ1PsfnbZmW64cVRwi2MuD74TaGEizqi0Dg==",
+  "notes": "Acc/Profile: 1-4 or Custom accounts per phone profile (Account Info - ADB, next to Import). Several Facebook accounts stay logged in inside one profile's app; tasks, Check Login, Run and Warm Up switch to the needed account with Facebook's saved one-tap login (password login only when needed). Smart wall handling: another account's checkpoint is never pinned on the wrong account, and wall screens log out via Help. Assignment fills profiles round-robin; Set Device shows each profile's x/N."
 }
