@@ -1,7 +1,7 @@
 {
-  "version": "1.1.49",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.49.zip",
-  "sha256": "c9c0774e5f7c6439c4a2d4d92d92f6050f23a058120d0f49d4ba6e2f66e11ab7",
-  "sig": "NsY2aAKskAL0vt1AvzP9gIzdK9NU5WNSJjcAgGeDNRejdXhD4BfzQ1PsfnbZmW64cVRwi2MuD74TaGEizqi0Dg==",
-  "notes": "Acc/Profile: 1-4 or Custom accounts per phone profile (Account Info - ADB, next to Import). Several Facebook accounts stay logged in inside one profile's app; tasks, Check Login, Run and Warm Up switch to the needed account with Facebook's saved one-tap login (password login only when needed). Smart wall handling: another account's checkpoint is never pinned on the wrong account, and wall screens log out via Help. Assignment fills profiles round-robin; Set Device shows each profile's x/N."
+  "version": "1.1.50",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.50.zip",
+  "sha256": "6e658c9b99027fab952b39b28ed787272c369e1cfb32a98d25efa392c00a5c32",
+  "sig": "Odluy9YgPf84TK3KHuqPPzWrPMzQ2S6I5eaepSZScQyP1yyxeFaPy6d0SCKI97vAoyue5fRvTl4UeTVp+9WFAA==",
+  "notes": "Warm Up: selfie-verify style face profile photo (male/female checked, saved per account, same photo re-uploaded; phone copy deleted after use). 282 Check: 'Use profile photo' option. ADB Account Info: 282 Photo column + Last Used Time / Running Now."
 }
