@@ -1,7 +1,7 @@
 {
-  "version": "1.1.45",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.45.zip",
-  "sha256": "04519a2456b68ca4284accf82b033d395d36870436ec39e8b0efd5baa5a0adf6",
-  "sig": "z8VGp/s4mXvhi6ysEjOR0l2Ae+V7X4jegistcou9Kv2mJmAPdZJ4o6xAb3uLiLNi2/xWjWrIPBEc/BNH1jS2BQ==",
-  "notes": "Language/version-proof login detection: FB circle-f logo photo backstop (MaxPhone-style) + DOM field-count gate added to is_logged_out, so logged-out screens are recognised in any FB app version/language without logging healthy sessions out on a guess. Warm Up 24/7 engine login brain live-tested across all real devices/profiles."
+  "version": "1.1.46",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.46.zip",
+  "sha256": "2fee9b71cc1a29f7a310a48805871a337be2595c1bc537b60c55b577f91b24fb",
+  "sig": "Vs2fA2aqgLEZwp4hLWVNM1smiBkVvJBtKwTp+rYR5MlP5mXbbZ4/L0TwFiciybYVin2nuIV7vP+AUTnSVMFtDQ==",
+  "notes": "Email-code login/unlock rebuilt: multilingual code (any language), fresh-not-stale code, auto-resend, wrong-code + other-mailbox detect, Meta 'change password' prompt dismissed when skippable. Per-account gendered niche (car/bike/gamer, cat/chocolate...) + one-time profile details saved to DB (set once, never churned)."
 }
