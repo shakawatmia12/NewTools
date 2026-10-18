@@ -1,7 +1,7 @@
 {
-  "version": "1.1.50",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.50.zip",
-  "sha256": "6e658c9b99027fab952b39b28ed787272c369e1cfb32a98d25efa392c00a5c32",
-  "sig": "Odluy9YgPf84TK3KHuqPPzWrPMzQ2S6I5eaepSZScQyP1yyxeFaPy6d0SCKI97vAoyue5fRvTl4UeTVp+9WFAA==",
-  "notes": "Warm Up: selfie-verify style face profile photo (male/female checked, saved per account, same photo re-uploaded; phone copy deleted after use). 282 Check: 'Use profile photo' option. ADB Account Info: 282 Photo column + Last Used Time / Running Now."
+  "version": "1.1.51",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.51.zip",
+  "sha256": "3cffcb60bd651cbbc64aa823d59596410060dc2698c96e2901e59e102d1e83e7",
+  "sig": "11QU23Qr/y/WL5LBZR2BT691HOXziV9h2LbeH7jjA+35ld8pEsevdq24IscGfA3CtyNDfoPyqMLgYi5iGm/iDg==",
+  "notes": "Token-based on-device account checks wired into After Check Task: Page / BM / Ad account read risk-free via a token that never leaves the phone (device curl -> graph, PC sees only results). New Ads Account column (N active / cards). After Check Task dialog shows per-field read method (token/screen)."
 }
