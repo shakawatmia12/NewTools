@@ -1,7 +1,7 @@
 {
-  "version": "1.1.53",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.53.zip",
-  "sha256": "3970ca3722098d11cb7106c176b4004180642eae1f524474aa7d32c734c2580e",
-  "sig": "hj2BsA9SNJ3KJZZ//lO2K4ZhrWcjNhjWIB556hHR9axo0yIcQLXD1pTfLoWuovqXA1sMOqnCphMnX6BdpdfbCw==",
-  "notes": "Emulator (FB Lite): the rest of the ADB tasks now run on FB Lite - Poke, Cancel friend requests (oldest first), Marketplace view+save, Seeding Events, Interact Groups, Reply Message (unread first), Invite friends, Join suggested groups, Leave group, Create group, Unfriend, Happy Birthday, Interact Comment, Message by UID, Search Google / Access Website (emulator browser via the account proxy), Profile details. Fixes: suggested-group join verified on the group page, leave-group confirm, Create group handles Facebook's 'Something went wrong'."
+  "version": "1.1.54",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.54.zip",
+  "sha256": "b2d1262c4f6eb4da91964a0ad082888c0ec44e64aa460bc621e918edac50d787",
+  "sig": "zq4K8v+SUkIlS4bewiFjn8Nw1zm+i2k4lZIufuPMSLlhri52DMe25i6JExi4fg2vepC04fUDLtZD4cangjLmCg==",
+  "notes": "Emulator Mode: new 'Hide' checkbox next to Max running. Ticked = emulators run in the background only (no screen window, stronger RAM squeeze every 2 min). Unticked = every emulator a task runs (Run, Warm Up, 282, Check Login) shows its live screen while the task holds it and closes after; ticking/unticking applies live. Open Manually always shows its screen."
 }
