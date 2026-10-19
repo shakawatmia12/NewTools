@@ -1,7 +1,7 @@
 {
-  "version": "1.1.51",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.51.zip",
-  "sha256": "3cffcb60bd651cbbc64aa823d59596410060dc2698c96e2901e59e102d1e83e7",
-  "sig": "11QU23Qr/y/WL5LBZR2BT691HOXziV9h2LbeH7jjA+35ld8pEsevdq24IscGfA3CtyNDfoPyqMLgYi5iGm/iDg==",
-  "notes": "Token-based on-device account checks wired into After Check Task: Page / BM / Ad account read risk-free via a token that never leaves the phone (device curl -> graph, PC sees only results). New Ads Account column (N active / cards). After Check Task dialog shows per-field read method (token/screen)."
+  "version": "1.1.52",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.52.zip",
+  "sha256": "e8255b54b9b37cd4f925172db668754bdba5894b5bba657c72a76d4227d8e241",
+  "sig": "M5x5cYNt6ju0zUMmItpmWC93SU47fxcBHqoEeSXTv4J/4ub22aRu7A1c1YZU4NUEdrO64rclNK2Qc3hdmov3DQ==",
+  "notes": "Browser much lighter: ~920 MB -> ~450-550 MB per window (software compositing + background services off). MetaMax-style small windows: every browser gets its own free tile on screen (no more opening on top of each other), Mobile mode shows the full phone in a small zoomed window (~42 fit on screen). Anti-detect: CPU/RAM fingerprint now stable per account. Emulator FB Lite: more tasks (Poke, Cancel requests, Marketplace, Events, Interact Groups, Reply Message, Invite), Lite After Check, automated-behavior warning auto-dismiss, emulator 956/mail-code login."
 }
