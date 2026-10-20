@@ -1,7 +1,7 @@
 {
-  "version": "1.1.55",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.55.zip",
-  "sha256": "2caac5ca930ede1a921ee4a1b0148a2bbfcf3af7a8400a34c3c9231a8836bde9",
-  "sig": "RlNGFo37I9ZjdegataomZ/MKDKNy67+QN13rdLHa5wAMsyYIPYIKJ0St6//IXfu8EvxZOzWRnRbtrBTTrj1oBA==",
-  "notes": "Custom Copy Format (MaxCare style) in every Copy menu: pick up to 10 fields + separator, saved, one-click star copy. Warm Up 24/7 now separate for Mobile Mode and Emulator Mode (own settings + On/Off, both run together). FB Lite: a popup that keeps coming back after Skip is escaped (Not now / Back / restart Lite) instead of looping. Plus emulator + FB Lite fixes."
+  "version": "1.1.56",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.56.zip",
+  "sha256": "678c6bf7d23c8923c0654cfffc579898838b25f61f650c532be8d4d2c9acbbc0",
+  "sig": "gbXgo3psHwKR4M5xDlWW4AYpPsUAh6nMnL5CLy2l+iOV3T2PLZr1uoe1QmCcP0405TylWhm+PAMjj0WwYLVzAA==",
+  "notes": "Emulator Mode: 'Install Emulator System' now works on any PC - it downloads the emulator system (~325 MB, signed + checksummed, resumes if cut) from GitHub and installs it. No bundle copying needed."
 }
