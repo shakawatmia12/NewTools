@@ -1,7 +1,7 @@
 {
-  "version": "1.1.54",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.54.zip",
-  "sha256": "b2d1262c4f6eb4da91964a0ad082888c0ec44e64aa460bc621e918edac50d787",
-  "sig": "zq4K8v+SUkIlS4bewiFjn8Nw1zm+i2k4lZIufuPMSLlhri52DMe25i6JExi4fg2vepC04fUDLtZD4cangjLmCg==",
-  "notes": "Emulator Mode: new 'Hide' checkbox next to Max running. Ticked = emulators run in the background only (no screen window, stronger RAM squeeze every 2 min). Unticked = every emulator a task runs (Run, Warm Up, 282, Check Login) shows its live screen while the task holds it and closes after; ticking/unticking applies live. Open Manually always shows its screen."
+  "version": "1.1.55",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.55.zip",
+  "sha256": "2caac5ca930ede1a921ee4a1b0148a2bbfcf3af7a8400a34c3c9231a8836bde9",
+  "sig": "RlNGFo37I9ZjdegataomZ/MKDKNy67+QN13rdLHa5wAMsyYIPYIKJ0St6//IXfu8EvxZOzWRnRbtrBTTrj1oBA==",
+  "notes": "Custom Copy Format (MaxCare style) in every Copy menu: pick up to 10 fields + separator, saved, one-click star copy. Warm Up 24/7 now separate for Mobile Mode and Emulator Mode (own settings + On/Off, both run together). FB Lite: a popup that keeps coming back after Skip is escaped (Not now / Back / restart Lite) instead of looping. Plus emulator + FB Lite fixes."
 }
