@@ -1,7 +1,7 @@
 {
-  "version": "1.1.58",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.58.zip",
-  "sha256": "443d041d6511bb6151aead780f39c5404e6a46e24279f4f17ee6ae38641ab4f4",
-  "sig": "xlP+KfMBBvxQAceY78/NsT/LR3ChdVz/P/MDmbjCZlFy81gkebapFb0c6jSeqKG4I7jjkh1RECF+vedHaha8AQ==",
-  "notes": "Emulator Mode: if Virtualization is OFF in the BIOS, the install card shows one button - 'Restart into BIOS' - that restarts the PC straight into the BIOS, with a 3-line guide to switch it on."
+  "version": "1.1.59",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.59.zip",
+  "sha256": "8243e4d2b1a4c2caed46cd6284b3721a61fade23a34e8a564e5cb4b7cc8157cb",
+  "sig": "HO//CQoH0qm1oufQ5KjdSnDgZbiNFAIBfY0NxuEA2Cxk/3Rn9qDEs9ZO8SXWH+aMSmJdvPdiq5pBkKGIct3cAQ==",
+  "notes": "Emulator install, smarter: a slow/unreadable Virtualization check no longer hides Install; the setup writes C:\\ADBEmu\\setup.log and the Install card shows how the last run went (failed + why / running after restart / restart pending / didn't resume) and switches to Installed by itself when the after-restart setup finishes; disk space is checked before downloading."
 }
