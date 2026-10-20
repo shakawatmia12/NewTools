@@ -1,7 +1,7 @@
 {
-  "version": "1.1.60",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.60.zip",
-  "sha256": "038af704ca44a2bbfcf5aae6e870295bd66093ce3b6ca240fef3ee3eb5e44f15",
-  "sig": "4cpkpZrmthY6/pYJLopY0CLjpExeDrcTd7dfqYHGYG14SKeUS0+wRfX4LQ7JfkY8XIWyWA8AKC/7rla6ni1XDg==",
-  "notes": "Warm Up 24/7 smarter: knows how many days ago each account logged in on its device and how many minutes it is used per day (all automatic). A fresh / new-device login, a re-login or a comeback after 10+ days only looks around at first (feed, videos, reels, stories) - no friend adds, likes, comments, messages, posts or profile changes - then ramps up over 14 days. Daily time cap per account. Every account is touched whenever the tool runs, even a few hours a day (missed sessions are made up, the tool learns its own online hours, least-touched account goes first). Emulator Mode: fewer, longer sessions = far fewer emulator start/stops. FB Lite task fixes (tabs, sheets, comments, messages, feed recovery)."
+  "version": "1.1.61",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.61.zip",
+  "sha256": "2f7c9aaef5e79b63d0e7b2ed8b9c928c480a23d339e5cbd1d65129cb53e70847",
+  "sig": "mf2WxvhnleDyDqw5drj0DlrfcNZsiJ/PpHjZtZ6JyCdulsWgoB5Wzy+zQPPxEuFogGlvSEhqbUaJ+1v2V6KSCQ==",
+  "notes": "Screen recognition: human-check / video-selfie / checkpoint-page / 956 email walls named, loading + launcher + logged-out screens, normal FB pages no longer unknown, feed no longer read as Notifications; FB Lite onboarding multilingual Skip/Not now (incl. Chinese), contacts page Back fallback, footer Skip"
 }
