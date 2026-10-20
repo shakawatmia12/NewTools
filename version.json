@@ -1,7 +1,7 @@
 {
-  "version": "1.1.59",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.59.zip",
-  "sha256": "8243e4d2b1a4c2caed46cd6284b3721a61fade23a34e8a564e5cb4b7cc8157cb",
-  "sig": "HO//CQoH0qm1oufQ5KjdSnDgZbiNFAIBfY0NxuEA2Cxk/3Rn9qDEs9ZO8SXWH+aMSmJdvPdiq5pBkKGIct3cAQ==",
-  "notes": "Emulator install, smarter: a slow/unreadable Virtualization check no longer hides Install; the setup writes C:\\ADBEmu\\setup.log and the Install card shows how the last run went (failed + why / running after restart / restart pending / didn't resume) and switches to Installed by itself when the after-restart setup finishes; disk space is checked before downloading."
+  "version": "1.1.60",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.60.zip",
+  "sha256": "038af704ca44a2bbfcf5aae6e870295bd66093ce3b6ca240fef3ee3eb5e44f15",
+  "sig": "4cpkpZrmthY6/pYJLopY0CLjpExeDrcTd7dfqYHGYG14SKeUS0+wRfX4LQ7JfkY8XIWyWA8AKC/7rla6ni1XDg==",
+  "notes": "Warm Up 24/7 smarter: knows how many days ago each account logged in on its device and how many minutes it is used per day (all automatic). A fresh / new-device login, a re-login or a comeback after 10+ days only looks around at first (feed, videos, reels, stories) - no friend adds, likes, comments, messages, posts or profile changes - then ramps up over 14 days. Daily time cap per account. Every account is touched whenever the tool runs, even a few hours a day (missed sessions are made up, the tool learns its own online hours, least-touched account goes first). Emulator Mode: fewer, longer sessions = far fewer emulator start/stops. FB Lite task fixes (tabs, sheets, comments, messages, feed recovery)."
 }
