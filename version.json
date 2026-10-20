@@ -1,7 +1,7 @@
 {
-  "version": "1.1.56",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.56.zip",
-  "sha256": "678c6bf7d23c8923c0654cfffc579898838b25f61f650c532be8d4d2c9acbbc0",
-  "sig": "gbXgo3psHwKR4M5xDlWW4AYpPsUAh6nMnL5CLy2l+iOV3T2PLZr1uoe1QmCcP0405TylWhm+PAMjj0WwYLVzAA==",
-  "notes": "Emulator Mode: 'Install Emulator System' now works on any PC - it downloads the emulator system (~325 MB, signed + checksummed, resumes if cut) from GitHub and installs it. No bundle copying needed."
+  "version": "1.1.57",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.57.zip",
+  "sha256": "b3261f682b5c24cdef90b542520e3692ac93f67c852ae74028c8b424af9a025f",
+  "sig": "OpkyXDnQ8sVieFfU7LkCVhJf9TOyzQjJ5fw0oJmSPJ/waY1/i8rCbSn6SnVKgPnO7FX1xT0pQO89AuEzVuJmBw==",
+  "notes": "Emulator install is now fully hands-free: on a PC where WSL2 must be switched on, Windows restarts by itself in 60 s (No = cancel) and the setup finishes by itself after login - no Yes / Enter to press."
 }
