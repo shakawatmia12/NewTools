@@ -138,3 +138,4 @@ update_v1.1.63.zip filter=lfs diff=lfs merge=lfs -text
 emu2_bundle_v1.1.63.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.1.64.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.1.65.zip filter=lfs diff=lfs merge=lfs -text
+update_v1.1.66.zip filter=lfs diff=lfs merge=lfs -text

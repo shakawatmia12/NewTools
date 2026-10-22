@@ -1,7 +1,7 @@
 {
-  "version": "1.1.65",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.65.zip",
-  "sha256": "2be8b5564cc82294fce7d4c3b18fa4cee75f213afb822474564f201e1521d01f",
-  "sig": "D3u7ooFqagv6jf9gg4T9/Oi+IBxCiChMO9HAFQ/8cKlmLrPmN7U+oX+G1IZY1K5S/3ESgi/9MwpU3QVHeeBMDA==",
-  "notes": "emu2 engine auto-fetch on first run: machines that only took the app update now download + verify + install the fingerprint-Chromium engine bundle to C:\\emu2 automatically (skipped when the engine is already present). Supersedes 1.1.64."
+  "version": "1.1.66",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.66.zip",
+  "sha256": "fca67687e3386a4e68808bf5fb76a9646c2ad041e7ad2c56fc4a5fb7557fad73",
+  "sig": "s2Qb8HOFxlDhXzonRPhT5NF3IDRGAcJHOT0NoPmcJdBMSHg1Sk2UK/9huIkWKoZVFAebhA2+TkedNRznuFyJAA==",
+  "notes": "SIM + location spoof (IMEI/IMSI/ICCID/line1/operator/country-ISO) now reaches every PC: emu2 engine code rides the app update and rebuilds the device module per machine. Derived from the proxy's country, so SIM identity and location follow the IP."
 }
