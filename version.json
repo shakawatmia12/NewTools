@@ -1,7 +1,7 @@
 {
-  "version": "1.1.63",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.63.zip",
-  "sha256": "c61102ccab0b1ec0eb91ab46069b16edb1ebdbcc6b32338e1d58b572bbb57861",
-  "sig": "kYHUfz+rVLJX2d0vVbCLATMH1wQPRWiXnRkGGz4ht9C5tF0yqvSjV2+PddEWVMRJblPnC7vpJQf0DZ+7Xs3XAw==",
-  "notes": "emu2 default browser+emulator engine (deep fingerprint spoof, per-account phone+desktop persona); human-like touch via on-device uinput daemon + human activity/clicks; Chrome notification permission hardened (Notification/PushManager kept defined - no bot tell); OMOCaptcha API-only (in-browser extension removed/undetectable); virtual touch daemon files + abstract socket hidden from detection; permission dialogs always declined."
+  "version": "1.1.64",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.64.zip",
+  "sha256": "394e72d7a897a13bc1b21cd1dfe34d0f17f60ab7a18d270fd7fd4970810d77d8",
+  "sig": "DvtnynEs/dLZlaNHZp8pfSMaMGsklUp5e6WT5FjbP1Inburf7EWey6cQEA1RPB9D0tb2bVfP+eaSYTzXkYhdBQ==",
+  "notes": "emu2 engine auto-fetch on first run (machines that only took the app update now download + verify + install the fingerprint-Chromium engine bundle to C:\\emu2 automatically); same as 1.1.63 otherwise."
 }
