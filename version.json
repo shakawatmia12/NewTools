@@ -1,7 +1,7 @@
 {
-  "version": "1.1.61",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.61.zip",
-  "sha256": "2f7c9aaef5e79b63d0e7b2ed8b9c928c480a23d339e5cbd1d65129cb53e70847",
-  "sig": "mf2WxvhnleDyDqw5drj0DlrfcNZsiJ/PpHjZtZ6JyCdulsWgoB5Wzy+zQPPxEuFogGlvSEhqbUaJ+1v2V6KSCQ==",
-  "notes": "Screen recognition: human-check / video-selfie / checkpoint-page / 956 email walls named, loading + launcher + logged-out screens, normal FB pages no longer unknown, feed no longer read as Notifications; FB Lite onboarding multilingual Skip/Not now (incl. Chinese), contacts page Back fallback, footer Skip"
+  "version": "1.1.63",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.63.zip",
+  "sha256": "c61102ccab0b1ec0eb91ab46069b16edb1ebdbcc6b32338e1d58b572bbb57861",
+  "sig": "kYHUfz+rVLJX2d0vVbCLATMH1wQPRWiXnRkGGz4ht9C5tF0yqvSjV2+PddEWVMRJblPnC7vpJQf0DZ+7Xs3XAw==",
+  "notes": "emu2 default browser+emulator engine (deep fingerprint spoof, per-account phone+desktop persona); human-like touch via on-device uinput daemon + human activity/clicks; Chrome notification permission hardened (Notification/PushManager kept defined - no bot tell); OMOCaptcha API-only (in-browser extension removed/undetectable); virtual touch daemon files + abstract socket hidden from detection; permission dialogs always declined."
 }
