@@ -1,7 +1,7 @@
 {
-  "version": "1.1.64",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.64.zip",
-  "sha256": "394e72d7a897a13bc1b21cd1dfe34d0f17f60ab7a18d270fd7fd4970810d77d8",
-  "sig": "DvtnynEs/dLZlaNHZp8pfSMaMGsklUp5e6WT5FjbP1Inburf7EWey6cQEA1RPB9D0tb2bVfP+eaSYTzXkYhdBQ==",
-  "notes": "emu2 engine auto-fetch on first run (machines that only took the app update now download + verify + install the fingerprint-Chromium engine bundle to C:\\emu2 automatically); same as 1.1.63 otherwise."
+  "version": "1.1.65",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.65.zip",
+  "sha256": "2be8b5564cc82294fce7d4c3b18fa4cee75f213afb822474564f201e1521d01f",
+  "sig": "D3u7ooFqagv6jf9gg4T9/Oi+IBxCiChMO9HAFQ/8cKlmLrPmN7U+oX+G1IZY1K5S/3ESgi/9MwpU3QVHeeBMDA==",
+  "notes": "emu2 engine auto-fetch on first run: machines that only took the app update now download + verify + install the fingerprint-Chromium engine bundle to C:\\emu2 automatically (skipped when the engine is already present). Supersedes 1.1.64."
 }
