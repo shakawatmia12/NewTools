@@ -1,0 +1,7 @@
+{
+  "version": "1.1.63",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/emu2_bundle_v1.1.63.zip",
+  "sha256": "1391a0d22b5df5fab5cab4476e0ce60164dfad36c01ee4bb34537949b3e0f622",
+  "sig": "fo46w4NXivTSa4IU+SJKU7du4mV/oU7u1VUqeL7w4HSKvh1P5ZUQ8pQZuq2Odu1I3K/QgIJVwF+zoyZiQOcMDg==",
+  "notes": "emu2 engine bundle (fingerprint-Chromium + device modules + scripts). No user-data/keys. Fetched once per machine; WSL2/redroid emulator runtime is provisioned on-machine by the bundle scripts."
+}
