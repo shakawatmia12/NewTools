@@ -1,7 +1,7 @@
 {
-  "version": "1.1.67",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.67.zip",
-  "sha256": "e74ab64f64e874b4dab8156389147f7d79bed7fe95226300d32dcb3dc04007f3",
-  "sig": "rJyLBkgv0Nv0aG/KSB83A0oqYV5s2JpIlhw1wMFMuWe1ra8gYy7GIkxl5t4rGNhLGuX1CJtYI1xzQ6lz/AETBQ==",
-  "notes": "Hotmail/Outlook manager now built into the tool on every PC: right-click an account - Hotmail - View IMAP / Just Login / Check Token / Change Password / Add Recovery / Open Browser, all run on the account's own Email/Pass/Recovery columns using its Android user-agent + proxy, with a live per-step Status Detail trace. A failed login now shows the real reason (e.g. 'Proxy dead / connect failed') in Status Detail instead of staying stuck on 'Opening login page'."
+  "version": "1.1.68",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.68.zip",
+  "sha256": "bfee6626ad084352bfd94b79440f15923090e34ea8d0e609bba34cdf85bed8fe",
+  "sig": "vj6cBDExA2aZCl53DIjUD2eyBKn1nsba8SJD7PVRHlKsSKoGjo8U7wMZbQdoDNf6X7Aji+BclDB4XmBq3/rRDA==",
+  "notes": "Hotmail/Outlook accounts now feed Facebook email codes automatically everywhere the tool reads a mail code (Check Login, auto-relogin, 24/7 warmup, browser and page flows): when an email code is needed and the account has no saved token - or the token is dead - the tool silently runs that account's Just Login on its own proxy + Android user-agent, gets a fresh token, then reads the Facebook code straight from the mailbox, exactly like the other mail providers. The right-click Hotmail menu (Just Login / Check Token / Change Password / Add Recovery / ...) now runs the selected accounts in parallel - a rolling pool of 25 (one finishes, the next starts) instead of one-by-one - with the account store made concurrency-safe so parallel logins never overwrite each other's tokens. And when an account's email is a real webmail the tool has no reader for (not Hotmail / mail.td / 5smail / tempmail.plus / smvmail / fviainboxes), it now says 'Mail not supported' at once instead of waiting out the whole timeout."
 }
