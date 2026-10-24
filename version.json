@@ -1,7 +1,7 @@
 {
-  "version": "1.1.68",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.68.zip",
-  "sha256": "bfee6626ad084352bfd94b79440f15923090e34ea8d0e609bba34cdf85bed8fe",
-  "sig": "vj6cBDExA2aZCl53DIjUD2eyBKn1nsba8SJD7PVRHlKsSKoGjo8U7wMZbQdoDNf6X7Aji+BclDB4XmBq3/rRDA==",
-  "notes": "Hotmail/Outlook accounts now feed Facebook email codes automatically everywhere the tool reads a mail code (Check Login, auto-relogin, 24/7 warmup, browser and page flows): when an email code is needed and the account has no saved token - or the token is dead - the tool silently runs that account's Just Login on its own proxy + Android user-agent, gets a fresh token, then reads the Facebook code straight from the mailbox, exactly like the other mail providers. The right-click Hotmail menu (Just Login / Check Token / Change Password / Add Recovery / ...) now runs the selected accounts in parallel - a rolling pool of 25 (one finishes, the next starts) instead of one-by-one - with the account store made concurrency-safe so parallel logins never overwrite each other's tokens. And when an account's email is a real webmail the tool has no reader for (not Hotmail / mail.td / 5smail / tempmail.plus / smvmail / fviainboxes), it now says 'Mail not supported' at once instead of waiting out the whole timeout."
+  "version": "1.1.69",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.69.zip",
+  "sha256": "7d436ba16876fd6e215d083d643f6bc2851fba8bf1e8598a93e544a07256ae2b",
+  "sig": "aLoDSY2/dftmed3APtJoXpUueha7SEyLstvi8ztJbgoW+uuAmDA4KajTfHooY6FGt/9VUduqvsdhbFA3r9IPCg==",
+  "notes": "v1.1.69: Stop All now also stops Hotmail runs; Delete Session keeps the token (clears only the saved session) and the Hotmail login rate-limit hard-stop is removed (keeps trying, change proxy and retry); Open Browser (Hotmail) now asks how many to open at a time + a close-after-token checkbox; Check UID no longer flips the Profile/login status (only writes Status Detail)."
 }
