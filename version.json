@@ -1,7 +1,7 @@
 {
-  "version": "1.1.70",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.70.zip",
-  "sha256": "72a9430fa173869cde160eacb63ce61d7c9caa181f0a5c13d3da8fbdd52a6a5e",
-  "sig": "Ts33kr++A5NJD0/8gERAMNXyMWX5v1UmFxNWQ6TtV+ckCENpBgb7WfrCIdX0dcuyRQDcGuDZgnj4nCX2hEO+AA==",
-  "notes": "v1.1.70: Page Info account list now gets the same Hotmail upgrades as the main grid - Open Browser asks how many at a time + close-after-token checkbox, bulk Hotmail runs as a rolling 25 pool (was one-by-one), Stop All stops Hotmail runs on this tab too, and Delete Session keeps the token (clears only the saved session)."
+  "version": "1.1.71",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.71.zip",
+  "sha256": "eda41441a1cb1b3ab444aa7b2f9c3281886cea8b6509916d0527c44449017eb1",
+  "sig": "4fFAQ12U7f15YyFDHFFpVpvjkFplnLazR7DjNRCVQhDWBMC3vEqBQOv5VLAKc7f11occ3xrASl4IxKVceu6EAA==",
+  "notes": "v1.1.71: Emulator Mode - FB-only proxies (e.g. Geonix IPv6) now connect: a proxy that 502s the IP-check sites is verified on facebook.com instead and remembered; country/time zone falls back to the proxy's own IP; a proxy-dead account no longer opens its emulator screen (status shows Proxy die)."
 }
