@@ -1,7 +1,7 @@
 {
-  "version": "1.1.66",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.66.zip",
-  "sha256": "fca67687e3386a4e68808bf5fb76a9646c2ad041e7ad2c56fc4a5fb7557fad73",
-  "sig": "s2Qb8HOFxlDhXzonRPhT5NF3IDRGAcJHOT0NoPmcJdBMSHg1Sk2UK/9huIkWKoZVFAebhA2+TkedNRznuFyJAA==",
-  "notes": "SIM + location spoof (IMEI/IMSI/ICCID/line1/operator/country-ISO) now reaches every PC: emu2 engine code rides the app update and rebuilds the device module per machine. Derived from the proxy's country, so SIM identity and location follow the IP."
+  "version": "1.1.67",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.67.zip",
+  "sha256": "e74ab64f64e874b4dab8156389147f7d79bed7fe95226300d32dcb3dc04007f3",
+  "sig": "rJyLBkgv0Nv0aG/KSB83A0oqYV5s2JpIlhw1wMFMuWe1ra8gYy7GIkxl5t4rGNhLGuX1CJtYI1xzQ6lz/AETBQ==",
+  "notes": "Hotmail/Outlook manager now built into the tool on every PC: right-click an account - Hotmail - View IMAP / Just Login / Check Token / Change Password / Add Recovery / Open Browser, all run on the account's own Email/Pass/Recovery columns using its Android user-agent + proxy, with a live per-step Status Detail trace. A failed login now shows the real reason (e.g. 'Proxy dead / connect failed') in Status Detail instead of staying stuck on 'Opening login page'."
 }
