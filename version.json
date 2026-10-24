@@ -1,7 +1,7 @@
 {
-  "version": "1.1.69",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.69.zip",
-  "sha256": "7d436ba16876fd6e215d083d643f6bc2851fba8bf1e8598a93e544a07256ae2b",
-  "sig": "aLoDSY2/dftmed3APtJoXpUueha7SEyLstvi8ztJbgoW+uuAmDA4KajTfHooY6FGt/9VUduqvsdhbFA3r9IPCg==",
-  "notes": "v1.1.69: Stop All now also stops Hotmail runs; Delete Session keeps the token (clears only the saved session) and the Hotmail login rate-limit hard-stop is removed (keeps trying, change proxy and retry); Open Browser (Hotmail) now asks how many to open at a time + a close-after-token checkbox; Check UID no longer flips the Profile/login status (only writes Status Detail)."
+  "version": "1.1.70",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.70.zip",
+  "sha256": "72a9430fa173869cde160eacb63ce61d7c9caa181f0a5c13d3da8fbdd52a6a5e",
+  "sig": "Ts33kr++A5NJD0/8gERAMNXyMWX5v1UmFxNWQ6TtV+ckCENpBgb7WfrCIdX0dcuyRQDcGuDZgnj4nCX2hEO+AA==",
+  "notes": "v1.1.70: Page Info account list now gets the same Hotmail upgrades as the main grid - Open Browser asks how many at a time + close-after-token checkbox, bulk Hotmail runs as a rolling 25 pool (was one-by-one), Stop All stops Hotmail runs on this tab too, and Delete Session keeps the token (clears only the saved session)."
 }
