@@ -1,7 +1,7 @@
 {
-  "version": "1.1.71",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.71.zip",
-  "sha256": "eda41441a1cb1b3ab444aa7b2f9c3281886cea8b6509916d0527c44449017eb1",
-  "sig": "4fFAQ12U7f15YyFDHFFpVpvjkFplnLazR7DjNRCVQhDWBMC3vEqBQOv5VLAKc7f11occ3xrASl4IxKVceu6EAA==",
-  "notes": "v1.1.71: Emulator Mode - FB-only proxies (e.g. Geonix IPv6) now connect: a proxy that 502s the IP-check sites is verified on facebook.com instead and remembered; country/time zone falls back to the proxy's own IP; a proxy-dead account no longer opens its emulator screen (status shows Proxy die)."
+  "version": "1.1.72",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.72.zip",
+  "sha256": "13dcf7856a148f24a25ced0a2a7baddb693fe47de9916079d4e64776a9a14dd0",
+  "sig": "hnFlPbsFBPR9eu1x4wqYZUSgVHIA/4FKKMWeRCp9WXabiPiWAdbHJwaK1HWCsxqRf/UQHZDLtRmzsF5gmk1IBA==",
+  "notes": "v1.1.72: Emulators look more like a real phone - setup marked complete, ROM build date matches each phone's firmware, shell 'uname' and the kernel show the phone's own ARM kernel (per chip), CPU core count/clusters match the chip (Pixel 8 = 9 cores, S24 = 10), Go-edition low-RAM flag only on Go phones; RAM/disk calculator re-measured for the Android 14 engine."
 }
