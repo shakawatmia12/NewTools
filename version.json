@@ -1,7 +1,7 @@
 {
-  "version": "1.1.72",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.72.zip",
-  "sha256": "13dcf7856a148f24a25ced0a2a7baddb693fe47de9916079d4e64776a9a14dd0",
-  "sig": "hnFlPbsFBPR9eu1x4wqYZUSgVHIA/4FKKMWeRCp9WXabiPiWAdbHJwaK1HWCsxqRf/UQHZDLtRmzsF5gmk1IBA==",
-  "notes": "v1.1.72: Emulators look more like a real phone - setup marked complete, ROM build date matches each phone's firmware, shell 'uname' and the kernel show the phone's own ARM kernel (per chip), CPU core count/clusters match the chip (Pixel 8 = 9 cores, S24 = 10), Go-edition low-RAM flag only on Go phones; RAM/disk calculator re-measured for the Android 14 engine."
+  "version": "1.1.73",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.73.zip",
+  "sha256": "7eb84417d53fc46bd5e654e8618bb9963fb9c01c104f3fbef836ca3a4aaaa203",
+  "sig": "mu8OErinR2TA+k4G9ahz+S4bZlpNePBC5kmz7pRPDTg/h93dXGiBUj1mzxvRsJrLrS1ZFaNQjqp2xS9r/p/eCw==",
+  "notes": "v1.1.73: Real-phone Warm Up 24/7 - all tasks live-tested + fixed (group post opens joined groups by search, story/note/pro-mode on FB's new screens, video post as Reel with check-in on the city, a sure daily share, sale posts and adult groups skipped, photo/cover proof by the uploaded picture after the upload finishes); battery guard by real voltage (power-board phones no longer skipped); names that don't fit the country are flagged and changed late (day 7-10, alone that day) once Facebook allows; After Check reads both 'Accounts Center' and 'Meta Account' layouts."
 }
