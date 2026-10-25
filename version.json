@@ -1,7 +1,7 @@
 {
   "version": "1.1.73",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.73.zip",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/ef433942c305d5e3908172b2486f78c6adfcb5ad/update_v1.1.73.zip",
   "sha256": "7eb84417d53fc46bd5e654e8618bb9963fb9c01c104f3fbef836ca3a4aaaa203",
-  "sig": "mu8OErinR2TA+k4G9ahz+S4bZlpNePBC5kmz7pRPDTg/h93dXGiBUj1mzxvRsJrLrS1ZFaNQjqp2xS9r/p/eCw==",
+  "sig": "Zv9jGjY/ofkxMuPMYvGbD6B04dNO4sFX71e3pbwaN1BfRT1cTDXpWlfTTecIDXl6QADzeHvL0VniNXiEJ+P/DA==",
   "notes": "v1.1.73: Real-phone Warm Up 24/7 - all tasks live-tested + fixed (group post opens joined groups by search, story/note/pro-mode on FB's new screens, video post as Reel with check-in on the city, a sure daily share, sale posts and adult groups skipped, photo/cover proof by the uploaded picture after the upload finishes); battery guard by real voltage (power-board phones no longer skipped); names that don't fit the country are flagged and changed late (day 7-10, alone that day) once Facebook allows; After Check reads both 'Accounts Center' and 'Meta Account' layouts."
 }
