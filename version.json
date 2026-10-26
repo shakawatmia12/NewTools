@@ -1,7 +1,7 @@
 {
-  "version": "1.1.74",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.74.zip",
-  "sha256": "5accbe11a2203cd523ea88944495a9af8e0b6f8f4524f765a4fd177fe772b1d2",
-  "sig": "fG2t4fXFm6pt+3W4/Rq/o5crxSabUTMdG+6g8RQAt/zPMSqosM3GZN+fcwPjUFbdlbOK0AC0B6xAtOePDfihDw==",
-  "notes": "v1.1.74: Real phones' phone book now really fills - the contacts + a month of call history (the account country's names and numbers) were never written because the script push into a root-only folder failed silently ('phone book only 0/41' on every entry); a profile whose call log never landed gets its month of history once."
+  "version": "1.1.75",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.75.zip",
+  "sha256": "f65bebf93edc6571e555464b271b106cb836d634a535a19ef9df0205dfb0014f",
+  "sig": "qUt9QgobJFc9id5J0Ozk6vj4Id58Vw2ZX4oI2eBoCAlkHUXV0lpuBZbFM5zeSgbxw3gLIyzTNgb4288QvnB0BQ==",
+  "notes": "v1.1.75: Warm Up 24/7 - a new account's profile photo and one-time profile setup (bio, city ...) now wait until warm-up day 5 (Growing) instead of the first sessions; every imported account starts at day 0 (the old-account head start is removed); rare profile/cover photo tasks now respect the age stage."
 }
