@@ -1,7 +1,7 @@
 {
-  "version": "1.1.75",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.75.zip",
-  "sha256": "f65bebf93edc6571e555464b271b106cb836d634a535a19ef9df0205dfb0014f",
-  "sig": "qUt9QgobJFc9id5J0Ozk6vj4Id58Vw2ZX4oI2eBoCAlkHUXV0lpuBZbFM5zeSgbxw3gLIyzTNgb4288QvnB0BQ==",
-  "notes": "v1.1.75: Warm Up 24/7 - a new account's profile photo and one-time profile setup (bio, city ...) now wait until warm-up day 5 (Growing) instead of the first sessions; every imported account starts at day 0 (the old-account head start is removed); rare profile/cover photo tasks now respect the age stage."
+  "version": "1.1.76",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.76.zip",
+  "sha256": "eabfb3da8bfb09a65048202e0e74cc3ce3301bd31ff39a919aff9fa165978f43",
+  "sig": "aHyPUyhgwHcRsvkDVU8jsWV5Mi/0RLYnNY8nJ36381cNwGcLHR/ofFT9zcI4VlR7AJsQFVMAc1XrE3bqVh5DAw==",
+  "notes": "v1.1.76: FB Lite screen reading (OCR) fixed - its models were missing from the build, so emulator tasks saw 'no text'; FB Lite popup catalog (lite_pages.json) now shipped; Warm Up no longer hangs at 'starting' (worker thread touched the UI table); phone login guards - waits for a profile to finish booting, never logs into the wrong profile after an Android restart, reboots a phone whose UI died."
 }
