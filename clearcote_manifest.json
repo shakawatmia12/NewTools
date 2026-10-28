@@ -1,7 +1,7 @@
 {
-  "version": "2",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/clearcote_bundle_v2.zip",
-  "sha256": "722f92fdb8a57f7a4d0319e5c348d805291071c68396ed83725f43da433a2ef8",
-  "sig": "zsM0i5bCLQeKopROsbzTpEU1HzGhRbGrqy4XZNHMim9KcO+s8YzCoHDQ1V3aXzlf7g6tp+yIFLocGarbt4kPDA==",
+  "version": "3",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/clearcote_bundle_v3.zip",
+  "sha256": "048aa8fbae5704f694b6f4edb70507096f79979cf40af07d38d013caf7f1a670",
+  "sig": "yZ1FBxLuHjIVCbKysgFZU/3XZTnTxTPuZbR6gPWCjsZZtNmErYda2/ojN4TiADRi+BT9naPtvCWwRlTJS4TqBw==",
   "notes": "Clearcote engine bundle: our own Chrome 150 build + phone/desktop device tables + AOSP Android fonts. No user data/keys. Installed once per PC under %LOCALAPPDATA%\\ClearcoteEngine."
 }
