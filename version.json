@@ -1,7 +1,7 @@
 {
-  "version": "1.1.76",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.76.zip",
-  "sha256": "eabfb3da8bfb09a65048202e0e74cc3ce3301bd31ff39a919aff9fa165978f43",
-  "sig": "aHyPUyhgwHcRsvkDVU8jsWV5Mi/0RLYnNY8nJ36381cNwGcLHR/ofFT9zcI4VlR7AJsQFVMAc1XrE3bqVh5DAw==",
-  "notes": "v1.1.76: FB Lite screen reading (OCR) fixed - its models were missing from the build, so emulator tasks saw 'no text'; FB Lite popup catalog (lite_pages.json) now shipped; Warm Up no longer hangs at 'starting' (worker thread touched the UI table); phone login guards - waits for a profile to finish booting, never logs into the wrong profile after an Android restart, reboots a phone whose UI died."
+  "version": "1.1.77",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.77.zip",
+  "sha256": "3e1e91badcbd6d9abe13f1b0ed6e77912f4ea2bcca4108f9da9bf1681693c5d1",
+  "sig": "gmIIc+fmkg+XNDkfoP9iOqRBkOeO17KXpAXaYPI1TICjzpaktlUoiP76tePGYhBrh/Tj3u6gDS4GAIgVamV6DA==",
+  "notes": "v1.1.77: code-protected build (compiled, full package); proxy IP-leak lock on phones; human typing/touch everywhere; mail code fixes; FB Lite tap gates + Reels fix; geo pinning; USB drivers auto-install; Repair never downgrades; automatic bug reports; new Clearcote browser engine."
 }
