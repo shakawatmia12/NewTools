@@ -1,7 +1,7 @@
 {
-  "version": "1.1.77",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.77.zip",
-  "sha256": "3e1e91badcbd6d9abe13f1b0ed6e77912f4ea2bcca4108f9da9bf1681693c5d1",
-  "sig": "gmIIc+fmkg+XNDkfoP9iOqRBkOeO17KXpAXaYPI1TICjzpaktlUoiP76tePGYhBrh/Tj3u6gDS4GAIgVamV6DA==",
-  "notes": "v1.1.77: code-protected build (compiled, full package); proxy IP-leak lock on phones; human typing/touch everywhere; mail code fixes; FB Lite tap gates + Reels fix; geo pinning; USB drivers auto-install; Repair never downgrades; automatic bug reports; new Clearcote browser engine."
+  "version": "1.1.78",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.78.zip",
+  "sha256": "4f9c41bcf35b97576264958a89db417b4c4b319cb049748bc739b0f8c52c2bb3",
+  "sig": "UK2GEL7Oxvmu5OJZBqttgJMuPTDTzHfE6eGgxuCufPHGj4t77Jo9QAZvA0ye0vl27JLQwLsyrd/qRsC56FNIAQ==",
+  "notes": "v1.1.78: human-like browser input per account (phone soft keyboard, typing by keys with natural slips, hand scrolling, real wheel/touchpad, curved mouse, natural flicks); phone tabs ignore the PC cursor; background windows stay focused; m.facebook public-group comment box; notifications blocked only on Facebook/Instagram; Clearcote engine v3."
 }
