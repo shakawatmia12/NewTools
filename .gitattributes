@@ -149,3 +149,4 @@ update_v1.1.73.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.1.74.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.1.75.zip filter=lfs diff=lfs merge=lfs -text
 update_v1.1.76.zip filter=lfs diff=lfs merge=lfs -text
+clearcote_bundle_v2.zip filter=lfs diff=lfs merge=lfs -text
