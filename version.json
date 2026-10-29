@@ -1,7 +1,7 @@
 {
-  "version": "1.1.84",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.84.zip",
-  "sha256": "ea5a7e3e7df7cedcd18e3ac31f02b01d4e804cd89a3b270ee5d1c08ce5bdbc44",
-  "sig": "woiNN3slhTT4apjDf1YE+6Yh7xS/4Z3ZQXapu6BarFV+CMiFDsMCJM8Td388Fyr5xli6kBCpTm9N4FF3e9J6Bw==",
-  "notes": "v1.1.84: code-protected build (compiled, full package, built for every 64-bit CPU - no more crash at start on PCs without AVX-512). Login CAPTCHA: OMOCaptcha now presses the challenge Start, sends the real puzzle picture + its question and solves every round; an unsolved challenge is reported to the bug log."
+  "version": "1.1.85",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.85.zip",
+  "sha256": "d03791583fb95efc5880778ba853f0d4b04fd98b3a04328829e2b502f3698fc5",
+  "sig": "83UohUnnc92Xm4VIrk7+32AVe7sT5KCB3h5KE/jDKkR5qRww4TVYVGV3CcCIW5kSz3oyG5TmNUPsKwzIJRMvBA==",
+  "notes": "v1.1.85: code-protected build (compiled, full package, every 64-bit CPU). Login CAPTCHA: OMOCaptcha Start button pressed more reliably (click/tap/Enter fallbacks) and two-picture puzzles are sent whole. Browser: all account windows share one window limit, so tasks never open more browsers at once than you set; the 24/7 page service keeps its own limit."
 }
