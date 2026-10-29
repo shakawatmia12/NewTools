@@ -1,7 +1,7 @@
 {
-  "version": "1.1.80",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.80.zip",
-  "sha256": "6b7a3a4af09563b32a4e382c8aaa12ba53a0e250a47e6e989aa008e38d9265fc",
-  "sig": "wpQqLyZTTM9t0xTx9SZy12PNytNToGk9L7DT0BRDfjDixb1wzK6HtOHBfxbKXMeO6VsFWCOcZctaW5Fn9CNPDg==",
-  "notes": "v1.1.80: code-protected build (compiled, full package). Emulator anti-detect + ADB human touch + root hide; real-phone native anti-detect; niche feed teaching (Warm Up 24/7); human typing everywhere; Clearcote browser engine v4 (no tab crash); automatic bug reports; startup crash-guard fix."
+  "version": "1.1.81",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.81.zip",
+  "sha256": "aea3c4f9f3362a3b85969fce3820884bdf912c5487018ca4ff34b0ab3bffb86b",
+  "sig": "s+H19vrcVpyPSyMByeOFowps2GlqlWLP+kwbwGVmzas2q/TXxV2n6ocg2q0Jr2vVQ6WDXv7upSlAiXRLnEYYBg==",
+  "notes": "v1.1.81: code-protected build (compiled, full package). Browser: phone / desktop-site tabs now report the same Chrome build as the browser itself; plus everything in 1.1.80 (niche feed teaching, Clearcote engine v4, pending group join/post/comment counted as done, comment fixes)."
 }
