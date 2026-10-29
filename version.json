@@ -1,7 +1,7 @@
 {
-  "version": "1.1.81",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.81.zip",
-  "sha256": "aea3c4f9f3362a3b85969fce3820884bdf912c5487018ca4ff34b0ab3bffb86b",
-  "sig": "s+H19vrcVpyPSyMByeOFowps2GlqlWLP+kwbwGVmzas2q/TXxV2n6ocg2q0Jr2vVQ6WDXv7upSlAiXRLnEYYBg==",
-  "notes": "v1.1.81: code-protected build (compiled, full package). Browser: phone / desktop-site tabs now report the same Chrome build as the browser itself; plus everything in 1.1.80 (niche feed teaching, Clearcote engine v4, pending group join/post/comment counted as done, comment fixes)."
+  "version": "1.1.82",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.82.zip",
+  "sha256": "5e573f31d3eede9b1d86ba56776d2219416f36276cb41d36acde2b64d2c21df0",
+  "sig": "GAlZxMzuBME/bK7vz1CR3lUMhn7kLSGFLG8GAdWqxIpM+mQBZObyvBMEyF6mQKQMnobepamMna0ODwyJcak3Cw==",
+  "notes": "v1.1.82: code-protected build (compiled, full package). Emulator: FB Lite feed finds posts again when a Run / Start Automation is in flight, and no longer closes Lite after a comment; Browser: the feed returns to the home feed after commenting, Stop / Stop All end a running feed within seconds with no new like/comment; Stop All no longer starts a Check Login."
 }
