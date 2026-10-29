@@ -1,7 +1,7 @@
 {
-  "version": "1.1.78",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.78.zip",
-  "sha256": "4f9c41bcf35b97576264958a89db417b4c4b319cb049748bc739b0f8c52c2bb3",
-  "sig": "UK2GEL7Oxvmu5OJZBqttgJMuPTDTzHfE6eGgxuCufPHGj4t77Jo9QAZvA0ye0vl27JLQwLsyrd/qRsC56FNIAQ==",
-  "notes": "v1.1.78: human-like browser input per account (phone soft keyboard, typing by keys with natural slips, hand scrolling, real wheel/touchpad, curved mouse, natural flicks); phone tabs ignore the PC cursor; background windows stay focused; m.facebook public-group comment box; notifications blocked only on Facebook/Instagram; Clearcote engine v3."
+  "version": "1.1.79",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.79.zip",
+  "sha256": "c54031bae50552959bb7c9d19776c7282444c4da81ccb0c5743a6128975f78da",
+  "sig": "wuT5uBS3MRR2e/gt0lCfn76gBFa7srzLrQe/X5CgGfB3OAdvvgdk0nebBxdTuHXi6G0b5maPpZliurLSHjcsCA==",
+  "notes": "v1.1.79: Warm Up teaches the feed its niche (niche searches + 'not my interests' on off-niche posts); like/comment only own-niche posts; Clearcote engine v4 (no more m.facebook tab crash); emulator Play Integrity (PIF) now loads on x86_64; group question posts' 'Write an answer' comment box; pending join/post/comment counted as done (waiting for admin approval); FB Lite comment send-button + confirm fixes; group posts found via the You tab; crashed browser tab reopened; screen scale snapped to real Windows values."
 }
