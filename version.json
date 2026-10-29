@@ -1,7 +1,7 @@
 {
-  "version": "1.1.82",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.82.zip",
-  "sha256": "5e573f31d3eede9b1d86ba56776d2219416f36276cb41d36acde2b64d2c21df0",
-  "sig": "GAlZxMzuBME/bK7vz1CR3lUMhn7kLSGFLG8GAdWqxIpM+mQBZObyvBMEyF6mQKQMnobepamMna0ODwyJcak3Cw==",
-  "notes": "v1.1.82: code-protected build (compiled, full package). Emulator: FB Lite feed finds posts again when a Run / Start Automation is in flight, and no longer closes Lite after a comment; Browser: the feed returns to the home feed after commenting, Stop / Stop All end a running feed within seconds with no new like/comment; Stop All no longer starts a Check Login."
+  "version": "1.1.83",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.83.zip",
+  "sha256": "cabf6e26a0322e7d957e0a6b3e5cada53773b5b7e3541dca0efd305a69a63af4",
+  "sig": "sU82g4qsrT8FU9nqLXUcNQEx/PxWFJp9rn1eQAFtxuIlhGf4xuw+5FqYqKYBuV5TQMaB462oswIM/grUDSYdCw==",
+  "notes": "v1.1.83: code-protected build (compiled, full package). Stop All now counts browser tasks correctly in its log (no more browser runs reported as ADB tasks); Emulator: FB Lite never treats a group membership-question screen as a comment box."
 }
