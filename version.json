@@ -1,7 +1,7 @@
 {
-  "version": "1.1.85",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.85.zip",
-  "sha256": "d03791583fb95efc5880778ba853f0d4b04fd98b3a04328829e2b502f3698fc5",
-  "sig": "83UohUnnc92Xm4VIrk7+32AVe7sT5KCB3h5KE/jDKkR5qRww4TVYVGV3CcCIW5kSz3oyG5TmNUPsKwzIJRMvBA==",
-  "notes": "v1.1.85: code-protected build (compiled, full package, every 64-bit CPU). Login CAPTCHA: OMOCaptcha Start button pressed more reliably (click/tap/Enter fallbacks) and two-picture puzzles are sent whole. Browser: all account windows share one window limit, so tasks never open more browsers at once than you set; the 24/7 page service keeps its own limit."
+  "version": "1.1.86",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.86.zip",
+  "sha256": "63a312baa41ef6915ee2749e35fc64cb4f4499004c2947ebf2d3f93bbfffba82",
+  "sig": "riMqCr1TQr8Zkde3WG0spIWBpDzlXCErG+Sky95UjWGOY/brY08Cu3clRosslopcBCZKt2BrF/h+vMWMQUBtBA==",
+  "notes": "v1.1.86: small update (only changed files). Login CAPTCHA: OMOCaptcha now gets the challenge's real puzzle image (no more Job failed), presses arrows/Submit inside the puzzle, retries a missed round and restarts on Try again - live-verified solving on Facebook. Open Browser: a captcha that can't be solved or a finished login closes its window so the next account opens. Portuguese automated-behaviour warning dismissed automatically. Windows 11: no more Chromium data-directory popup."
 }
