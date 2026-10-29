@@ -1,7 +1,7 @@
 {
-  "version": "1.1.79",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.79.zip",
-  "sha256": "c54031bae50552959bb7c9d19776c7282444c4da81ccb0c5743a6128975f78da",
-  "sig": "wuT5uBS3MRR2e/gt0lCfn76gBFa7srzLrQe/X5CgGfB3OAdvvgdk0nebBxdTuHXi6G0b5maPpZliurLSHjcsCA==",
-  "notes": "v1.1.79: Warm Up teaches the feed its niche (niche searches + 'not my interests' on off-niche posts); like/comment only own-niche posts; Clearcote engine v4 (no more m.facebook tab crash); emulator Play Integrity (PIF) now loads on x86_64; group question posts' 'Write an answer' comment box; pending join/post/comment counted as done (waiting for admin approval); FB Lite comment send-button + confirm fixes; group posts found via the You tab; crashed browser tab reopened; screen scale snapped to real Windows values."
+  "version": "1.1.80",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.80.zip",
+  "sha256": "6b7a3a4af09563b32a4e382c8aaa12ba53a0e250a47e6e989aa008e38d9265fc",
+  "sig": "wpQqLyZTTM9t0xTx9SZy12PNytNToGk9L7DT0BRDfjDixb1wzK6HtOHBfxbKXMeO6VsFWCOcZctaW5Fn9CNPDg==",
+  "notes": "v1.1.80: code-protected build (compiled, full package). Emulator anti-detect + ADB human touch + root hide; real-phone native anti-detect; niche feed teaching (Warm Up 24/7); human typing everywhere; Clearcote browser engine v4 (no tab crash); automatic bug reports; startup crash-guard fix."
 }
