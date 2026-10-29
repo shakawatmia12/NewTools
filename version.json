@@ -1,7 +1,7 @@
 {
-  "version": "1.1.87",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.87.zip",
-  "sha256": "25c170efc74bdcd77fca1e044c020acd9d92bc6919a25187467d16f8c4356fc4",
-  "sig": "C8ONvr1QLiMiAp7lI8AzKm4dG3rRGi7D5gkkcAGJuKiv8PCNY5hO9HcprTPpgAP3SYqJIOFZvkyjYubAtRl+AQ==",
-  "notes": "v1.1.87: small update (only changed files). Browser login wastes no time: a blank 2FA page is reloaded twice not 10 times, challenge wait 60s not 100s, retry after 8-15s not 40s, CAPTCHA Start pressed in ~9s not 30s. CAPTCHA: every round now sends that round's own puzzle image (rounds 2+ were sending round 1's), waits for the next round before reading it, presses Try again correctly, arrow puzzles no longer mistaken for tile puzzles - live-verified 3-round solve + login."
+  "version": "1.1.88",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.88.zip",
+  "sha256": "e95aa7515f153285cecb11e98ea890664106fb3245259da4e4e14947730a9e5d",
+  "sig": "+VeSv47JG8Yzww0+STXxYrd97aFW8J0zLsmMD6mbIY++kDy7LuycXb1VCS8Ce4sGs4vmxwaO+KlTA0itbuErDQ==",
+  "notes": "v1.1.88: small update (only changed files). Browser login reads the screen like a person: checks the UID really went in (types it again if the box is empty), reads m.facebook Wrong Credentials / Invalid username or password at once, says 2FA key wrong when Facebook rejects the codes, carries on when the 2FA code already went through instead of calling it field not found, and does not log in a second time for a wrong password / 2FA key / unknown ID (status shows the real reason, not captcha not solved). Live-tested in mobile mode."
 }
