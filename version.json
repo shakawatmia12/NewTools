@@ -1,7 +1,7 @@
 {
-  "version": "1.1.83",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.83.zip",
-  "sha256": "cabf6e26a0322e7d957e0a6b3e5cada53773b5b7e3541dca0efd305a69a63af4",
-  "sig": "sU82g4qsrT8FU9nqLXUcNQEx/PxWFJp9rn1eQAFtxuIlhGf4xuw+5FqYqKYBuV5TQMaB462oswIM/grUDSYdCw==",
-  "notes": "v1.1.83: code-protected build (compiled, full package). Stop All now counts browser tasks correctly in its log (no more browser runs reported as ADB tasks); Emulator: FB Lite never treats a group membership-question screen as a comment box."
+  "version": "1.1.84",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.84.zip",
+  "sha256": "ea5a7e3e7df7cedcd18e3ac31f02b01d4e804cd89a3b270ee5d1c08ce5bdbc44",
+  "sig": "woiNN3slhTT4apjDf1YE+6Yh7xS/4Z3ZQXapu6BarFV+CMiFDsMCJM8Td388Fyr5xli6kBCpTm9N4FF3e9J6Bw==",
+  "notes": "v1.1.84: code-protected build (compiled, full package, built for every 64-bit CPU - no more crash at start on PCs without AVX-512). Login CAPTCHA: OMOCaptcha now presses the challenge Start, sends the real puzzle picture + its question and solves every round; an unsolved challenge is reported to the bug log."
 }
