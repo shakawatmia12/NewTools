@@ -1,7 +1,7 @@
 {
-  "version": "1.1.92",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.92.zip",
-  "sha256": "9f620f8bf5c4d6b010f082adf08d6f1293338317b1b614cb5250d85dbc5f814c",
-  "sig": "mT7Z1AbTalS8C2xMClL9o+ojuKpxi+q3lPxliypJjGTxZIUFm/WHaloNbjrZrDA3XKh8in67biivyCfyKlXuCg==",
-  "notes": "v1.1.92: fixes 'python313.dll was not found' after an update - every update now carries all core runtime files, so a PC missing one heals itself. Better freeze diagnostics."
+  "version": "1.1.93",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.93.zip",
+  "sha256": "65954bbc4c401c3d3a82d87e9e2fa9c855861bc998b5b54ab1978464276562c7",
+  "sig": "0GZ5W9TKyrBIQbRbqHB9QSOmpYJNSumKYkTJMwW+z/oukaWfbU2qCpIYn2gvLRi0NffmXN9uN+2d8QIwfhyvCA==",
+  "notes": "v1.1.93: Warm Up 24/7 steps aside for the 24/7 Service (finishes the post/reel in hand, resumes the session after); one browser window limit for the whole app (Open Browser 'Max parallel windows'); smarter captcha everywhere (never retypes a rejected answer, faster Arkose Start, skips OMO's down token task); emulator native module before start; FB Lite language self-heal."
 }
