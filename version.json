@@ -1,7 +1,7 @@
 {
-  "version": "1.1.94",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.94.zip",
-  "sha256": "c940ba9754c8696e6c9a3479596a9b0bd773f5eb4a7feede5464c418893d250d",
-  "sig": "6EciIWF6/wnkYKtnoePLpxzjPgt5SeS6jksGFpOJaaMitAAI34anOfiQ7HYpJlnFxKC25GVmGjPS2rIaMa69Bw==",
-  "notes": "v1.1.94: 24/7 Service manual comment/share pools - every account on a post gets its own random line (no repeats until the pool runs out; browser accounts no longer all post line 1). Bug reports now also catch: app closed while Not Responding / killed / died at startup, Windows-logged native crashes (app, tools, Clearcote), failed updates/Repair, RAM/thread leaks. Browser Warm Up language switch no longer hangs for minutes (phone desktop-site taps, bounded reads)."
+  "version": "1.1.95",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.95.zip",
+  "sha256": "471368db68ad3b676e4bebc0e167c2b82dc218836c916f20cc7995bb920242b2",
+  "sig": "nYPLNCVDSkOq0CM6CgoRorMs5+bynEzidoq0l052b8HXlUs1x6/H8bo0Oyhr7X5DFuLAv+N27h8KsRcPQjI9CA==",
+  "notes": "v1.1.95: accounts logged in on Mobile Mode now get their full name in the list (one visit to their own profile when the name is empty)."
 }
