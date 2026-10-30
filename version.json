@@ -1,7 +1,7 @@
 {
-  "version": "1.1.89",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.89.zip",
-  "sha256": "8c6256b4ad0422d9f755ed0be591985dbf7db0c39a27da946866ce32b8fb01ec",
-  "sig": "VQbGsmrY14CB7+39QZLDWkLz/QeMkxM7rYDaFHMAvfrlu6cqs4ae3sSzIBNanLjePCUzxmkO8TDndiBByaZUDw==",
-  "notes": "v1.1.89: small update (only changed files). 2FA codes are now built against true internet time (NTP), not the host's clock - so on an RDP/VPS whose Windows clock has drifted (even 'Time synchronization failed') the tool still makes the correct code and Facebook stops rejecting a valid 2FA key. No admin and no system-clock change needed; falls back to the local clock if the internet is unreachable. Applies to every login path (browser, mobile, emulator, account-create, 2FA-change)."
+  "version": "1.1.90",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.90.zip",
+  "sha256": "8c2ba3e7ef690c620d87f66dcb76b733c695353cf7e80a1de4d946063023d8f4",
+  "sig": "ygN8RLSoITJPXszIja8c1Gu2QNfv72VOAg+laSdSdKDL17ma+GcyZS4Lxlyf0fEGlO67u5fB4JMqX16LUL6NAQ==",
+  "notes": "v1.1.90: small update (only changed files). Browser language is now always English (US) whatever country the proxy is in (time zone + location still follow the proxy) - a French/Vietnamese/Bangla proxy no longer turns Facebook into that language. Accounts already in another language are switched to English using their 2FA key when Facebook asks for a code (before: email code only, then left alone for 30 days). Facebook's 'Save your login info?' page is recognised in any language, so login no longer gets stuck there."
 }
