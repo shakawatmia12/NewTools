@@ -1,7 +1,7 @@
 {
-  "version": "1.1.90",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.90.zip",
-  "sha256": "8c2ba3e7ef690c620d87f66dcb76b733c695353cf7e80a1de4d946063023d8f4",
-  "sig": "ygN8RLSoITJPXszIja8c1Gu2QNfv72VOAg+laSdSdKDL17ma+GcyZS4Lxlyf0fEGlO67u5fB4JMqX16LUL6NAQ==",
-  "notes": "v1.1.90: small update (only changed files). Browser language is now always English (US) whatever country the proxy is in (time zone + location still follow the proxy) - a French/Vietnamese/Bangla proxy no longer turns Facebook into that language. Accounts already in another language are switched to English using their 2FA key when Facebook asks for a code (before: email code only, then left alone for 30 days). Facebook's 'Save your login info?' page is recognised in any language, so login no longer gets stuck there."
+  "version": "1.1.91",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.91.zip",
+  "sha256": "aaac3feb2887ca1f8700ff81ee6b8d7f8616ff5b8baecae8528ea5492b5c59e2",
+  "sig": "w8doToOIJGyxIr1zajEO9A5UwUx45yZdCF6+vFh/zgtm5Iet/3tr52akv+Ey72VPSrzdgXkOKkFrUUwXNtq2BA==",
+  "notes": "v1.1.91: small update (only changed files). Fixes the app not reopening after an update ('Windows cannot find ...python.exe'): the restart now starts the real ADBAutomation.exe. This one update may still show that message once (the old version does the restart) - just open the app again; every update after it reopens by itself."
 }
