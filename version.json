@@ -1,7 +1,7 @@
 {
-  "version": "1.1.91",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.91.zip",
-  "sha256": "aaac3feb2887ca1f8700ff81ee6b8d7f8616ff5b8baecae8528ea5492b5c59e2",
-  "sig": "w8doToOIJGyxIr1zajEO9A5UwUx45yZdCF6+vFh/zgtm5Iet/3tr52akv+Ey72VPSrzdgXkOKkFrUUwXNtq2BA==",
-  "notes": "v1.1.91: small update (only changed files). Fixes the app not reopening after an update ('Windows cannot find ...python.exe'): the restart now starts the real ADBAutomation.exe. This one update may still show that message once (the old version does the restart) - just open the app again; every update after it reopens by itself."
+  "version": "1.1.92",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.92.zip",
+  "sha256": "9f620f8bf5c4d6b010f082adf08d6f1293338317b1b614cb5250d85dbc5f814c",
+  "sig": "mT7Z1AbTalS8C2xMClL9o+ojuKpxi+q3lPxliypJjGTxZIUFm/WHaloNbjrZrDA3XKh8in67biivyCfyKlXuCg==",
+  "notes": "v1.1.92: fixes 'python313.dll was not found' after an update - every update now carries all core runtime files, so a PC missing one heals itself. Better freeze diagnostics."
 }
