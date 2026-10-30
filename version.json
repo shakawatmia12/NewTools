@@ -1,7 +1,7 @@
 {
-  "version": "1.1.93",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.93.zip",
-  "sha256": "65954bbc4c401c3d3a82d87e9e2fa9c855861bc998b5b54ab1978464276562c7",
-  "sig": "0GZ5W9TKyrBIQbRbqHB9QSOmpYJNSumKYkTJMwW+z/oukaWfbU2qCpIYn2gvLRi0NffmXN9uN+2d8QIwfhyvCA==",
-  "notes": "v1.1.93: Warm Up 24/7 steps aside for the 24/7 Service (finishes the post/reel in hand, resumes the session after); one browser window limit for the whole app (Open Browser 'Max parallel windows'); smarter captcha everywhere (never retypes a rejected answer, faster Arkose Start, skips OMO's down token task); emulator native module before start; FB Lite language self-heal."
+  "version": "1.1.94",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.94.zip",
+  "sha256": "c940ba9754c8696e6c9a3479596a9b0bd773f5eb4a7feede5464c418893d250d",
+  "sig": "6EciIWF6/wnkYKtnoePLpxzjPgt5SeS6jksGFpOJaaMitAAI34anOfiQ7HYpJlnFxKC25GVmGjPS2rIaMa69Bw==",
+  "notes": "v1.1.94: 24/7 Service manual comment/share pools - every account on a post gets its own random line (no repeats until the pool runs out; browser accounts no longer all post line 1). Bug reports now also catch: app closed while Not Responding / killed / died at startup, Windows-logged native crashes (app, tools, Clearcote), failed updates/Repair, RAM/thread leaks. Browser Warm Up language switch no longer hangs for minutes (phone desktop-site taps, bounded reads)."
 }
