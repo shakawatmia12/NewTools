@@ -1,7 +1,7 @@
 {
-  "version": "1.1.96",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.96.zip",
-  "sha256": "6dbc52d9492b2436c166f6d3e9f96266cb07b3907a5605f0a57075c6b19be65a",
-  "sig": "akdb1pxwO85bLePLKNLHWaP03c4sFZspSUjjdpeR9z+Em8hslFRjpmXg7r1+wUlKmFZGDVgGR31j4QKN5utYCw==",
-  "notes": "v1.1.96: fewer UI freezes with many Warm Up accounts (account file written outside its lock, workers start in the background); phone anti-detect progress crash fixed; Arkose fallback fixed; clearer freeze reports."
+  "version": "1.1.97",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.97.zip",
+  "sha256": "a50d6071dae138eb7946898eb4fdecc7ec8daa4dbdeff1c0d05554753497b2f7",
+  "sig": "O1ElbUEnK9N5tnk6vaq5d36EFfFwE+Ruwm9wuNUYqwmDIJK0RAjU7XvG/wlyUbepSpf5mDjFdoU8HRI1RvmWBw==",
+  "notes": "v1.1.97: Mobile Mode reactions work again (Love, Care, Haha... no longer fall back to Like); no emu2 rebuild warning on PCs without an emulator."
 }
