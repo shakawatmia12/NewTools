@@ -1,7 +1,7 @@
 {
-  "version": "1.1.97",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.97.zip",
-  "sha256": "a50d6071dae138eb7946898eb4fdecc7ec8daa4dbdeff1c0d05554753497b2f7",
-  "sig": "O1ElbUEnK9N5tnk6vaq5d36EFfFwE+Ruwm9wuNUYqwmDIJK0RAjU7XvG/wlyUbepSpf5mDjFdoU8HRI1RvmWBw==",
-  "notes": "v1.1.97: Mobile Mode reactions work again (Love, Care, Haha... no longer fall back to Like); no emu2 rebuild warning on PCs without an emulator."
+  "version": "1.1.98",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.98.zip",
+  "sha256": "0af5f2e118d5cf5d13b87feefbf64a25701f7467fc284f06a603858c16e5917e",
+  "sig": "TF28JbmNKg3tGH9jhpkE72juoEdLantH9Gj59CNulkTRbSdnST4PiRyjiQoLyAnFMtYBwCeL+VGIi8g6/lawBQ==",
+  "notes": "v1.1.98: Auto-unlocks the 'secure your account' lock from the stored email - picks the email code path, and when Facebook asks to set a new password it skips that step if it can, otherwise sets a strong one and saves it. Also shows WHY an account is restricted and roughly for how long (reads Facebook's own stated time when given; otherwise a per-kind length that escalates with repeats), instead of one flat message for every restriction."
 }
