@@ -1,7 +1,7 @@
 {
-  "version": "1.1.98",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.98.zip",
-  "sha256": "0af5f2e118d5cf5d13b87feefbf64a25701f7467fc284f06a603858c16e5917e",
-  "sig": "TF28JbmNKg3tGH9jhpkE72juoEdLantH9Gj59CNulkTRbSdnST4PiRyjiQoLyAnFMtYBwCeL+VGIi8g6/lawBQ==",
-  "notes": "v1.1.98: Auto-unlocks the 'secure your account' lock from the stored email - picks the email code path, and when Facebook asks to set a new password it skips that step if it can, otherwise sets a strong one and saves it. Also shows WHY an account is restricted and roughly for how long (reads Facebook's own stated time when given; otherwise a per-kind length that escalates with repeats), instead of one flat message for every restriction."
+  "version": "1.1.99",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.99.zip",
+  "sha256": "795832e518f3a587bc1df837d703690b3daa92ff46a451d4e0ed6389d10dde93",
+  "sig": "Ah5d8Flz9sl5EUzeXkus6VRQEUEyOv0/2EZs8Rx+6t3HAGwNX1RaXtuFgxHqrjWCff0KJ6ymIlmE6PU4DYKHBQ==",
+  "notes": "v1.1.99: Browser reads Facebook walls by what the screen SAYS and names them like MaxCare (Checkpoint: 282 / 956 / vhh); the 'confirm you're human' check is passed automatically (Continue + captcha), also mid Warm Up. No more false 'Restricted' on ordinary feed/video pages. Warm Up: the first 2 days only look (no reactions, no comments); a walled browser account is not reopened every session (rests 12-24h) and a failed mail unlock is retried once a day. Browser Last Used By shows how long ago (x min ago)."
 }
