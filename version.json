@@ -1,7 +1,7 @@
 {
-  "version": "1.1.101",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.101.zip",
-  "sha256": "35c32878dec9369d1321bb396bf7cba264f5b0d5e8e9fc5044be1722df5e62b9",
-  "sig": "CFx+4Xhe8gJgRU5qd4fQhF75hsrzL0MlDe7f/6oa5RYrdbpQ+VfEtA5tdMBzHRvb0lR7g3xAYu1NlkVlUwvPAg==",
-  "notes": "v1.1.101: Global Settings redesigned (fits the screen, cards, 3D buttons, good on full screen) + new Website button (order website: Connected / Disconnected, accounts from Browser / ADB / Page - orders start once the website is added). Treat is one setting everywhere: Page task settings Treat = Browser Max parallel windows; 24/7 Service and website orders share it 50/50."
+  "version": "1.1.102",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.102.zip",
+  "sha256": "5f5c51ff2368aaa4968ef230d64b3f2ff9e9047fbebfb59d0761240d449fc055",
+  "sig": "Q7NI/8tTuZ7iNMbehPYYt42yqPgf/3QimR51yD9qwaaBA8ioZhmbm3mj0qoRzkMTuaffIid+6LAM9a8qElIgBg==",
+  "notes": "v1.1.102: Warm Up - Browser Mode and Page Mode share the treat 50/50 when both have work at the same time (treat 4 = 2 + 2); when only one has work it gets every window. An open window is never taken away - the other side gets the next free ones."
 }
