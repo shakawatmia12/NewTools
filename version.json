@@ -1,7 +1,7 @@
 {
-  "version": "1.1.100",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.100.zip",
-  "sha256": "1905d5e5c8a5afa9247090eb414b47d1a863358f46afebe164cbc7fd14d2992e",
-  "sig": "ITw+C7uOSQx1nRFIhr/SbjWbjUBdJuTt/cq0Sl42He4smJBTT/5NwPevFDYSSnpwkUtE6lJ+FsSzBfZDAbU5Cg==",
-  "notes": "v1.1.100: Page Info tab - its account list gets its own Warm Up 24/7 (button left of Settings), the same as Account Info - Browser: each account in its own Chrome with the same day plan, age ramp, quiet first 2 days, walls and rests; own settings + On/Off. An account that is in both lists is warmed only once (by Browser Mode)."
+  "version": "1.1.101",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.101.zip",
+  "sha256": "35c32878dec9369d1321bb396bf7cba264f5b0d5e8e9fc5044be1722df5e62b9",
+  "sig": "CFx+4Xhe8gJgRU5qd4fQhF75hsrzL0MlDe7f/6oa5RYrdbpQ+VfEtA5tdMBzHRvb0lR7g3xAYu1NlkVlUwvPAg==",
+  "notes": "v1.1.101: Global Settings redesigned (fits the screen, cards, 3D buttons, good on full screen) + new Website button (order website: Connected / Disconnected, accounts from Browser / ADB / Page - orders start once the website is added). Treat is one setting everywhere: Page task settings Treat = Browser Max parallel windows; 24/7 Service and website orders share it 50/50."
 }
