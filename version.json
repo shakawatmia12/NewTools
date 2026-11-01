@@ -1,7 +1,7 @@
 {
-  "version": "1.1.102",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.102.zip",
-  "sha256": "5f5c51ff2368aaa4968ef230d64b3f2ff9e9047fbebfb59d0761240d449fc055",
-  "sig": "Q7NI/8tTuZ7iNMbehPYYt42yqPgf/3QimR51yD9qwaaBA8ioZhmbm3mj0qoRzkMTuaffIid+6LAM9a8qElIgBg==",
-  "notes": "v1.1.102: Warm Up - Browser Mode and Page Mode share the treat 50/50 when both have work at the same time (treat 4 = 2 + 2); when only one has work it gets every window. An open window is never taken away - the other side gets the next free ones."
+  "version": "1.1.103",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.103.zip",
+  "sha256": "e4048fe5be6c32892d8319d41ee2e53bc289b1e860d8bec1f161e0eef6c049ab",
+  "sig": "dY7EKZRJ9gLgUeKU2b7oExUY7tWw+geDNmsgT1MU/kP7IlQDW86tG0DIOsLSdPYBCbpJpclGqvNFAML1OxrcAQ==",
+  "notes": "v1.1.103: 2FA codes always use the TRUE time (NTP, else Facebook/Google HTTPS time) - a PC/RDP with a wrong clock or blocked NTP no longer sends wrong 2FA codes; a warning shows if no true time is reachable; a rejected code refetches the time. Captcha: Google puzzle loops stop after 5 unticked rounds (flagged IP) instead of burning 150 s; OMOCaptcha maintenance is not retried on phones. More human: Page-system Follow opens the profile and presses Follow (no API call), no instant page jumps before Page-system clicks, a paused video is restarted with a tap on its Play button, and a video Facebook auto-advances is gone back to. Show-Case: all 6 services (Reaction, Comment, Page Review, Follower, Group Member, Video Watch Time) in every system - Browser (m + web), Page system (acting AS the page), ADB (new Review Page task); website orders run on all three. m-mode reactions pick the right reaction; Page comments no longer double-post; website ADB orders check the account proxy first."
 }
