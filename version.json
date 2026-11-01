@@ -1,7 +1,7 @@
 {
-  "version": "1.1.104",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.104.zip",
-  "sha256": "40dbe204ebd57ac59e2d3b13ad4b22db6b775ac0bdb6b8ee410d73ff82136a50",
-  "sig": "mXLJOEHbIinjS9pkZzHVr26b3WI4AUdy+kchRy2agOoliSDMaOGnj98vbXMctw/4ofNQAYyDwQUvdr33hpDmDA==",
-  "notes": "v1.1.104: Login reads the screen before acting - waits while Facebook is still loading / running security checks instead of typing the login again; no reload after a captcha (that sent accounts back to the Facebook home/login); waits for the captcha box to load and gives the captcha extension more time; 2FA code submitted right after typing; a slow 2FA screen is no longer taken for a rejected code; Trust this device page answered; m.facebook 'Wrong Credentials' retried on desktop instead of marked wrong password. Email login codes: a code that already arrived is now used even when the PC clock is wrong. App window stays responsive (UI priority). Website orders more human - every account scrolls its feed 15-40 s first (Browser m/web, Page, ADB), spaced windows/pages/accounts; ADB Review Page reads the question and uses thumb-scattered taps."
+  "version": "1.1.105",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.105.zip",
+  "sha256": "f4a31953682c82a83618fb5eb99c7335314d83a133e7efecd719863dcb884c12",
+  "sig": "DsiV3ucNcbLv3zZzF3nxd9tbf3PBJClKvqjC4EeAdx13QBUJSGgwKtvPO8vuQHFhe4dCSk6RxhhtBxa4RhOnCw==",
+  "notes": "v1.1.105: No more 'Not Responding' - Account Info tables that are not on screen are no longer redrawn/rebuilt (they update the moment their tab is opened), the face-photo column no longer checks files on the UI thread, and the window gets its turn first on a busy PC. Hotmail/Outlook codes: Junk folder is read too (Facebook mail often lands there), a code that arrived before the first inbox look is used, mail times compared in true time, no 3x3-minute wait when the mailbox can't be opened (the reason is shown), faster reads (token kept), no more password-IMAP to Outlook (Microsoft turned it off). Fixed: a login-alert mail's colour number (#141823) was taken as the Facebook code."
 }
