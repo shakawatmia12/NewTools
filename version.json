@@ -1,7 +1,7 @@
 {
-  "version": "1.1.105",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.105.zip",
-  "sha256": "f4a31953682c82a83618fb5eb99c7335314d83a133e7efecd719863dcb884c12",
-  "sig": "DsiV3ucNcbLv3zZzF3nxd9tbf3PBJClKvqjC4EeAdx13QBUJSGgwKtvPO8vuQHFhe4dCSk6RxhhtBxa4RhOnCw==",
-  "notes": "v1.1.105: No more 'Not Responding' - Account Info tables that are not on screen are no longer redrawn/rebuilt (they update the moment their tab is opened), the face-photo column no longer checks files on the UI thread, and the window gets its turn first on a busy PC. Hotmail/Outlook codes: Junk folder is read too (Facebook mail often lands there), a code that arrived before the first inbox look is used, mail times compared in true time, no 3x3-minute wait when the mailbox can't be opened (the reason is shown), faster reads (token kept), no more password-IMAP to Outlook (Microsoft turned it off). Fixed: a login-alert mail's colour number (#141823) was taken as the Facebook code."
+  "version": "1.1.106",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.106.zip",
+  "sha256": "df03ff793353347a3042613dab2eed90a76c72f18b012c945e9cc280edf29c95",
+  "sig": "AH2XQJhhluYC2bc9K8NkhwF6ZiS1+0r3WQPj4KexxsrN4OKwhgK6tPAkCbq7GNRtKpP7oVqYniyDXm9/kKvkAg==",
+  "notes": "v1.1.106: Login fix - after the password, Facebook's CAPTCHA page was taken for a blank page (the puzzle sits in a frame) and reloaded, which threw the login step away: the CAPTCHA got solved and Facebook still sent the account back to the login form. The CAPTCHA page is no longer reloaded. Warm Up 24/7: an account it couldn't log in, couldn't unlock by mail, or found suspended/disabled/on a checkpoint is un-ticked from the Warm Up account selection (Auto turns into the same list without it) - tick it again once it is fixed; the reason stays in Status Detail. Includes everything from 1.1.105."
 }
