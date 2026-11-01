@@ -1,7 +1,7 @@
 {
-  "version": "1.1.103",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.103.zip",
-  "sha256": "e4048fe5be6c32892d8319d41ee2e53bc289b1e860d8bec1f161e0eef6c049ab",
-  "sig": "dY7EKZRJ9gLgUeKU2b7oExUY7tWw+geDNmsgT1MU/kP7IlQDW86tG0DIOsLSdPYBCbpJpclGqvNFAML1OxrcAQ==",
-  "notes": "v1.1.103: 2FA codes always use the TRUE time (NTP, else Facebook/Google HTTPS time) - a PC/RDP with a wrong clock or blocked NTP no longer sends wrong 2FA codes; a warning shows if no true time is reachable; a rejected code refetches the time. Captcha: Google puzzle loops stop after 5 unticked rounds (flagged IP) instead of burning 150 s; OMOCaptcha maintenance is not retried on phones. More human: Page-system Follow opens the profile and presses Follow (no API call), no instant page jumps before Page-system clicks, a paused video is restarted with a tap on its Play button, and a video Facebook auto-advances is gone back to. Show-Case: all 6 services (Reaction, Comment, Page Review, Follower, Group Member, Video Watch Time) in every system - Browser (m + web), Page system (acting AS the page), ADB (new Review Page task); website orders run on all three. m-mode reactions pick the right reaction; Page comments no longer double-post; website ADB orders check the account proxy first."
+  "version": "1.1.104",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.104.zip",
+  "sha256": "40dbe204ebd57ac59e2d3b13ad4b22db6b775ac0bdb6b8ee410d73ff82136a50",
+  "sig": "mXLJOEHbIinjS9pkZzHVr26b3WI4AUdy+kchRy2agOoliSDMaOGnj98vbXMctw/4ofNQAYyDwQUvdr33hpDmDA==",
+  "notes": "v1.1.104: Login reads the screen before acting - waits while Facebook is still loading / running security checks instead of typing the login again; no reload after a captcha (that sent accounts back to the Facebook home/login); waits for the captcha box to load and gives the captcha extension more time; 2FA code submitted right after typing; a slow 2FA screen is no longer taken for a rejected code; Trust this device page answered; m.facebook 'Wrong Credentials' retried on desktop instead of marked wrong password. Email login codes: a code that already arrived is now used even when the PC clock is wrong. App window stays responsive (UI priority). Website orders more human - every account scrolls its feed 15-40 s first (Browser m/web, Page, ADB), spaced windows/pages/accounts; ADB Review Page reads the question and uses thumb-scattered taps."
 }
