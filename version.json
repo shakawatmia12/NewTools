@@ -1,7 +1,7 @@
 {
-  "version": "1.1.106",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.106.zip",
-  "sha256": "df03ff793353347a3042613dab2eed90a76c72f18b012c945e9cc280edf29c95",
-  "sig": "AH2XQJhhluYC2bc9K8NkhwF6ZiS1+0r3WQPj4KexxsrN4OKwhgK6tPAkCbq7GNRtKpP7oVqYniyDXm9/kKvkAg==",
-  "notes": "v1.1.106: Login fix - after the password, Facebook's CAPTCHA page was taken for a blank page (the puzzle sits in a frame) and reloaded, which threw the login step away: the CAPTCHA got solved and Facebook still sent the account back to the login form. The CAPTCHA page is no longer reloaded. Warm Up 24/7: an account it couldn't log in, couldn't unlock by mail, or found suspended/disabled/on a checkpoint is un-ticked from the Warm Up account selection (Auto turns into the same list without it) - tick it again once it is fixed; the reason stays in Status Detail. Includes everything from 1.1.105."
+  "version": "1.1.107",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.107.zip",
+  "sha256": "ded5d2688ef71a29f453f35b2e251ce38720388e458b2f146d758bb27ead4a92",
+  "sig": "pLJDhwmhL6OtflLgtRrRvpfhXiRMpEGw/UHN2uNun+dE1rn91deIeq7UtyxIy4J7r4+TAJGSlOCiC0zx3TRnDA==",
+  "notes": "v1.1.107: Smart relogin - a logged-out browser account first uses Facebook's own saved login (Continue on the saved profile, straight to 2FA), then its cookie, and only then a fresh UID/password login; Save login info is turned on automatically; the live session cookie is saved on every logged-in page. Works in any Facebook language (login screens read by shape, logged-out pages forced to English); the language switch to English is fixed on m and web (e-mail code dialog read from Hotmail, code typed only into the dialog), and on phones (Facebook app language reset) and emulators (FB Lite). Request-based login: the reCAPTCHA wall is now recognised and solved by token on the hidden-browser path (faster); a browser-less reCAPTCHA token path is built but not yet confirmed live (it needs a CapSolver key, and Facebook currently shows Arkose almost everywhere), and it falls back to the proven hidden-browser path. Includes 1.1.106 (CAPTCHA step no longer reloaded away; Warm Up un-ticks accounts it can't log in / unlock / that are suspended)."
 }
