@@ -1,7 +1,7 @@
 {
-  "version": "1.1.111",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.111.zip",
-  "sha256": "6748cba392371fceb4cc30151f4b4e23056983f23ce14e3edbe49961e899cd4f",
-  "sig": "XFUzUYRm6eALPMttDuvotsCt59zYkCZ56iwsCg6hUgqIlg6HpsgwQizsHl7+td2bJvq8JbA2AfYeImBv+4uiCQ==",
-  "notes": "v1.1.111: Fixes the no-cookie Arkose login. 1.1.110 bundled the wrong (headless) browser, which Facebook detects, so the Arkose puzzle never appeared and those logins failed. 1.1.111 bundles the full browser, which is shown the puzzle and lets the solver work; the old headless browser is removed on start. Arkose is a fallback: easy puzzles are usually solved, very hard ones can still fail. Accounts that have a cookie skip Arkose altogether (password + 2FA, no browser, about 15 s). Also carries 1.1.110 (Login path carries the account's device cookies, plain-word login progress in Status Detail, Warm Up picker Status filter + right-click menu), 1.1.109 (browser-less MetaMax-style relogin), 1.1.108, 1.1.107 and 1.1.106."
+  "version": "1.1.112",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.112.zip",
+  "sha256": "dcf6f5feef468ce0aed7a0e463ba9c4a8feafafe0a727b18440c32afdcf421a5",
+  "sig": "dC03gZpiLzVnFK3Xwxs/4fcLIbWlIw/xcPhg3k7s3/ECdZW5dDsEBQnocvoLHCH5gti3sDbvrVEaVbJ1c7/WDA==",
+  "notes": "v1.1.112: When Facebook stops a login with 'Invalid request - We could not validate your request. Please try starting the flow from the beginning', the login no longer gets stuck. It presses OK and logs in again from the start, choosing 'Use another profile' and entering UID + password instead of the saved profile that led to the dead step; the saved profile is kept. If Facebook says it a second time, that round stops instead of looping. The same handling is in the request login's hidden-browser step. Request login now recognises a disabled account straight away (Facebook's /checkpoint/disabled after the 2FA step): status Disabled in about 13 s instead of a 3-minute browser attempt ending in a wrong 'captcha/checkpoint not passed'. Carries 1.1.111 (full bundled browser for the no-cookie Arkose solve), 1.1.110 (Login carries the account's device cookies, plain-word login progress, Warm Up picker Status filter + right-click), 1.1.109 (browser-less MetaMax-style relogin), 1.1.108, 1.1.107 and 1.1.106."
 }
