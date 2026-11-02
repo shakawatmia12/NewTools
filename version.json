@@ -1,7 +1,7 @@
 {
-  "version": "1.1.110",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.110.zip",
-  "sha256": "d3e787835b700b99fa605e25ffd4b735512e4149e929ced0ddbf2c37c2962c51",
-  "sig": "Bggxea1p9S++26h35GelAz9Y6Z25Nf82t0jOWpy6A2uCpXSz/QKKgULvWu+btfT+CrHhZb7tTA6P4KCt60AJAA==",
-  "notes": "v1.1.110: The Login path now also carries the account's own device cookies, so a normal Login (not just a relogin) is trusted by Facebook and skips the Arkose puzzle - just password + 2FA. No-cookie accounts, which can't be trusted that way and are forced into Arkose, are now solved: the real browser needed for that puzzle is bundled with the app, so the solve works on every PC. Login progress is shown in plain words in each account's Status Detail (Logging in, Captcha solving, Captcha solved, Logged in) while the raw diagnostics stay in the log. The Warm Up account picker gets a Status filter (Live / Not Login / Suspended / Locked...) and a working right-click menu (Select Highlighted / Select All Shown / Deselect All Shown). Carries 1.1.109 (browser-less MetaMax-style relogin), 1.1.108, 1.1.107 and 1.1.106."
+  "version": "1.1.111",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.111.zip",
+  "sha256": "6748cba392371fceb4cc30151f4b4e23056983f23ce14e3edbe49961e899cd4f",
+  "sig": "XFUzUYRm6eALPMttDuvotsCt59zYkCZ56iwsCg6hUgqIlg6HpsgwQizsHl7+td2bJvq8JbA2AfYeImBv+4uiCQ==",
+  "notes": "v1.1.111: Fixes the no-cookie Arkose login. 1.1.110 bundled the wrong (headless) browser, which Facebook detects, so the Arkose puzzle never appeared and those logins failed. 1.1.111 bundles the full browser, which is shown the puzzle and lets the solver work; the old headless browser is removed on start. Arkose is a fallback: easy puzzles are usually solved, very hard ones can still fail. Accounts that have a cookie skip Arkose altogether (password + 2FA, no browser, about 15 s). Also carries 1.1.110 (Login path carries the account's device cookies, plain-word login progress in Status Detail, Warm Up picker Status filter + right-click menu), 1.1.109 (browser-less MetaMax-style relogin), 1.1.108, 1.1.107 and 1.1.106."
 }
