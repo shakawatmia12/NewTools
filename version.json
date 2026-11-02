@@ -1,7 +1,7 @@
 {
-  "version": "1.1.108",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.108.zip",
-  "sha256": "6287b043639235c63131f843e562df64d6b85cb2d3a87f863d10f6389300f7f7",
-  "sig": "rND1bP3P3vuK4XkxrPIxzQJAb/M0keEdM47GoM8dvPmwvmYrn6ZpcxtaH9ikdScDTzsMqzcyxqp6zVQHAI5EBw==",
-  "notes": "v1.1.108: Browser-less request login is stronger. A dead cookie is now revived with just the password + 2FA (TOTP posted straight to Facebook, no browser) instead of giving up with 'cookie logged out'. Two-factor and reCAPTCHA on a login wall are answered by request first (real captured request shapes), and only an Arkose or unknown wall falls back to the proven hidden browser. The hidden browser now also works in the compiled build: if the bundled browser is missing it uses the installed Chrome / Edge / Clearcote instead of crashing. Carries all of 1.1.107: smart saved-login relogin (saved Continue -> cookie -> UID/password), auto Save login info, any-language login and the English language switch on browser, phones and emulators; and 1.1.106 (CAPTCHA step no longer reloaded away; Warm Up un-ticks accounts it can't log in / unlock / that are suspended)."
+  "version": "1.1.109",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.109.zip",
+  "sha256": "3a504e96f3eed676fc7b7786caf0fd7502013f7bdd247f64774ee1ded723ed46",
+  "sig": "TKfoShIG5LB/3gnprcdifNOioODq5f0cupfFUtxUX7oWVm7+Rc+r7I/1bLS2nPrFg9qhGj8f5sy2AzAp1tlyBg==",
+  "notes": "v1.1.109: Browser-less relogin, MetaMax-style. The request login now carries the account's OWN device cookies (datr/fr/sb/locale/wd...) before it logs in, so Facebook trusts the device and does not escalate to an Arkose puzzle - just password + 2FA and it's in, no browser. A dead cookie is revived the same way (seed_device = the stored cookie). When Facebook still does throw an Arkose wall the proven hidden browser is the fallback. Carries all of 1.1.108 (request-login 2FA/reCAPTCHA, compiled-build browser fallback), 1.1.107 (smart saved-login relogin, any-language login + English language switch) and 1.1.106."
 }
