@@ -1,7 +1,7 @@
 {
-  "version": "1.1.122",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.122.zip",
-  "sha256": "02f6623358482677a9af1038a4da162f136bd221935e185d7a23107ae9d2ed17",
-  "sig": "HubrjlcNKSTSJbQFXdJr4n84818lHP1PoPxmpfYcV0V67ZPY96hTdlTFb2eKrsEdBQH2hn6Nvxhwy0j/vd7hBw==",
-  "notes": "v1.1.122 (bug-report pass): (1) Updates no longer fail on a slow close: the installer waits until the app and anything it started have really exited (up to 90 s) instead of 3 s - the 1.1.120 update failed on a server PC with files in use. (2) The app closes at once (was up to 48 s of 'Not Responding' while Tk tore down the big tables). (3) The account tables no longer redraw every 5 s while an account runs - the main cause of the 7-23 s UI freezes on 24/7 PCs. (4) Facebook's own redirect during a page load (to a checkpoint, to web.facebook.com) no longer fails a 956 Check or a browser open. (5) Phone (ADB) Hotmail codes wait the 90 s Outlook needs (gave up at 32 s). An account already sent for review is reported as such. (6) Bug reports: programming errors in 53 more places, JavaScript errors inside pages, one issue per bug (not one per page name / URL), rare warnings sooner, and normal account states (logged out, walls, wrong password, captcha shown) no longer bury real bugs. Carries 1.1.121: m-mode saved login kept, code steps answered in every task, browser location + check-in, captcha without time waste."
+  "version": "1.1.123",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.123.zip",
+  "sha256": "c1d6bd2bfaefc5fc73717b0aa0de4f2cb92ac99f09acce43891fbe1f41275acf",
+  "sig": "ZAD+2i2k+9fSzscjFZIuhxM/PPavfBjMsHFB1VdIzdisOI66oOiE6iCZ3lUUpJA7SUyUof08ovR6wsZe89q0Ag==",
+  "notes": "v1.1.123: Chrome's 'Profile error occurred' box fixed - a browser closed and reopened at once could still find the old process holding the profile's databases (Web Data etc.); the launch now waits until they are free (up to 15 s), and if a really damaged file still raises the box, it is closed automatically on the app's own browsers (never your own Chrome) and logged. Carries 1.1.122: updates wait for a real exit, instant close, no idle table redraws, redirect-safe page loads, Hotmail 90 s on phones, bug-report coverage."
 }
