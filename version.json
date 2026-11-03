@@ -1,7 +1,7 @@
 {
-  "version": "1.1.119",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.119.zip",
-  "sha256": "8e0230518b3c58da6f6d5aa40b96124ce1981be44f93676efa01499bf03f4cfe",
-  "sig": "B85RhLHeCNL8T7bre/uSjW9LUZ4SJNuh8pzKyeCw2jMZ2WYhnUIhEMuWtoBZNkJvrQ3QEz6KxaDoyWeTg/ROBA==",
-  "notes": "v1.1.119: (1) Website Silver orders now share one open window per account, like Bronze: a new order joins the open window and both run in turn. (2) Bronze and Silver running together split the treat 50/50 (an odd window goes to Bronze). A system over its half gives a window up after the unit in hand, its pages come back afterwards, and when one system finishes the other gets the whole treat again. (3) A page Facebook won't let the admin act as now fails at once with the real reason, instead of a false 'switched' followed by 'post not found'. (4) The window no longer freezes behind running tasks while reading the Page account list. Carries 1.1.118: unlock root fix, one window for Bronze orders, red running rows, Hotmail token self-heal."
+  "version": "1.1.120",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.120.zip",
+  "sha256": "cd2784f5f5631e20fede0e5f9835b764e84322860998e9e7e74512691c0bf125",
+  "sig": "rnzCj4FsJUaB0tRvBC8Z3Tiogt0mrtzhcmzFcJP9SSHIWt8T5qDkqlFIbjJso5lltufqdg33SDsqMNjqxRT8BA==",
+  "notes": "v1.1.120: (1) 956 unlock no longer wastes time on a video-selfie / photo / ID wall, on a phone-or-WhatsApp-only method list, or when Facebook's masked email isn't the stored mailbox - it bails in seconds. (2) Every 956 result now shows WHY in the account's Status Detail - 'Unlocked / Live' on success, or the real reason it stopped (needs a selfie, no email option, email mismatch, no code arrived, still on the wall ...) - never a blank row or a bare 'Checkpoint: 956', so a locked account isn't blindly retried. (3) When the unlock is forced to create a new password with no way to skip, it sets a strong random one and saves it in the tool the moment Facebook accepts it. (4) The live Facebook session cookie is captured right after an unlock (and on every healthy login), so a later cookie-relogin uses the fresh value, not the pre-lock one. (5) Light theme redone - readable colours, and the dead-click / can't-close bug in light mode is fixed. Carries 1.1.119: Silver shares one window per account, Bronze+Silver split the treat 50/50, refused page fails with the real reason."
 }
