@@ -1,7 +1,7 @@
 {
-  "version": "1.1.115",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.115.zip",
-  "sha256": "2634421466c1489607e5288fa64a6635fc203e36268548549a5dadcf48918374",
-  "sig": "DqXitLPjp1vRYr59VJDn+U6i6gjBW93WMtMIxl1OWmRSbCKm0bJLjJUWi5/KA6D8iaRlI/pgP/U89gHf+Dn4CQ==",
-  "notes": "v1.1.115: Website order 'Post Comment' / 'Post Reaction' on a REEL now works. A reel order used to just open the link and move on without commenting: the comment went through the feed engine, which first looks for the post's Like button to anchor it, and a reel opened as a page has none - so it gave up before commenting. Reel orders now go through the reel viewer's own comment box directly, and are run on the www desktop reel viewer (a single, stable reel) in BOTH Mobile and Web Mode - m.facebook's reel surface is a scrolling multi-reel feed with no stable comment box, where a reel comment was typed into the wrong place and never posted. LIVE-verified: the same account that failed on m.facebook commented on the reel first try on the desktop viewer. Carries 1.1.114 (Page right-click = Browser parity, View IMAP to front, human-paced unlock resend, real-toggle Like check) and 1.1.113 (login uses the app's own emu2 browser, any-language 2FA)."
+  "version": "1.1.116",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.116.zip",
+  "sha256": "fa27148749c2070fc3e124e5b9600fc527ece957b40ac80c7f44e80ef36f9c08",
+  "sig": "KjNwcDsEN2DKNSo1rNeHOMeeHVxb2VggNOZuhMmFuYJdL4lP8Hj1X6eDPulDLSUy9Aye49Fg1skFuUZy+JMlDw==",
+  "notes": "v1.1.116: bug/crash fixes from the field. (1) Screen-learning in the account-create / ADB vision flow silently did nothing - a create-context logger takes only a message while screen_vision logs with a level, so every learn/save raised a TypeError that was swallowed; it now accepts either logger. (2) The UI could freeze for 8-15s inside the bug-reporter itself: a log-scrubbing regex backtracked on a long dotted string; scrubbing is now backtrack-proof and input-bounded, so reporting never stalls the window. Carries 1.1.115 (website orders - Post Comment / Reaction / Review / Follow - run on the www desktop viewer in both Mobile and Web Mode; reel comments go through the reel's own box) and 1.1.114 (Page right-click Browser parity, View IMAP to front, human-paced unlock resend)."
 }
