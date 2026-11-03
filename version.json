@@ -1,7 +1,7 @@
 {
-  "version": "1.1.118",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.118.zip",
-  "sha256": "579b6fd51cbfe459448370fd2ed58e18c919496754cb32419ad7a74e88812da3",
-  "sig": "IN83UtfjOA7lZBKirvGbZ4Hm4EijgwIRfIKINPZaPC5HJbfiYAjuDahfXJrUTr4RsDL6Z5ICNeZ9Im3bieDqAA==",
-  "notes": "v1.1.118: (1) Unlock fixed at the root. On the code screen a stray press sent it back to the method picker, which sent another code, again and again, and the mail was never read. Now it waits for each screen to really change, never presses past an empty code box, reads the code, submits it and waits for Facebook's answer. LIVE: 2 locked accounts unlocked, code in 3-4 s, no Back, no extra send. (2) Website Page orders share one open window per admin: a new order joins it, the first order carries on from where it was, both run in turn, the one left finishes there. Before, a new order closed the window and failed the rest. (3) A running account's row is red in every account table, for website orders, Warm Up, tasks and services. (4) Hotmail: Check Token gets a new token when the old one is dead, and an error no longer gets hidden under an old step line like 'Submit mail + password'. Carries 1.1.117."
+  "version": "1.1.119",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.119.zip",
+  "sha256": "8e0230518b3c58da6f6d5aa40b96124ce1981be44f93676efa01499bf03f4cfe",
+  "sig": "B85RhLHeCNL8T7bre/uSjW9LUZ4SJNuh8pzKyeCw2jMZ2WYhnUIhEMuWtoBZNkJvrQ3QEz6KxaDoyWeTg/ROBA==",
+  "notes": "v1.1.119: (1) Website Silver orders now share one open window per account, like Bronze: a new order joins the open window and both run in turn. (2) Bronze and Silver running together split the treat 50/50 (an odd window goes to Bronze). A system over its half gives a window up after the unit in hand, its pages come back afterwards, and when one system finishes the other gets the whole treat again. (3) A page Facebook won't let the admin act as now fails at once with the real reason, instead of a false 'switched' followed by 'post not found'. (4) The window no longer freezes behind running tasks while reading the Page account list. Carries 1.1.118: unlock root fix, one window for Bronze orders, red running rows, Hotmail token self-heal."
 }
