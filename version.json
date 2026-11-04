@@ -1,7 +1,7 @@
 {
-  "version": "1.1.128",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.128.zip",
-  "sha256": "c1a98b7c3b10675bf606b5f04af1c6145a0837d6e1d33317993d790b1dd03b91",
-  "sig": "9jWdBw54Pi7Py1JqjiC9btpKj03ek00KRuQNMJMjG1k5zzyCAQLhg4U2Z77yChpI0hHOn/0ceY4CQu0diRXiCg==",
-  "notes": "v1.1.128: relogin closes m.facebook's 'Already logged in on another Meta app?' sheet with Cancel (it covered the login form - the empty-form bounces); unrecognized-screen reports can carry the screenshot. Carries 1.1.127 (www reel change-reaction, Failed-to-load relogin, Page tab button wrap, freeze load info)."
+  "version": "1.1.129",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.129.zip",
+  "sha256": "9c4f809d0a489b630afa598cfb875f8f58e4becbe3c3f81c000d3bebeea3c7e1",
+  "sig": "D3z1nsDYikAZARPqRLcrNcZJl5qHOQ9kXnPhU9OVRUMHOnXujqNdcUo/bmU7CTOPulsBNejG/IFcw/e2whigCQ==",
+  "notes": "v1.1.129: Facebook's UK/EU 'Make a choice about your ads' screen is passed (Use for free with ads -> Continue -> Confirm; never the paid plan); every browser warning/error report carries a screenshot of the page; reports for a browser that was already closed are no longer filed. Carries 1.1.128 and earlier."
 }
