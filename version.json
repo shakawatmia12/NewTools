@@ -1,7 +1,7 @@
 {
-  "version": "1.1.124",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.124.zip",
-  "sha256": "5bfbe83209487ab39288116ba9d5faa58e8d8a9d2c45cb90be5092d60f0e006e",
-  "sig": "fWynbHZrJ4qTmQ/AqTK39ctPPIJRVAWm0FqK2gSt7uawoBPi6s3RWS+jGcXN/hiKFMei8Qw8Ap0cNR/r0q2FCw==",
-  "notes": "v1.1.124: Page tab - Login With Browser now runs the Browser grid's full login (cookie, then UID/password, 2FA and mail code) instead of the cookie only, and Stop halts it; new green Open Browser button on the Page tab toolbar; new Pages > Check Page List Only (just the list, no page details opened). Carries 1.1.123 (Chrome 'Profile error occurred' fix) and 1.1.122 (updates wait for a real exit, instant close, no idle redraws, redirect-safe page loads)."
+  "version": "1.1.125",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.125.zip",
+  "sha256": "92255e178b309316fc5bb5d730c9fd1cbb015ea14b6b6616cf67882ba2d58c2d",
+  "sig": "2Gp0DL+8TWbVxpVHSGyD/ITA+C/lECNuxkSCdc5rTM/HDGWQhU0N8XX4tP/1CBsHEhE7V/WA9JLQH9FdKgjHBw==",
+  "notes": "v1.1.125: Page health - a gone / unavailable page is marked on Check page info and skipped by page tasks and website orders (switch fails in ~4 s instead of ~48 s), and one page's wall no longer fails the admin's other pages; website orders read the post's Start Count once when the site asks for it; Open Browser label no longer cut; emulator module rebuild is retried next start if it failed. Carries 1.1.124 (Page tab full Login With Browser, Open Browser button, Check Page List Only) and 1.1.123 (Profile error fix)."
 }
