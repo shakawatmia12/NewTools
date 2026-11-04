@@ -1,7 +1,7 @@
 {
-  "version": "1.1.125",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.125.zip",
-  "sha256": "92255e178b309316fc5bb5d730c9fd1cbb015ea14b6b6616cf67882ba2d58c2d",
-  "sig": "2Gp0DL+8TWbVxpVHSGyD/ITA+C/lECNuxkSCdc5rTM/HDGWQhU0N8XX4tP/1CBsHEhE7V/WA9JLQH9FdKgjHBw==",
-  "notes": "v1.1.125: Page health - a gone / unavailable page is marked on Check page info and skipped by page tasks and website orders (switch fails in ~4 s instead of ~48 s), and one page's wall no longer fails the admin's other pages; website orders read the post's Start Count once when the site asks for it; Open Browser label no longer cut; emulator module rebuild is retried next start if it failed. Carries 1.1.124 (Page tab full Login With Browser, Open Browser button, Check Page List Only) and 1.1.123 (Profile error fix)."
+  "version": "1.1.126",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.126.zip",
+  "sha256": "be51cd4a6834199352fa2737a6cb70babd4c694a9064f992fa49c2f02323e5cd",
+  "sig": "CX3+i12sgA1qlDzdMq5L9LYUBXcyazQKnqoWiVb5ybOX69JMxBEhQDSoCQZ6mkdRwAPtyN9kNiZ5nWHVHJBtAw==",
+  "notes": "v1.1.126: 956 unlock stops at once when Facebook offers only a phone number (any language, no code sent to the phone) or asks for the old device (Try another device); www check-in picks the real city (a shop or page named like the town is skipped); Page tab 2FA accounts get their secret on request login; Remember Password OK + Was This You / Remember browser answered; faster 2FA login screen; ADB/Gold website orders read the Start Count; Open Browser label fits. Carries 1.1.125 (page health, Start Count, emulator rebuild retry) and 1.1.124 (Page tab login)."
 }
