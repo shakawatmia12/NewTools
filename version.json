@@ -1,7 +1,7 @@
 {
-  "version": "1.1.126",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.126.zip",
-  "sha256": "be51cd4a6834199352fa2737a6cb70babd4c694a9064f992fa49c2f02323e5cd",
-  "sig": "CX3+i12sgA1qlDzdMq5L9LYUBXcyazQKnqoWiVb5ybOX69JMxBEhQDSoCQZ6mkdRwAPtyN9kNiZ5nWHVHJBtAw==",
-  "notes": "v1.1.126: 956 unlock stops at once when Facebook offers only a phone number (any language, no code sent to the phone) or asks for the old device (Try another device); www check-in picks the real city (a shop or page named like the town is skipped); Page tab 2FA accounts get their secret on request login; Remember Password OK + Was This You / Remember browser answered; faster 2FA login screen; ADB/Gold website orders read the Start Count; Open Browser label fits. Carries 1.1.125 (page health, Start Count, emulator rebuild retry) and 1.1.124 (Page tab login)."
+  "version": "1.1.127",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.127.zip",
+  "sha256": "2ea025a1a14707fb1b2dbed52fbb09e778518d799765fd246e4cc81e4aad291d",
+  "sig": "AOMfkvAl3iWxnaY6xbXi6J6CmU89DSW59k0nj7i9F+p6/SYX47Ctgan9urtCDOAgqv+ihXRnYIMEulLoFpncDg==",
+  "notes": "v1.1.127: changing an existing reaction on www reels works again (Facebook added the count to the button label); a Log in answered by m.facebook's 'Failed to load' page is reloaded once and reported as a proxy problem, not a bounce; Page tab buttons wrap to a second line in a small window instead of vanishing; freeze reports now carry the PC's CPU/RAM load. Carries 1.1.126 and earlier."
 }
