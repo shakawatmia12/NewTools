@@ -1,7 +1,7 @@
 {
-  "version": "1.1.127",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.127.zip",
-  "sha256": "2ea025a1a14707fb1b2dbed52fbb09e778518d799765fd246e4cc81e4aad291d",
-  "sig": "AOMfkvAl3iWxnaY6xbXi6J6CmU89DSW59k0nj7i9F+p6/SYX47Ctgan9urtCDOAgqv+ihXRnYIMEulLoFpncDg==",
-  "notes": "v1.1.127: changing an existing reaction on www reels works again (Facebook added the count to the button label); a Log in answered by m.facebook's 'Failed to load' page is reloaded once and reported as a proxy problem, not a bounce; Page tab buttons wrap to a second line in a small window instead of vanishing; freeze reports now carry the PC's CPU/RAM load. Carries 1.1.126 and earlier."
+  "version": "1.1.128",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.128.zip",
+  "sha256": "c1a98b7c3b10675bf606b5f04af1c6145a0837d6e1d33317993d790b1dd03b91",
+  "sig": "9jWdBw54Pi7Py1JqjiC9btpKj03ek00KRuQNMJMjG1k5zzyCAQLhg4U2Z77yChpI0hHOn/0ceY4CQu0diRXiCg==",
+  "notes": "v1.1.128: relogin closes m.facebook's 'Already logged in on another Meta app?' sheet with Cancel (it covered the login form - the empty-form bounces); unrecognized-screen reports can carry the screenshot. Carries 1.1.127 (www reel change-reaction, Failed-to-load relogin, Page tab button wrap, freeze load info)."
 }
