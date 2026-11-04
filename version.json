@@ -1,7 +1,7 @@
 {
-  "version": "1.1.123",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.123.zip",
-  "sha256": "c1d6bd2bfaefc5fc73717b0aa0de4f2cb92ac99f09acce43891fbe1f41275acf",
-  "sig": "ZAD+2i2k+9fSzscjFZIuhxM/PPavfBjMsHFB1VdIzdisOI66oOiE6iCZ3lUUpJA7SUyUof08ovR6wsZe89q0Ag==",
-  "notes": "v1.1.123: Chrome's 'Profile error occurred' box fixed - a browser closed and reopened at once could still find the old process holding the profile's databases (Web Data etc.); the launch now waits until they are free (up to 15 s), and if a really damaged file still raises the box, it is closed automatically on the app's own browsers (never your own Chrome) and logged. Carries 1.1.122: updates wait for a real exit, instant close, no idle table redraws, redirect-safe page loads, Hotmail 90 s on phones, bug-report coverage."
+  "version": "1.1.124",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.124.zip",
+  "sha256": "5bfbe83209487ab39288116ba9d5faa58e8d8a9d2c45cb90be5092d60f0e006e",
+  "sig": "fWynbHZrJ4qTmQ/AqTK39ctPPIJRVAWm0FqK2gSt7uawoBPi6s3RWS+jGcXN/hiKFMei8Qw8Ap0cNR/r0q2FCw==",
+  "notes": "v1.1.124: Page tab - Login With Browser now runs the Browser grid's full login (cookie, then UID/password, 2FA and mail code) instead of the cookie only, and Stop halts it; new green Open Browser button on the Page tab toolbar; new Pages > Check Page List Only (just the list, no page details opened). Carries 1.1.123 (Chrome 'Profile error occurred' fix) and 1.1.122 (updates wait for a real exit, instant close, no idle redraws, redirect-safe page loads)."
 }
