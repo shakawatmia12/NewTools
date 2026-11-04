@@ -1,7 +1,7 @@
 {
-  "version": "1.1.130",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.130.zip",
-  "sha256": "58d658ed7a1f9b1d38650e3e0ef51edf5cb4aa36d91d1d0d63216ffd9a370205",
-  "sig": "3iyC8BnWLxJ3tgAy9bJr0XML5clGTYMAfTTGC2W9iFNQeVrgwW9CKZhpOxImkKWqxR1B5e53s+/bFJa78nssDQ==",
-  "notes": "v1.1.130: m.facebook's notice about a restriction that already ended is closed; unlock opens 'Try another way' on a phone-only screen and takes an email offered there; new Primary Method column (Mail / Number / Number+Mail) filled automatically + right-click Check > Check Primary Method (Browser / Cookie Request), Email Full hidden; Microsoft Defender stays on but skips this tool's own folders/programs (less CPU); the app reports when it uses too much CPU itself (busiest parts named). Carries 1.1.129 and earlier."
+  "version": "1.1.131",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.131.zip",
+  "sha256": "5524b4c4cf48178ca75d674c43a1b5f32cf788b4cccc5c8c058a12e8c6074ca0",
+  "sig": "F/wWB4IpWizO/pli4f6IgWMAwmcWmbqStQEQSsnJaq7TEptaDVFSGX0lWw8R98QFagGzsW6CnGemn1pgxLgSAg==",
+  "notes": "v1.1.131: Facebook's 'Allow the use of cookies' page is passed (Allow all cookies); bug reports to GitHub now carry a screenshot from browsers AND ADB phones/emulators, the page's buttons/fields list, a likely-cause line, what was running (mode, task, device), only that task's own last steps, labels (browser/adb/emulator, m-mode/web-mode) and a REOPENED mark when a fixed bug comes back; one-time warnings are reported too; big screenshots shrink to small JPEGs. Carries 1.1.130 and earlier."
 }
