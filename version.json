@@ -1,7 +1,7 @@
 {
-  "version": "1.1.134",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.134.zip",
-  "sha256": "24129170ec11a1df89922f741477a6f3ba5a309aa05f2c30fa3b6f2701c5618b",
-  "sig": "gItYqr83mlmrQhwKBPzj09Zhp9qejhi29qgteKjStl0fx4YiS7PPMcacbss4TVHh2b4G4uchGglu1zIoWx9MAQ==",
-  "notes": "Pages that fail to load (Failed to load, browser error, stuck blank) are reloaded at once by reading the screen; still dead = network/proxy said in seconds instead of waiting out timeouts; slow pages are never reloaded"
+  "version": "1.1.135",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.135.zip",
+  "sha256": "65b83b23ff0a51ef36d38be8fd9bf2cdb422bd4dda82b67dc193cd81bc7fe6e0",
+  "sig": "ps3qbUd30OwTTMIXzezF3Y/vADaQszJdJG67mdqWTKGmStbzKOJcQNcqT7NqnywAK/UIERv9ruwOfli7CmBgCw==",
+  "notes": "Every failed login / unlock / Warm Up skip now reaches GitHub with its reason; logged-in on Trust-this-device no longer called failed; login lost to Failed-to-load is retried; Facebook 'try reloading this page' healed"
 }
