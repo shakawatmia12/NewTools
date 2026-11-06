@@ -1,7 +1,7 @@
 {
-  "version": "1.1.131",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.131.zip",
-  "sha256": "5524b4c4cf48178ca75d674c43a1b5f32cf788b4cccc5c8c058a12e8c6074ca0",
-  "sig": "F/wWB4IpWizO/pli4f6IgWMAwmcWmbqStQEQSsnJaq7TEptaDVFSGX0lWw8R98QFagGzsW6CnGemn1pgxLgSAg==",
-  "notes": "v1.1.131: Facebook's 'Allow the use of cookies' page is passed (Allow all cookies); bug reports to GitHub now carry a screenshot from browsers AND ADB phones/emulators, the page's buttons/fields list, a likely-cause line, what was running (mode, task, device), only that task's own last steps, labels (browser/adb/emulator, m-mode/web-mode) and a REOPENED mark when a fixed bug comes back; one-time warnings are reported too; big screenshots shrink to small JPEGs. Carries 1.1.130 and earlier."
+  "version": "1.1.132",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.132.zip",
+  "sha256": "d13eb421cc0f14c9f37fe3fbfc967618ecdd5083532a78c478307e571db965ef",
+  "sig": "UcZbAhbB+Jxuxr0YuwCTCJDhnvNH4fQGdaZqn1SwOoc+3RBtC384ZgHsHZb6BjWr4g9QJFHAqtfs0EjZHCwlCw==",
+  "notes": "v1.1.132: Facebook sending a page on by itself (www to web./checkpoint/profile) no longer fails a Warm Up step or a 956 Check; the share sheet's 'Share now' is found in Bengali and other languages; unlock reads a still-drawing screen once more before calling it unknown; a blank 'Save your login info' page is reloaded once; Page Info and Move to Folder no longer freeze the window on a busy disk; far fewer false bug reports (normal account states, per-post reaction misses, bounced logins to the login form). Carries 1.1.131 and earlier."
 }
