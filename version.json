@@ -1,7 +1,7 @@
 {
-  "version": "1.1.138",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.138.zip",
-  "sha256": "493d49895ac9951b23abb4b0bbe019e0c30107d8f24b2b3321c6e1960cd494c4",
-  "sig": "Q//uMMQ+BbH9Q4ff5w8tFZx7SygsxVtX7gPDxWOXS7YnBHi+6s9K8kOJS4MtjNPLakxOpQkV8XWTxnRTtDgQCA==",
-  "notes": "282 Check: Selfie (video) system feeds the account's own face as a live camera (passes video-selfie walls, Web+Mobile, no extra software); Photo and Selfie each take your own media folder; anti-detect hardened (human-timed permission, phone-camera label, per-account clip); ffmpeg bundled; login/relogin name+gender+birthday; selfie issues to GitHub"
+  "version": "1.1.139",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.139.zip",
+  "sha256": "de47f9e32a4e7104c5062374072647227417418b4aebcabe1e7e70a00543b9da",
+  "sig": "LOWAVI8eIHbgkCZNXJ3fAYqu1R8TnoVlO2JX1dIH8Z2hyjJXu86vXQG4i/TXsnvRCY9thKlwPA3cUp1h4pFoAw==",
+  "notes": "282 Check: now passes Facebook's 'confirm you're human / security check' captcha during suspend-review using the same solver login uses (text/reCAPTCHA/Arkose via OMOCaptcha) - the wall was blocking the flow before the selfie/photo step; captcha failures now reported to GitHub"
 }
