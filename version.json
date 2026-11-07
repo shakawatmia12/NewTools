@@ -1,7 +1,7 @@
 {
-  "version": "1.1.139",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.139.zip",
-  "sha256": "de47f9e32a4e7104c5062374072647227417418b4aebcabe1e7e70a00543b9da",
-  "sig": "LOWAVI8eIHbgkCZNXJ3fAYqu1R8TnoVlO2JX1dIH8Z2hyjJXu86vXQG4i/TXsnvRCY9thKlwPA3cUp1h4pFoAw==",
-  "notes": "282 Check: now passes Facebook's 'confirm you're human / security check' captcha during suspend-review using the same solver login uses (text/reCAPTCHA/Arkose via OMOCaptcha) - the wall was blocking the flow before the selfie/photo step; captcha failures now reported to GitHub"
+  "version": "1.1.140",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.140.zip",
+  "sha256": "184bacc92efcc7494ef2b92222b6e7b216687935bb931cf615e88f00565125dc",
+  "sig": "5Sj/eyhfIsMvTYqkXaAnQaVC/nExaxTDHs6eQgcGR7sk22XVJmid+/6cTTH1h8ligEepcLI6UAZkHwJLMPg/Dg==",
+  "notes": "282 Check: Facebook's 'Enter the text from the image' number captcha now solved FREE by the bundled on-device OCR (RapidOCR), tried before OMOCaptcha - no paid key needed (OMOCaptcha could not read it); every unhandled/unknown 282 screen now reported to GitHub with its screenshot"
 }
