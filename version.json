@@ -1,7 +1,7 @@
 {
-  "version": "1.1.136",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.136.zip",
-  "sha256": "07a1bfd050e337a15071af2fe7b37779fcc33d0cf8b1673d9e46af82d8cbb359",
-  "sig": "ml4xaOi8UpFJb+9QAQAMxUJR/ZQZBm/A/pSXf64qOV1v4lZXbEi2PDKMdywjN1m4uOmGQYKncJGKbElubXFZAQ==",
-  "notes": "Hotmail sign-in no longer blocked by account proxy (direct fallback); Warm Up keeps accounts on mailbox/proxy misses, un-ticks only dead walls; every failed relogin reported to GitHub"
+  "version": "1.1.137",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.137.zip",
+  "sha256": "ef55f8a6f39a0aaa974ac718d32cae166ee9d5a8924b859656c61f95338efa12",
+  "sig": "TkZVsUHdACrJgNQmZ2oyB7KGZY5TbMEJuZkDM9eNV8Irluv6wEmzvVu3iTaAsF7TaB1Tkpm9Ub+xn1clk171Dw==",
+  "notes": "Locked/suspended accounts now fill their name; name+gender+birthday captured on every login/relogin and kept; auto-upgrades first-name to full name once an account unlocks; checkpoint 049 auto-dismiss; every bad account status reaches GitHub"
 }
