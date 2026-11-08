@@ -1,7 +1,7 @@
 {
-  "version": "1.1.140",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.140.zip",
-  "sha256": "184bacc92efcc7494ef2b92222b6e7b216687935bb931cf615e88f00565125dc",
-  "sig": "5Sj/eyhfIsMvTYqkXaAnQaVC/nExaxTDHs6eQgcGR7sk22XVJmid+/6cTTH1h8ligEepcLI6UAZkHwJLMPg/Dg==",
-  "notes": "282 Check: Facebook's 'Enter the text from the image' number captcha now solved FREE by the bundled on-device OCR (RapidOCR), tried before OMOCaptcha - no paid key needed (OMOCaptcha could not read it); every unhandled/unknown 282 screen now reported to GitHub with its screenshot"
+  "version": "1.1.143",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.143.zip",
+  "sha256": "b0a863778f57f3208ccb22b4f32c12ba387a09b9a6f8c16578138398cffd5d02",
+  "sig": "c6YNinlbopOCO1aAQklNAIzh0uncho++td7yAUtbk5QhvGMTrhG6CQ5ZjYijEOZSuvhj2Vsdz2s2RmQlWdZrDA==",
+  "notes": "Bug reports to GitHub now come with screenshot, variable values and the exact code line; proxy/cookie/account-state problems are no longer filed as bugs; 282 suspend review: photo + video selfie in both Web and Mobile mode (free.facebook photo uploader, desktop-site selfie on phone), device-lock screen recognised, steadier captcha OCR"
 }
