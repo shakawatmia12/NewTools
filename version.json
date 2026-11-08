@@ -1,7 +1,7 @@
 {
-  "version": "1.1.145",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.145.zip",
-  "sha256": "d1dbdd538cfb0bdf7e667abf3696e6cd4f2ce4015479372b4feb917521eda33c",
-  "sig": "iCO7RLZqW5tbnn+o9iXeP02kAy9iJJxzSTpLrrAlFIylFuDh2Xizuhy8RkyOIsbCDU3xMU8DS9hI8aBI/IDhAA==",
-  "notes": "282 suspend review: plain login page ends cleanly as not logged in; a second run on the same account skips instead of closing the first run's browser; already-appealed accounts skip before Chrome opens"
+  "version": "1.1.146",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.146.zip",
+  "sha256": "7cbed053a63468a351572268f6fa9af9fbb6421eb1b8d86ceccf5850eb3190e5",
+  "sig": "7vwewaVPRXvuDRR3xG9mTWtmksHH125QoqhKR4dq/K/MaQ9IknslFQ6y/KG+TRDVpO8hs1x/ac50eX8lN1M7Dw==",
+  "notes": "Browser Warm Up 24/7 now sends the 282 appeal by itself (Selfie system) for suspended accounts, skips appeals that ask for a phone number, re-checks every round; more 282 bugs reach GitHub"
 }
