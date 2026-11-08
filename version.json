@@ -1,7 +1,7 @@
 {
-  "version": "1.1.144",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.144.zip",
-  "sha256": "1c4aaa41670b6387f09dc4663103d6731d55f8a1c797a26e58e278ac5ced500a",
-  "sig": "9G/b3KZzcwptJ4Vu80K4VwTnnM+46CAhNxfic9TJ+r0Y/KxstTivMcysgx8BMkZMRYy4IPbEAfo075AsvuRRCg==",
-  "notes": "Fewer false bug reports: success/retry lines, short polls, captcha and account-state messages, and errors after a closed browser no longer go to GitHub"
+  "version": "1.1.145",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.145.zip",
+  "sha256": "d1dbdd538cfb0bdf7e667abf3696e6cd4f2ce4015479372b4feb917521eda33c",
+  "sig": "iCO7RLZqW5tbnn+o9iXeP02kAy9iJJxzSTpLrrAlFIylFuDh2Xizuhy8RkyOIsbCDU3xMU8DS9hI8aBI/IDhAA==",
+  "notes": "282 suspend review: plain login page ends cleanly as not logged in; a second run on the same account skips instead of closing the first run's browser; already-appealed accounts skip before Chrome opens"
 }
