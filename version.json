@@ -1,7 +1,7 @@
 {
-  "version": "1.1.146",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.146.zip",
-  "sha256": "7cbed053a63468a351572268f6fa9af9fbb6421eb1b8d86ceccf5850eb3190e5",
-  "sig": "7vwewaVPRXvuDRR3xG9mTWtmksHH125QoqhKR4dq/K/MaQ9IknslFQ6y/KG+TRDVpO8hs1x/ac50eX8lN1M7Dw==",
-  "notes": "Browser Warm Up 24/7 now sends the 282 appeal by itself (Selfie system) for suspended accounts, skips appeals that ask for a phone number, re-checks every round; more 282 bugs reach GitHub"
+  "version": "1.1.147",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.147.zip",
+  "sha256": "e75a3c68f7b93e07b9b6d83107c620e556c42b6a0f19b997c0e9d9ca81899d57",
+  "sig": "OGG2hfx342wRWuk6NprL13esWBhG7oTLn9PiuAk5mCk54WPwjbC4YF0iMfFC3ra0sVnH8qip018iWdo/mma/Aw==",
+  "notes": "282 works in any language (Spanish, Bangla, Arabic...), waits for slow pages instead of refreshing them, and no longer clicks Facebook's Get support bubble by mistake"
 }
