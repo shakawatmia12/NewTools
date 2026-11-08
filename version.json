@@ -1,7 +1,7 @@
 {
-  "version": "1.1.143",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.143.zip",
-  "sha256": "b0a863778f57f3208ccb22b4f32c12ba387a09b9a6f8c16578138398cffd5d02",
-  "sig": "c6YNinlbopOCO1aAQklNAIzh0uncho++td7yAUtbk5QhvGMTrhG6CQ5ZjYijEOZSuvhj2Vsdz2s2RmQlWdZrDA==",
-  "notes": "Bug reports to GitHub now come with screenshot, variable values and the exact code line; proxy/cookie/account-state problems are no longer filed as bugs; 282 suspend review: photo + video selfie in both Web and Mobile mode (free.facebook photo uploader, desktop-site selfie on phone), device-lock screen recognised, steadier captcha OCR"
+  "version": "1.1.144",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.144.zip",
+  "sha256": "1c4aaa41670b6387f09dc4663103d6731d55f8a1c797a26e58e278ac5ced500a",
+  "sig": "9G/b3KZzcwptJ4Vu80K4VwTnnM+46CAhNxfic9TJ+r0Y/KxstTivMcysgx8BMkZMRYy4IPbEAfo075AsvuRRCg==",
+  "notes": "Fewer false bug reports: success/retry lines, short polls, captcha and account-state messages, and errors after a closed browser no longer go to GitHub"
 }
