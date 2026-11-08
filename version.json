@@ -1,7 +1,7 @@
 {
-  "version": "1.1.147",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.147.zip",
-  "sha256": "e75a3c68f7b93e07b9b6d83107c620e556c42b6a0f19b997c0e9d9ca81899d57",
-  "sig": "OGG2hfx342wRWuk6NprL13esWBhG7oTLn9PiuAk5mCk54WPwjbC4YF0iMfFC3ra0sVnH8qip018iWdo/mma/Aw==",
-  "notes": "282 works in any language (Spanish, Bangla, Arabic...), waits for slow pages instead of refreshing them, and no longer clicks Facebook's Get support bubble by mistake"
+  "version": "1.1.148",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.148.zip",
+  "sha256": "ac55ab1741617dd2bfa24c98e473bc9308634afbed9e04ed7d98a6b01f09a325",
+  "sig": "3XMPWAISatQEL4spVWF1vlw9S9YmvMZhTLxiPN/Y+8F5SO5f7tOOtjyn0ILlcIZowBt/ErCbXevBdZNgYW6kAg==",
+  "notes": "282 reads captcha and finished-appeal screens in any language (Assamese too), no time wasted after submit, fewer false bug reports"
 }
