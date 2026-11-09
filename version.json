@@ -1,7 +1,7 @@
 {
-  "version": "1.1.149",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.149.zip",
-  "sha256": "69d632f8afd724ea9eb8ffe6e7c27aa9a1e15f17d27b8092315e0a68886c6e5a",
-  "sig": "HXQ4FFfDa9OBZMKxenvKA8hsviAw7/nceLNKgW/QU0lg8fQ3u0JnivbjalZRMIgQdKIvkimpQSMJ6Qo5PastDQ==",
-  "notes": "282 appeal photos look like real phone selfies (own place + phone per account), sunglasses faces rejected, selfie video face sized right with natural hand-shake, 282 lock fixes"
+  "version": "1.1.150",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.150.zip",
+  "sha256": "8252a2477a6880d906358017e1a76a484b740104d4c765f63bb15c1305fc5c4e",
+  "sig": "FUTRVhGmVVrKItsWwMyrDm1CSTcsyZiuIES9SWH7YC7rYtl+F17+2buIMwFKrcl4fDh//otat9f9YKB8UXAFDA==",
+  "notes": "Locked accounts that unlock by email are no longer mistaken for a selfie/ID wall (secure-your-account / confirm-this-is-your-account), UI freeze from heavy ticks removed, 'new code' link recognised in more languages, bug reporter no longer breaks on a missing DLL"
 }
