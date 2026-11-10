@@ -1,7 +1,7 @@
 {
-  "version": "1.1.152",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.152.zip",
-  "sha256": "b2cb89171ade8424adda3b0c819c90d70edcdeb6d8a2f876fab22d7cfcdd06a4",
-  "sig": "9FKMdoXzsqW8ywAP3BzJOcenOVopO40y2M3DrueZiq5LVverB0sLKjMiboI0aC/SmeLjb8uyiQbCkvJrxaa1CA==",
-  "notes": "1.1.152: Warm Up 24/7 now auto-relaunches if the app crashes or is killed (a native crash no longer leaves it closed); crash reports now name the faulting module; plus the 1.1.151 fixes."
+  "version": "1.1.153",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.153.zip",
+  "sha256": "7873a579bfd14f8538c1abd7dc2f7d76e1b0408d039147c2db28324d4aa23a02",
+  "sig": "r1NjDH+P0T2MGuUI8j2SRifYLi+0dI8swt3FBum2fzWBwIB9fzzFHiB+d5XMBTEJ0FMtdsCq23Gv5XSLhUjPDA==",
+  "notes": "1.1.153: new 282 Review column next to Primary Method - shows \u2705 Back <date> when a 282-appealed account comes back Live, \u274c while it is not back (Warm Up 24/7 auto-282 and manual 282 review); blank when no review was given."
 }
