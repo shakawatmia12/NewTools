@@ -1,7 +1,7 @@
 {
-  "version": "1.1.151",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.151.zip",
-  "sha256": "30cf6209cac1712bfdf1f83d1d729fc2959234c9aee5e407eb9abf5cbc09f415",
-  "sig": "n/Xs7RQFUTkbtZGJqtFNj00Rt56l6IFu/NKoF47dUng21l4LuOYVijX/zvfCIrf5+HoDtKiTXRzbXs3oJoQRBw==",
-  "notes": "1.1.151: capture screen can't hang on a dead proxy, faster account-table sort, the bug reporter never freezes the UI, and quieter environment/account-state reports."
+  "version": "1.1.152",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.152.zip",
+  "sha256": "b2cb89171ade8424adda3b0c819c90d70edcdeb6d8a2f876fab22d7cfcdd06a4",
+  "sig": "9FKMdoXzsqW8ywAP3BzJOcenOVopO40y2M3DrueZiq5LVverB0sLKjMiboI0aC/SmeLjb8uyiQbCkvJrxaa1CA==",
+  "notes": "1.1.152: Warm Up 24/7 now auto-relaunches if the app crashes or is killed (a native crash no longer leaves it closed); crash reports now name the faulting module; plus the 1.1.151 fixes."
 }
