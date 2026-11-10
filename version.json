@@ -1,7 +1,7 @@
 {
-  "version": "1.1.150",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.150.zip",
-  "sha256": "8252a2477a6880d906358017e1a76a484b740104d4c765f63bb15c1305fc5c4e",
-  "sig": "FUTRVhGmVVrKItsWwMyrDm1CSTcsyZiuIES9SWH7YC7rYtl+F17+2buIMwFKrcl4fDh//otat9f9YKB8UXAFDA==",
-  "notes": "Locked accounts that unlock by email are no longer mistaken for a selfie/ID wall (secure-your-account / confirm-this-is-your-account), UI freeze from heavy ticks removed, 'new code' link recognised in more languages, bug reporter no longer breaks on a missing DLL"
+  "version": "1.1.151",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.151.zip",
+  "sha256": "30cf6209cac1712bfdf1f83d1d729fc2959234c9aee5e407eb9abf5cbc09f415",
+  "sig": "n/Xs7RQFUTkbtZGJqtFNj00Rt56l6IFu/NKoF47dUng21l4LuOYVijX/zvfCIrf5+HoDtKiTXRzbXs3oJoQRBw==",
+  "notes": "1.1.151: capture screen can't hang on a dead proxy, faster account-table sort, the bug reporter never freezes the UI, and quieter environment/account-state reports."
 }
