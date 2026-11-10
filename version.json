@@ -1,7 +1,7 @@
 {
-  "version": "1.1.153",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.153.zip",
-  "sha256": "7873a579bfd14f8538c1abd7dc2f7d76e1b0408d039147c2db28324d4aa23a02",
-  "sig": "r1NjDH+P0T2MGuUI8j2SRifYLi+0dI8swt3FBum2fzWBwIB9fzzFHiB+d5XMBTEJ0FMtdsCq23Gv5XSLhUjPDA==",
-  "notes": "1.1.153: new 282 Review column next to Primary Method - shows \u2705 Back <date> when a 282-appealed account comes back Live, \u274c while it is not back (Warm Up 24/7 auto-282 and manual 282 review); blank when no review was given."
+  "version": "1.1.154",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.154.zip",
+  "sha256": "2ecc265a07f790d2ac6e411aefcd6ec481d385706997fea8d41c1cc9bf9df092",
+  "sig": "IGj6sZ+CYTbzL3Z6IdPmXzv4jconTl7LYIwit1V6qoCriwNzY/6VakSfMU4N76Z4Cih1llyJw0J58wX26XwPBA==",
+  "notes": "1.1.154: Warm Up 24/7 never sits 'waiting for a free window' for hours any more - stuck/vanished windows and hung service/order jobs are freed by themselves, the real wait reason is shown and long waits reach GitHub; ads-choice screen under the 'better on the app' sheet, Share blocked by an open chat, Page tab freeze, login-page title saved as a name - fixed."
 }
