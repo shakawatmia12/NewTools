@@ -1,7 +1,7 @@
 {
-  "version": "1.1.155",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.155.zip",
-  "sha256": "2dbd716b4aa885b20d621c7c7ed92695f057a21dbca4fb9512ce9fad2e0aca7d",
-  "sig": "O7p79WUe56McRDt8O3uDFmwndOMCmqc64Pa6fL8Y7UVLQyrrVAWSMvONsO2PPZhn2lyEmyZ6H/5qQmndZqqcCg==",
-  "notes": "1.1.155: smarter Warm Up 24/7 - pages move on as soon as they are drawn (no 30 s waits), steps with nothing to do are skipped per account, a logged-out session stops at once, max 2 logins a day per account, gentler first days, idle windows start the next session early, 'Reels' no longer saved as a name, and a Warm Up health watcher files small problems + a daily digest to GitHub."
+  "version": "1.1.156",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.156.zip",
+  "sha256": "b3e57d753e20992f382a93af8f6225666146724475eda27e25f18250c542126b",
+  "sig": "yIumqfNneZuZMMAIXW1tFlKgOCeRIGv7p3+U27NiKIPcH3U9g18W0MEeoMfhFBuR10ASM0rxmtVLcGRFOP1hAA==",
+  "notes": "1.1.156: Account Info - Browser now has the ADB '\u2705 After Check Task' - read each account's details in its own Chrome (name, gender, birthday, friends, city, email, phone, last login). Added Ads & BM: the account's own Chrome borrows the desktop view (the same proven flip the 282 selfie uses) and reads the ad accounts + businesses read-only, with each ad account's creation date. The detail check is now fully read-only (never relogins, unlocks or switches language), only opens its own login row (no guessed taps), and an account is re-checked at most once a day on the after-Run-Script sweep. Fixed the Browser After Check dialog whose Save/Check/Close buttons were pushed off the bottom. Warm Up's 956 auto-unlock and 282 review are unchanged."
 }
