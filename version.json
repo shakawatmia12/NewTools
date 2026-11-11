@@ -1,7 +1,7 @@
 {
-  "version": "1.1.154",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.154.zip",
-  "sha256": "2ecc265a07f790d2ac6e411aefcd6ec481d385706997fea8d41c1cc9bf9df092",
-  "sig": "IGj6sZ+CYTbzL3Z6IdPmXzv4jconTl7LYIwit1V6qoCriwNzY/6VakSfMU4N76Z4Cih1llyJw0J58wX26XwPBA==",
-  "notes": "1.1.154: Warm Up 24/7 never sits 'waiting for a free window' for hours any more - stuck/vanished windows and hung service/order jobs are freed by themselves, the real wait reason is shown and long waits reach GitHub; ads-choice screen under the 'better on the app' sheet, Share blocked by an open chat, Page tab freeze, login-page title saved as a name - fixed."
+  "version": "1.1.155",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.155.zip",
+  "sha256": "2dbd716b4aa885b20d621c7c7ed92695f057a21dbca4fb9512ce9fad2e0aca7d",
+  "sig": "O7p79WUe56McRDt8O3uDFmwndOMCmqc64Pa6fL8Y7UVLQyrrVAWSMvONsO2PPZhn2lyEmyZ6H/5qQmndZqqcCg==",
+  "notes": "1.1.155: smarter Warm Up 24/7 - pages move on as soon as they are drawn (no 30 s waits), steps with nothing to do are skipped per account, a logged-out session stops at once, max 2 logins a day per account, gentler first days, idle windows start the next session early, 'Reels' no longer saved as a name, and a Warm Up health watcher files small problems + a daily digest to GitHub."
 }
