@@ -1,7 +1,7 @@
 {
-  "version": "1.1.156",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.156.zip",
-  "sha256": "b3e57d753e20992f382a93af8f6225666146724475eda27e25f18250c542126b",
-  "sig": "yIumqfNneZuZMMAIXW1tFlKgOCeRIGv7p3+U27NiKIPcH3U9g18W0MEeoMfhFBuR10ASM0rxmtVLcGRFOP1hAA==",
-  "notes": "1.1.156: Account Info - Browser now has the ADB '\u2705 After Check Task' - read each account's details in its own Chrome (name, gender, birthday, friends, city, email, phone, last login). Added Ads & BM: the account's own Chrome borrows the desktop view (the same proven flip the 282 selfie uses) and reads the ad accounts + businesses read-only, with each ad account's creation date. The detail check is now fully read-only (never relogins, unlocks or switches language), only opens its own login row (no guessed taps), and an account is re-checked at most once a day on the after-Run-Script sweep. Fixed the Browser After Check dialog whose Save/Check/Close buttons were pushed off the bottom. Warm Up's 956 auto-unlock and 282 review are unchanged."
+  "version": "1.1.157",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.157.zip",
+  "sha256": "7fb1a32fe8fb350d15604344f9104b906d099bed34c473068267274a47989d83",
+  "sig": "yQl4lIvQDw3fsDQWfKdNJKh3YGqTFbKYTl4ZLQ7I5hI+TaDZXS0ugZIm0L4GIg0qJca9F8KZLIJXEhp0GEnzDw==",
+  "notes": "1.1.157: Account Info - Browser After Check Task now reads Date Created too - the oldest day in the account's own Activity Log (Logged Actions) = its creation date, read on-screen like the rest (the ADB Date create twin). Ads/BM already read the ad account's own creation date. Everything else is unchanged from 1.1.156 (read-only detail check, Ads & BM via the 282-style desktop view)."
 }
