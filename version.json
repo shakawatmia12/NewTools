@@ -1,7 +1,7 @@
 {
-  "version": "1.1.159",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.159.zip",
-  "sha256": "31c3c26a328bbcc3a6fcf99e23f0756374dfd05864ed9ffa65ba5eb5ebb3bdff",
-  "sig": "nnHaQScvfFdPeOLYIEbyK8MNY/bW7gRa786wzuMz9yrs2DdbVxT0uTsiItdKqup5rCfVf/ehhGErQKbo0KqSDQ==",
-  "notes": "1.1.159: Ads Account + BM read now complete. Ads shows each ad account's status + disable reason + creation date + spend LIMIT (e.g. 6275.1 BDT) + amount spent; if no ad account exists it is created and shown. BM now shows every Business Manager's name + creation date + its own status (Verified / Not verified / In review / Rejected / Revoked) so you can see at a glance if a BM is live or flagged - the '1'/'2' before it is just how MANY BMs. (Spend limit is a per-ad-account value, shown in the Ads column; Facebook keeps no separate BM spend limit.) Also: a one-time self-heal fixes rows an earlier build left wrong - the account's screen Location that slipped into the BM cell moves back to Primary Location, and a stray 'Yes' in Primary Location is cleared. name/gender/birthday fill at login and retry next login if missed; only the checks you tick run."
+  "version": "1.1.160",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.160.zip",
+  "sha256": "5281f6e90c9dbdc9a562df84cb7afc8a3939eeaad46f3144e2a3b78be056426f",
+  "sig": "vCqDwxnnsD6UUQ9kxTbrW6RJJQn7bpXJ963fxp60rJdqvMWiaDa545VjoCgvRDNNvsYfnPmas/i94aFKzcNUAg==",
+  "notes": "Big view: maximize or enlarge a browser window to see and use the page large (mobile + web)"
 }
