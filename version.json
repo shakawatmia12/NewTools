@@ -1,7 +1,7 @@
 {
-  "version": "1.1.157",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.157.zip",
-  "sha256": "7fb1a32fe8fb350d15604344f9104b906d099bed34c473068267274a47989d83",
-  "sig": "yQl4lIvQDw3fsDQWfKdNJKh3YGqTFbKYTl4ZLQ7I5hI+TaDZXS0ugZIm0L4GIg0qJca9F8KZLIJXEhp0GEnzDw==",
-  "notes": "1.1.157: Account Info - Browser After Check Task now reads Date Created too - the oldest day in the account's own Activity Log (Logged Actions) = its creation date, read on-screen like the rest (the ADB Date create twin). Ads/BM already read the ad account's own creation date. Everything else is unchanged from 1.1.156 (read-only detail check, Ads & BM via the 282-style desktop view)."
+  "version": "1.1.158",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.158.zip",
+  "sha256": "9e0f2259a29b0067ff6fad6567368b139b5faad2e6ee14c761402e546e9d2d99",
+  "sig": "hSGYr3jpDT9u+WWuElSRFRL5L2Fc9wn1iMOpNigBczxhi+s1soFIAd9NUQdxsX0Pj7jUQdqP0B2NWTAEvdPnAA==",
+  "notes": "1.1.158: Browser After Check Task now actually reads Ads Account + BM. The account's own open browser harvests its ads token from the live Ads Manager page, then one request-base Graph read through the account's own proxy returns every ad account with its status, disable reason (policy/risk/etc), creation date, spend LIMIT and amount spent, plus Business Managers in a new BM column. If no ad account exists it is created and its status shown (MaxCare misses this). Only the checks you tick run - nothing extra. name/gender/birthday now fill at login and retry on the next login if missed (never left blank). Unknown FB status/error codes auto-report to GitHub. Account Info load is header-aware so columns never shift."
 }
