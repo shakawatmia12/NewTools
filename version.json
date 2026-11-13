@@ -1,7 +1,7 @@
 {
   "version": "1.1.166",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.166.zip",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.166.zip?v=1166",
   "sha256": "a984250eaee50bdc1eb4e410c4be3a81ed79bd13e8b5384933f43e17446e1a2b",
-  "sig": "bE3iWIXhM1uypdU2s5R/Zi56yJiDUnu7+6RRRLmorD1APlsIKtUDqyczOC1n0NULTbUuiv28CJbS+U7QemrMCA==",
+  "sig": "mVxqea0hr2FARRhOhIlSDGuTJN6AzXbgTjhfRFiwYn5KL8BtgAhr/jdjvuaq5h/Bz/FsNpqQUI8NV+C56/o3Cg==",
   "notes": "1.1.166: every script settings window redesigned - dark +/- number boxes, raised cards, sections fold when off, reactions wrap (Sad/Angry no longer cut), window sized to the screen, Update/Close and +/Edit buttons never hidden; Interact Specified Posts more human - phone mode opens links on the phone site first (desktop view only for a link the phone can't show), a short feed look before, 6-18 s between links, a read before commenting; Run Script from the Page tab: Interact specified posts now reacts/comments AS the selected pages; missed reaction picker tries other ways before falling back to Like; name read no longer takes 'Digital creator'; Run Script 956 log says it is left as it is."
 }
