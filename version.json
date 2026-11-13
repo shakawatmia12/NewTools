@@ -1,7 +1,7 @@
 {
-  "version": "1.1.165",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.165.zip",
-  "sha256": "eb4e6a93b7f0b1065e75e1b95a7e61852ff3a658ca3b26a0622a9cc31320b8f4",
-  "sig": "3U35SWzfqxgzz04gtrgPmmJ73IAuv91NwAILK42vs7Rr88CGyjLhjHli5QAKbxtoJPiGtPLLa+vsmB+gOcV5Cw==",
-  "notes": "1.1.165: Interact Reel - run by number or by TIME, comments (Web mode accounts; Facebook's phone site has no reel comments), reels that never load are not counted; newsfeed stays on the feed - no swipe starts on a name/link, no tiny swipes that act as taps, any other page (profile / Friends / video) -> Back to the feed; profile preview card closed; 'What happened' / 'Happy Birthday' notices closed at once; a slow page load is retried instead of ending the feed; no Reels after a failed feed; stuck feed / left feed -> GitHub with screenshot; clear Status Detail (Newsfeed/Reels, seconds, minutes left)."
+  "version": "1.1.166",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.166.zip",
+  "sha256": "a984250eaee50bdc1eb4e410c4be3a81ed79bd13e8b5384933f43e17446e1a2b",
+  "sig": "bE3iWIXhM1uypdU2s5R/Zi56yJiDUnu7+6RRRLmorD1APlsIKtUDqyczOC1n0NULTbUuiv28CJbS+U7QemrMCA==",
+  "notes": "1.1.166: every script settings window redesigned - dark +/- number boxes, raised cards, sections fold when off, reactions wrap (Sad/Angry no longer cut), window sized to the screen, Update/Close and +/Edit buttons never hidden; Interact Specified Posts more human - phone mode opens links on the phone site first (desktop view only for a link the phone can't show), a short feed look before, 6-18 s between links, a read before commenting; Run Script from the Page tab: Interact specified posts now reacts/comments AS the selected pages; missed reaction picker tries other ways before falling back to Like; name read no longer takes 'Digital creator'; Run Script 956 log says it is left as it is."
 }
