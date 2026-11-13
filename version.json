@@ -1,7 +1,7 @@
 {
-  "version": "1.1.161",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.161.zip",
-  "sha256": "38bedab548091b16a0b750113878d8e9219ab5ad8b110f2d91d50d1c1e4caffb",
-  "sig": "36nuVQfZ3vAIEH+4oprEwvT+wYVJXIFOG3LrVimN0YgZb+vec4E4h1lvmwHnK2z2dZDYhpfs4DHhAJRVOh0+Bg==",
-  "notes": "1.1.161: Newsfeed runs its full time (closes the 'What happened' notice by its X, reloads a feed that ran dry); a newsfeed that doesn't come is tried 3 times then the account is skipped; UK/EU ads-choice and cookie screens answered on slow proxies; names captured on m.facebook (profile.php); Run Script relogins but never runs 956 unlock / 282 itself; After Check reads the friend count from the friends page; big view when a mobile browser window is maximized."
+  "version": "1.1.162",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.162.zip",
+  "sha256": "31ba7bfe03814b6865627aa45099026cf6e8e15b753106e5c9a70e2741caf842",
+  "sig": "BK0n/eM1D4oE6bWV2uOM+v6eJpuT95ArMPrDSbw3S2KypDON2I+Msh90ziJ4AnsJ4XhEyDSE6F6yH8mbzP9zAg==",
+  "notes": "1.1.162: logins on slow/rotating proxies - waits out Facebook's 'Running security checks' (no reload), waits for a half-drawn login page and reopens 'Failed to load', blank saved-profile chooser -> 'Use another profile'; hung browser windows are closed by a watchdog and Stop really stops; a proxy that is down puts the account back in the queue instead of dropping it; login fail reasons name network/proxy and unfinished security checks; 'post' never saved as a name."
 }
