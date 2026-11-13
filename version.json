@@ -1,7 +1,7 @@
 {
-  "version": "1.1.162",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.162.zip",
-  "sha256": "31ba7bfe03814b6865627aa45099026cf6e8e15b753106e5c9a70e2741caf842",
-  "sig": "BK0n/eM1D4oE6bWV2uOM+v6eJpuT95ArMPrDSbw3S2KypDON2I+Msh90ziJ4AnsJ4XhEyDSE6F6yH8mbzP9zAg==",
-  "notes": "1.1.162: logins on slow/rotating proxies - waits out Facebook's 'Running security checks' (no reload), waits for a half-drawn login page and reopens 'Failed to load', blank saved-profile chooser -> 'Use another profile'; hung browser windows are closed by a watchdog and Stop really stops; a proxy that is down puts the account back in the queue instead of dropping it; login fail reasons name network/proxy and unfinished security checks; 'post' never saved as a name."
+  "version": "1.1.163",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.163.zip",
+  "sha256": "23f5d8cd31883442d0dfe6930b2fca0c5bf7a98297b3ab2c8717abfb7b3bb6b9",
+  "sig": "F2kU740cKKnipU9d6DnccvF2Mv7MPnx/3bd1Ic8AE5LuxeF1piADZYtahUv3WXz2ezRrimsy+wodnvuhYdEJDg==",
+  "notes": "1.1.163: names/gender/birthday filled after login - Facebook's full-page 'Happy Birthday - new Facebook settings' notice (and other notices) closed before reading the profile and Personal details; the same notice no longer empties the newsfeed; a read that still finds nothing saves that page's screenshot for diagnosis."
 }
