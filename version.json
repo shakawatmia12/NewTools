@@ -1,7 +1,7 @@
 {
-  "version": "1.1.163",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.163.zip",
-  "sha256": "23f5d8cd31883442d0dfe6930b2fca0c5bf7a98297b3ab2c8717abfb7b3bb6b9",
-  "sig": "F2kU740cKKnipU9d6DnccvF2Mv7MPnx/3bd1Ic8AE5LuxeF1piADZYtahUv3WXz2ezRrimsy+wodnvuhYdEJDg==",
-  "notes": "1.1.163: names/gender/birthday filled after login - Facebook's full-page 'Happy Birthday - new Facebook settings' notice (and other notices) closed before reading the profile and Personal details; the same notice no longer empties the newsfeed; a read that still finds nothing saves that page's screenshot for diagnosis."
+  "version": "1.1.164",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.164.zip",
+  "sha256": "2679eab7a8549578c133c269772220db1c93ac29686e78fd594bc270c204069d",
+  "sig": "MY2iPb/+fz1Fw9Vvmb1AM6rBIHN2PXxke3Et/ZaSG4GQcG31xdtVqjc6y1Jgujw2zfdTj5brGDwsOWwJvrVOAQ==",
+  "notes": "1.1.164: Run Script acts like a person - thumb swipes instead of script scroll jumps, skewed view times, look-backs and short breaks; Facebook's 'Happy Birthday' notice closed once, then the account is left (no bot loop); a 956 / checkpoint stops the account at once (named in Status Detail, no unlock in Run Script); no Reels on a skipped account; gender/birthday read on the phone (no desktop switch); time zone kept per account; Interact Reel runs in the browser with no repeats; name read past the post count. GitHub fixes: Suspend Review 'Appeal' loop, license check freeze, email code / confirm picker, share 'Write post' composer, 'another device' 956 in more languages, scroll timeouts."
 }
