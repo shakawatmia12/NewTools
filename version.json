@@ -1,7 +1,7 @@
 {
-  "version": "1.1.168",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.168.zip",
-  "sha256": "dfa9492643c676d5c2ee8898dc7894163e1b95ad59c4f3770b8141815f5f6d30",
-  "sig": "A9961/Tec1c+JjGgLLfxDBX9XVkPC8Sp4b/JRB1QoK0yyxfGKjst9mcICAnuJGY8TGaNGpvAn+CwxtriEULUDQ==",
-  "notes": "1.1.168: no more app freezes when a browser dies mid-task (the dead window used to lock the whole app for a minute); the 956 'confirm this is your account' screen is caught at once instead of looping; Facebook's 'What happened - we added a restriction' notice no longer stalls the feed (closed, or the account moves on); an account logged out during reels logs back in and goes on; two small UI crash fixes."
+  "version": "1.1.169",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.169.zip",
+  "sha256": "6e0983af4f2fd61250c5d6b5623ed01ddc06809b8621c67c83bcb7edf7251398",
+  "sig": "dUbARF/FrMiL853GFwD6pSa2uY2FpA28I6r7H7cOFWjsNKyQqfMuxw2wu44kZak35m42NViJjWMkYKEAPilpAA==",
+  "notes": "1.1.169: Facebook's full-page 'What happened' notice (e.g. 'You can no longer request a review') no longer stalls the feed - the app opens its 'See why', looks, and goes back (Facebook stops showing it after a few rounds); the 'Open Facebook on your mobile device to confirm your identity' dialog is closed so the feed and Share go on."
 }
