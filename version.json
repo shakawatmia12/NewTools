@@ -1,7 +1,7 @@
 {
-  "version": "1.1.167",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.167.zip",
-  "sha256": "02c7550b1dc9164c64a90fdfda0368cc062c576b5fab034e6cc88e29453bac56",
-  "sig": "BNQ/f2HK27yemfyrUclET71q+MQZk26y8bOo7vh9jRKTQiarzBvZLKAnqrJLmdkMku0yRnCCjZI2ja9XEuTrAQ==",
-  "notes": "1.1.167: the app fits small screens (RDP) - everything drawn smaller so no button falls off; Interact Reel shows only the Number OR Time setting it runs by; Like/Comment look the same in every action (Interaction / Comment by text cards that fold when off); reels no longer get a Like when React is off (two quick swipes were a double tap); logged out mid-feed in any language (e.g. Portuguese 'Continuar') -> relogs in and carries on."
+  "version": "1.1.168",
+  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.168.zip",
+  "sha256": "dfa9492643c676d5c2ee8898dc7894163e1b95ad59c4f3770b8141815f5f6d30",
+  "sig": "A9961/Tec1c+JjGgLLfxDBX9XVkPC8Sp4b/JRB1QoK0yyxfGKjst9mcICAnuJGY8TGaNGpvAn+CwxtriEULUDQ==",
+  "notes": "1.1.168: no more app freezes when a browser dies mid-task (the dead window used to lock the whole app for a minute); the 956 'confirm this is your account' screen is caught at once instead of looping; Facebook's 'What happened - we added a restriction' notice no longer stalls the feed (closed, or the account moves on); an account logged out during reels logs back in and goes on; two small UI crash fixes."
 }
