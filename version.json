@@ -1,7 +1,7 @@
 {
-  "version": "1.1.169",
-  "url": "https://media.githubusercontent.com/media/shakawatmia12/NewTools/main/update_v1.1.169.zip",
-  "sha256": "6e0983af4f2fd61250c5d6b5623ed01ddc06809b8621c67c83bcb7edf7251398",
-  "sig": "dUbARF/FrMiL853GFwD6pSa2uY2FpA28I6r7H7cOFWjsNKyQqfMuxw2wu44kZak35m42NViJjWMkYKEAPilpAA==",
-  "notes": "1.1.169: Facebook's full-page 'What happened' notice (e.g. 'You can no longer request a review') no longer stalls the feed - the app opens its 'See why', looks, and goes back (Facebook stops showing it after a few rounds); the 'Open Facebook on your mobile device to confirm your identity' dialog is closed so the feed and Share go on."
+  "version": "1.1.170",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.170/update_v1.1.170.zip",
+  "sha256": "6ca6f2e59decc7d99e168df1ee7468b5d38085e9cc3df2b545d7c009f76e55d2",
+  "sig": "u2qaG/hMYyci7Dda4cD5LuotqN2jDTMdFoUdZLKPDdSayCXBVPSXT776ORnXkAad8Y/PDRGWi4EEC9p9RurZAQ==",
+  "notes": "1.1.170: 956 Check no longer says 'Live' on a page that was still loading - it waits for the real screen, types the email code and proves the unlock on Facebook's home; the 'Happy Birthday - new settings' page that hides a 956 lock is seen and the unlock runs from the lock's own start page; phone-only locks are named in seconds; name capture skips locked accounts; share works on the two-step 'Write post' (Next then Post); 'sleep mode' dialog closed; app close no longer freezes; an update now installs even if the exe is still running."
 }
