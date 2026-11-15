@@ -1,7 +1,7 @@
 {
-  "version": "1.1.170",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.170/update_v1.1.170.zip",
-  "sha256": "6ca6f2e59decc7d99e168df1ee7468b5d38085e9cc3df2b545d7c009f76e55d2",
-  "sig": "u2qaG/hMYyci7Dda4cD5LuotqN2jDTMdFoUdZLKPDdSayCXBVPSXT776ORnXkAad8Y/PDRGWi4EEC9p9RurZAQ==",
-  "notes": "1.1.170: 956 Check no longer says 'Live' on a page that was still loading - it waits for the real screen, types the email code and proves the unlock on Facebook's home; the 'Happy Birthday - new settings' page that hides a 956 lock is seen and the unlock runs from the lock's own start page; phone-only locks are named in seconds; name capture skips locked accounts; share works on the two-step 'Write post' (Next then Post); 'sleep mode' dialog closed; app close no longer freezes; an update now installs even if the exe is still running."
+  "version": "1.1.171",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.171/update_v1.1.171.zip",
+  "sha256": "dbee160dcfd64f1d6392435aef16574d628648daa0dbaf72cb7455a3a383a0d7",
+  "sig": "DESvhuSIie3/AzlHNi20J6RAkRtyoWqif0A9/qEVecnC2iQ5f0S2nDxtkKlI7Cq9fQWi2Ov9Y1QltNwefqyPCA==",
+  "notes": "1.1.171: Page system - each page does ALL the task's links in one switch (page 1: link 1, 2, 3... then switch to page 2), and what a page does shows in that page's own Status; Count fields take up to 99999 (e.g. 1800-3600 seconds); Login Method Uid|Pass - an account's first login is UID + password even with a cookie stored, later relogins may use the cookie."
 }
