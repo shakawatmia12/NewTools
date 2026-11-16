@@ -1,7 +1,7 @@
 {
-  "version": "1.1.174",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.174/update_v1.1.174.zip",
-  "sha256": "035cb8fc05a2f9f30cd6f09cbd7e169c30c458bccf515c473fa2ff63af850681",
-  "sig": "56MfQf+WbLOFToEeIwH2qg9ym23gEl0+iTuHKyjSjBInn13R7fRc700KBgVHXb6IPKz9iGixxGZ1XcW+Xhs/CQ==",
-  "notes": "What happened ended notice: X icon found reliably, else See why and back"
+  "version": "1.1.175",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.175/update_v1.1.175.zip",
+  "sha256": "7541d2e588f080da2d9709d78b2aeec9e0089f832ce0453e56bf74b35d528cbd",
+  "sig": "sJWIb1VqGOnOIOj0qKEIp2TToerQymAYcreRFlYTMZsP7DoTjzm4ktykUJ1dTevYsG93OKxqVjDppaMV2DBKBQ==",
+  "notes": "956 Check: locked non-English accounts no longer shown Live; new password saved only after Facebook takes it; Create a new password + Save changes step; used mail codes skipped after resend; Last Used + Hotmail last used update"
 }
