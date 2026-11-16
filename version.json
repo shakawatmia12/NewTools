@@ -1,7 +1,7 @@
 {
-  "version": "1.1.175",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.175/update_v1.1.175.zip",
-  "sha256": "7541d2e588f080da2d9709d78b2aeec9e0089f832ce0453e56bf74b35d528cbd",
-  "sig": "sJWIb1VqGOnOIOj0qKEIp2TToerQymAYcreRFlYTMZsP7DoTjzm4ktykUJ1dTevYsG93OKxqVjDppaMV2DBKBQ==",
-  "notes": "956 Check: locked non-English accounts no longer shown Live; new password saved only after Facebook takes it; Create a new password + Save changes step; used mail codes skipped after resend; Last Used + Hotmail last used update"
+  "version": "1.1.176",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.176/update_v1.1.176.zip",
+  "sha256": "5b32b0db6b0755beef17649c065af00e3a22add8e8968d6f5c88ff10ab860fad",
+  "sig": "bhHdl5k0aVpgNAfDmgvAc+0CavEKuJw1n2p/5M70+5W3biVZrZOs5hICIX3dRDdM7AWDUD/YkiEQEbZSn3lUCQ==",
+  "notes": "Warm Up keyword search now really interacts (no instant back); no 30 s waits on redrawn buttons; Like retried when covered; 282 code step stops fast; hung CDP calls capped at 60 s; fewer false GitHub reports"
 }
