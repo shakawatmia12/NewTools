@@ -1,7 +1,7 @@
 {
-  "version": "1.1.171",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.171/update_v1.1.171.zip",
-  "sha256": "dbee160dcfd64f1d6392435aef16574d628648daa0dbaf72cb7455a3a383a0d7",
-  "sig": "DESvhuSIie3/AzlHNi20J6RAkRtyoWqif0A9/qEVecnC2iQ5f0S2nDxtkKlI7Cq9fQWi2Ov9Y1QltNwefqyPCA==",
-  "notes": "1.1.171: Page system - each page does ALL the task's links in one switch (page 1: link 1, 2, 3... then switch to page 2), and what a page does shows in that page's own Status; Count fields take up to 99999 (e.g. 1800-3600 seconds); Login Method Uid|Pass - an account's first login is UID + password even with a cookie stored, later relogins may use the cookie."
+  "version": "1.1.173",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.173/update_v1.1.173.zip",
+  "sha256": "d912294aef1e7e89d03675833735fd80eb0df8236925b7fc8611831039b86ff1",
+  "sig": "qBRymOkQ3AWqdxfZenrHzPBii410/eegYe0IrADDtha35fVqjZxmiu61gBpR8z7A93ud8GN+Nn14qsfocyOmAQ==",
+  "notes": "Import Cancel/Update like MetaMax; 282 button scroll (Warm Up + 282 Check); gender from basic-info form; no language switch when already English; What happened notice: X then See why and back; smart screen-based waits; new 4-step ads consent popup; full per-account useragent in sheet and browser (phone model, Android 10+, Build ID); page system: all links per page switch + page status; Uid|Pass first login without cookie"
 }
