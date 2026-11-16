@@ -1,7 +1,7 @@
 {
-  "version": "1.1.173",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.173/update_v1.1.173.zip",
-  "sha256": "d912294aef1e7e89d03675833735fd80eb0df8236925b7fc8611831039b86ff1",
-  "sig": "qBRymOkQ3AWqdxfZenrHzPBii410/eegYe0IrADDtha35fVqjZxmiu61gBpR8z7A93ud8GN+Nn14qsfocyOmAQ==",
-  "notes": "Import Cancel/Update like MetaMax; 282 button scroll (Warm Up + 282 Check); gender from basic-info form; no language switch when already English; What happened notice: X then See why and back; smart screen-based waits; new 4-step ads consent popup; full per-account useragent in sheet and browser (phone model, Android 10+, Build ID); page system: all links per page switch + page status; Uid|Pass first login without cookie"
+  "version": "1.1.174",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.174/update_v1.1.174.zip",
+  "sha256": "035cb8fc05a2f9f30cd6f09cbd7e169c30c458bccf515c473fa2ff63af850681",
+  "sig": "56MfQf+WbLOFToEeIwH2qg9ym23gEl0+iTuHKyjSjBInn13R7fRc700KBgVHXb6IPKz9iGixxGZ1XcW+Xhs/CQ==",
+  "notes": "What happened ended notice: X icon found reliably, else See why and back"
 }
