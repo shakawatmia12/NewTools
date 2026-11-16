@@ -1,7 +1,7 @@
 {
-  "version": "1.1.176",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.176/update_v1.1.176.zip",
-  "sha256": "5b32b0db6b0755beef17649c065af00e3a22add8e8968d6f5c88ff10ab860fad",
-  "sig": "bhHdl5k0aVpgNAfDmgvAc+0CavEKuJw1n2p/5M70+5W3biVZrZOs5hICIX3dRDdM7AWDUD/YkiEQEbZSn3lUCQ==",
-  "notes": "Warm Up keyword search now really interacts (no instant back); no 30 s waits on redrawn buttons; Like retried when covered; 282 code step stops fast; hung CDP calls capped at 60 s; fewer false GitHub reports"
+  "version": "1.1.177",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.177/update_v1.1.177.zip",
+  "sha256": "413b0aa65c238e23a87a7cbbd1d137f560727a6de9a51104888d3a0e038f7ca2",
+  "sig": "W6piiqBTh+Mkjw7Rw+bstAyMSAQ2wgO4LDHjRP15X4e5OYb12Wa7hNk0UlPs68gWfs4Y8wuopA6XYd+ym5r0Ag==",
+  "notes": "Warm Up keeps 50% of browser windows while tasks run; Page/profile preview card closed before the feed scrolls"
 }
