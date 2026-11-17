@@ -1,7 +1,7 @@
 {
-  "version": "1.1.178",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.178/update_v1.1.178.zip",
-  "sha256": "72efe137db8907e5a609ac192737ea3dbb84e46899439c61c0ccfe8057bc4c62",
-  "sig": "h1K6JaAFe2GlfX2I/VqhbnoeLhpKdtWhW8eSBAAi2CqNvAGjWCQQc98WCozEhbovDmD3wzFB6HDSq+On7RHfAw==",
-  "notes": "Primary Location (City | CC / KXD), right-click on every Account Info column + Profile sort, 956 unlock multi-language buttons, 282 'back on Facebook' notice, preview card / share / post menu / 'better on the app' sheets closed before every scroll"
+  "version": "1.1.179",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.179/update_v1.1.179.zip",
+  "sha256": "939df34713afa1d2009b8cdc1abd7e20a1a7a05383a019cd25af3f7051a92a69",
+  "sig": "AcxFHg55xBNcKXt/BImCl43JADtU4MLZks+cx0gV00Kh9KjAix/+CBN6ei+aWDqG2ofwhYLdGd1j8s6vQb53BA==",
+  "notes": "Newsfeed works in any language (pt/bn accounts showed 0 posts), screen-checked switch to English, Reels still run after an empty feed, Status shows Newsfeed | Reels together"
 }
