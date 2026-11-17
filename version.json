@@ -1,7 +1,7 @@
 {
-  "version": "1.1.179",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.179/update_v1.1.179.zip",
-  "sha256": "939df34713afa1d2009b8cdc1abd7e20a1a7a05383a019cd25af3f7051a92a69",
-  "sig": "AcxFHg55xBNcKXt/BImCl43JADtU4MLZks+cx0gV00Kh9KjAix/+CBN6ei+aWDqG2ofwhYLdGd1j8s6vQb53BA==",
-  "notes": "Newsfeed works in any language (pt/bn accounts showed 0 posts), screen-checked switch to English, Reels still run after an empty feed, Status shows Newsfeed | Reels together"
+  "version": "1.1.180",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.180/update_v1.1.180.zip",
+  "sha256": "ecec7eb79794b9cdfde023aee8ee6fceccb1435f6915eb6b9802442b8f6a1310",
+  "sig": "508+B6+hHFYLVuWTMtK8z5KipSOGyJ3sZVvFvy+z62l05ExONH2vzAyjlcyxlxIWVG08ZvN709JA2a3gxdcjBw==",
+  "notes": "Any language: login, walls, popups, feed, friends, search read in any Facebook language; GitHub bug fixes (timeouts, taps, unlock, passkey, Hotmail bridge); UI no longer redraws for every closed browser"
 }
