@@ -1,7 +1,7 @@
 {
-  "version": "1.1.177",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.177/update_v1.1.177.zip",
-  "sha256": "413b0aa65c238e23a87a7cbbd1d137f560727a6de9a51104888d3a0e038f7ca2",
-  "sig": "W6piiqBTh+Mkjw7Rw+bstAyMSAQ2wgO4LDHjRP15X4e5OYb12Wa7hNk0UlPs68gWfs4Y8wuopA6XYd+ym5r0Ag==",
-  "notes": "Warm Up keeps 50% of browser windows while tasks run; Page/profile preview card closed before the feed scrolls"
+  "version": "1.1.178",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.178/update_v1.1.178.zip",
+  "sha256": "72efe137db8907e5a609ac192737ea3dbb84e46899439c61c0ccfe8057bc4c62",
+  "sig": "h1K6JaAFe2GlfX2I/VqhbnoeLhpKdtWhW8eSBAAi2CqNvAGjWCQQc98WCozEhbovDmD3wzFB6HDSq+On7RHfAw==",
+  "notes": "Primary Location (City | CC / KXD), right-click on every Account Info column + Profile sort, 956 unlock multi-language buttons, 282 'back on Facebook' notice, preview card / share / post menu / 'better on the app' sheets closed before every scroll"
 }
