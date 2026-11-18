@@ -1,7 +1,7 @@
 {
-  "version": "1.1.181",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.181/update_v1.1.181.zip",
-  "sha256": "6730e3e790a55ef2dee6e86beb48a7e10a60bfc4a50b065a89b8d7c339673bf5",
-  "sig": "1ZdAcKOgzbAaHksOjrb9PHFG3sK7I1BSc1pWjSKYZuD6/xCG1t94wRoULLJBawnJ3GMFzvDT2QY7H/dJjIejAA==",
-  "notes": "GitHub bug sweep: Warm Up stops at once when a browser window dies, unlock no longer mistakes the password hint for a refusal, resend code via 'Didn't get a code?', language switch skipped on lock pages, browser language always English, bounded page reads (no 20-min hangs), 282 review/selfie fixes, 2-step share Post"
+  "version": "1.1.182",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.182/update_v1.1.182.zip",
+  "sha256": "d1e97e7cc8cc3f0d6d75030749274765f68b13220a622857e11c3a276a7b5f91",
+  "sig": "4QGUb7hcBRl9ewcidk3QKg92KRgUm8339bbIp+cZjpRrFm1JenhrceNlJNZ/v/DUvjkN9o4tfz96g0LQw6WvAw==",
+  "notes": "Login: Facebook's 'Something went wrong' box over the 2FA screen is closed before the code is typed (plus all 1.1.181 fixes: Warm Up stops when a window dies, unlock password fix, resend code, browser language always English, bounded page reads, 282 fixes)"
 }
