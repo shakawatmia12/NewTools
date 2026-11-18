@@ -1,7 +1,7 @@
 {
-  "version": "1.1.182",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.182/update_v1.1.182.zip",
-  "sha256": "d1e97e7cc8cc3f0d6d75030749274765f68b13220a622857e11c3a276a7b5f91",
-  "sig": "4QGUb7hcBRl9ewcidk3QKg92KRgUm8339bbIp+cZjpRrFm1JenhrceNlJNZ/v/DUvjkN9o4tfz96g0LQw6WvAw==",
-  "notes": "Login: Facebook's 'Something went wrong' box over the 2FA screen is closed before the code is typed (plus all 1.1.181 fixes: Warm Up stops when a window dies, unlock password fix, resend code, browser language always English, bounded page reads, 282 fixes)"
+  "version": "1.1.183",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.183/update_v1.1.183.zip",
+  "sha256": "32b62632a377c6df729533c3f5afc8289ead270df95d5444afcbac52518c4074",
+  "sig": "CYhvJV3IsM9eCvx8fJDtCcOGdzDFfzwaRGlYXq9LzKtDJEwBzGb7KYiBvyGXO6FrjPz9SCNCnVUp9Cmc9a+eCA==",
+  "notes": "Login With Browser only logs in now: a 282 or 956 wall is recorded and left as it is (Warm Up / 956 Check / 282 tools handle them). An account that is already logged in now shows 'Login: Success - already logged in' in Status Detail instead of a blank cell."
 }
