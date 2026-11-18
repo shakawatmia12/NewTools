@@ -1,7 +1,7 @@
 {
-  "version": "1.1.180",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.180/update_v1.1.180.zip",
-  "sha256": "ecec7eb79794b9cdfde023aee8ee6fceccb1435f6915eb6b9802442b8f6a1310",
-  "sig": "508+B6+hHFYLVuWTMtK8z5KipSOGyJ3sZVvFvy+z62l05ExONH2vzAyjlcyxlxIWVG08ZvN709JA2a3gxdcjBw==",
-  "notes": "Any language: login, walls, popups, feed, friends, search read in any Facebook language; GitHub bug fixes (timeouts, taps, unlock, passkey, Hotmail bridge); UI no longer redraws for every closed browser"
+  "version": "1.1.181",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.181/update_v1.1.181.zip",
+  "sha256": "6730e3e790a55ef2dee6e86beb48a7e10a60bfc4a50b065a89b8d7c339673bf5",
+  "sig": "1ZdAcKOgzbAaHksOjrb9PHFG3sK7I1BSc1pWjSKYZuD6/xCG1t94wRoULLJBawnJ3GMFzvDT2QY7H/dJjIejAA==",
+  "notes": "GitHub bug sweep: Warm Up stops at once when a browser window dies, unlock no longer mistakes the password hint for a refusal, resend code via 'Didn't get a code?', language switch skipped on lock pages, browser language always English, bounded page reads (no 20-min hangs), 282 review/selfie fixes, 2-step share Post"
 }
