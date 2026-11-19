@@ -1,7 +1,7 @@
 {
-  "version": "1.1.184",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.184/update_v1.1.184.zip",
-  "sha256": "defb1e857265e656ee8f8bc55b99e5b929f8573eda21b27e05fdec97c686ba9a",
-  "sig": "LSl6+jzfJOabwqfm3w4DrsH29ohihOjsPTyCjKK0K3snNsCq+VutTNwvMmusEn4S6E5dXbRixuATLy5dkrYICg==",
-  "notes": "Captcha: the app reads whether the reCAPTCHA box was really drawn - not drawn = one reload, then it stops (no blind ticks, no 2-minute audio tries, no repeat rounds). Every failure now reaches GitHub (account/proxy states grouped, captcha time wasted reported). Fixes: unlock that finished mid-step no longer shows failed, captcha Continue in any language, free.facebook 'Descartar', reel 'Interested/Not interested' card closed before the swipe, Page grid error."
+  "version": "1.1.185",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.185/update_v1.1.185.zip",
+  "sha256": "280bafeeee9c2c8c70cc91f38e54f62b62ca6c52c69689cc15d1b12f03eb0dc1",
+  "sig": "p0VHFKIp+uHJYx648zpGRWyYhaNxFs9Acmf6viGX5AmCmQmeEp8u/4HX6NhGfQ4l5LQnVslnzqaOPpYs4yx3Dg==",
+  "notes": "956 new password: a Continue tap that did not move the page is pressed again (Enter, then the button) - the same password, never a new guess. Login: a filled login form whose Log in tap did not land is pressed again instead of waiting for a 2FA box. Blank actor_gateway page: one reload, then the feed. Name read from profiles without Edit profile. Face photos for 35-50 accounts no longer thrown away for reading old. GitHub: the app's own misses (unreadable screens, taps that did not land, screens left open, no face found) arrive as their own Issues; typed passwords are hidden."
 }
