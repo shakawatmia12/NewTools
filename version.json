@@ -1,7 +1,7 @@
 {
-  "version": "1.1.185",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.185/update_v1.1.185.zip",
-  "sha256": "280bafeeee9c2c8c70cc91f38e54f62b62ca6c52c69689cc15d1b12f03eb0dc1",
-  "sig": "p0VHFKIp+uHJYx648zpGRWyYhaNxFs9Acmf6viGX5AmCmQmeEp8u/4HX6NhGfQ4l5LQnVslnzqaOPpYs4yx3Dg==",
-  "notes": "956 new password: a Continue tap that did not move the page is pressed again (Enter, then the button) - the same password, never a new guess. Login: a filled login form whose Log in tap did not land is pressed again instead of waiting for a 2FA box. Blank actor_gateway page: one reload, then the feed. Name read from profiles without Edit profile. Face photos for 35-50 accounts no longer thrown away for reading old. GitHub: the app's own misses (unreadable screens, taps that did not land, screens left open, no face found) arrive as their own Issues; typed passwords are hidden."
+  "version": "1.1.186",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.186/update_v1.1.186.zip",
+  "sha256": "8fad132c9024d246616ab031b885c0922847618ba48df36322ab35464ee04c2c",
+  "sig": "2m9NWI/rIimhDa1S0JbENNrWNq6xpMMnfXiRCfNb97RaOrg5Pd5fQoXYABJNfH9u7wyWlimLm2UuFYmE2tplDQ==",
+  "notes": "New top-bar Browser Setting window (Browser + Page settings in one place, one Save). Mouse access ON/OFF switch: the PC's real mouse does browsers' clicks and scrolls in turn - no task ever waits for it; phone mode gets real finger taps/swipes; stops while you move the mouse. Ads Account / BM: Personal vs BM ads, card + last 4, spent, due, BM Admin/Employee - one line with a \u25bc that opens a coloured view (LIVE on top, DIE below); double-click the Ads Account / BM header for a filter. After Check runs after every Run Script when Check Info is ticked; Page Pro column filled; every After Check miss reaches GitHub."
 }
