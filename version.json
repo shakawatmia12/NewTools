@@ -1,7 +1,7 @@
 {
-  "version": "1.1.183",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.183/update_v1.1.183.zip",
-  "sha256": "32b62632a377c6df729533c3f5afc8289ead270df95d5444afcbac52518c4074",
-  "sig": "CYhvJV3IsM9eCvx8fJDtCcOGdzDFfzwaRGlYXq9LzKtDJEwBzGb7KYiBvyGXO6FrjPz9SCNCnVUp9Cmc9a+eCA==",
-  "notes": "Login With Browser only logs in now: a 282 or 956 wall is recorded and left as it is (Warm Up / 956 Check / 282 tools handle them). An account that is already logged in now shows 'Login: Success - already logged in' in Status Detail instead of a blank cell."
+  "version": "1.1.184",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.184/update_v1.1.184.zip",
+  "sha256": "defb1e857265e656ee8f8bc55b99e5b929f8573eda21b27e05fdec97c686ba9a",
+  "sig": "LSl6+jzfJOabwqfm3w4DrsH29ohihOjsPTyCjKK0K3snNsCq+VutTNwvMmusEn4S6E5dXbRixuATLy5dkrYICg==",
+  "notes": "Captcha: the app reads whether the reCAPTCHA box was really drawn - not drawn = one reload, then it stops (no blind ticks, no 2-minute audio tries, no repeat rounds). Every failure now reaches GitHub (account/proxy states grouped, captcha time wasted reported). Fixes: unlock that finished mid-step no longer shows failed, captcha Continue in any language, free.facebook 'Descartar', reel 'Interested/Not interested' card closed before the swipe, Page grid error."
 }
