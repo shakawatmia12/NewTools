@@ -1,7 +1,7 @@
 {
-  "version": "1.1.186",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.186/update_v1.1.186.zip",
-  "sha256": "8fad132c9024d246616ab031b885c0922847618ba48df36322ab35464ee04c2c",
-  "sig": "2m9NWI/rIimhDa1S0JbENNrWNq6xpMMnfXiRCfNb97RaOrg5Pd5fQoXYABJNfH9u7wyWlimLm2UuFYmE2tplDQ==",
-  "notes": "New top-bar Browser Setting window (Browser + Page settings in one place, one Save). Mouse access ON/OFF switch: the PC's real mouse does browsers' clicks and scrolls in turn - no task ever waits for it; phone mode gets real finger taps/swipes; stops while you move the mouse. Ads Account / BM: Personal vs BM ads, card + last 4, spent, due, BM Admin/Employee - one line with a \u25bc that opens a coloured view (LIVE on top, DIE below); double-click the Ads Account / BM header for a filter. After Check runs after every Run Script when Check Info is ticked; Page Pro column filled; every After Check miss reaches GitHub."
+  "version": "1.1.187",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.187/update_v1.1.187.zip",
+  "sha256": "df4121dca18f1cbcf948f428dc4dbc684e11869a3457703bac7d2e9584b912d9",
+  "sig": "DCnMfaUiS0HioM9mGtqaXUGzi1Hh8TKpYjxlfca3u8dJYNVuvJurqVC3Dfbl0QvjETFyQdZSM5mnHm/TEJpaBg==",
+  "notes": "Ads / BM: your role in each BM (Admin / Employee), billing threshold on every ad account, Card ? when the card can't be read, old data no longer shown as Personal. Page Pro: each Page with its creation date. Date Created: read from the Activity Log's Profile information / Your posts / Connections (oldest day) - no more today's date; an account is never newer than its oldest ad account / BM."
 }
