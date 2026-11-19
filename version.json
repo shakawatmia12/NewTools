@@ -1,7 +1,7 @@
 {
-  "version": "1.1.187",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.187/update_v1.1.187.zip",
-  "sha256": "df4121dca18f1cbcf948f428dc4dbc684e11869a3457703bac7d2e9584b912d9",
-  "sig": "DCnMfaUiS0HioM9mGtqaXUGzi1Hh8TKpYjxlfca3u8dJYNVuvJurqVC3Dfbl0QvjETFyQdZSM5mnHm/TEJpaBg==",
-  "notes": "Ads / BM: your role in each BM (Admin / Employee), billing threshold on every ad account, Card ? when the card can't be read, old data no longer shown as Personal. Page Pro: each Page with its creation date. Date Created: read from the Activity Log's Profile information / Your posts / Connections (oldest day) - no more today's date; an account is never newer than its oldest ad account / BM."
+  "version": "1.1.188",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.188/update_v1.1.188.zip",
+  "sha256": "65fd3938496a48c5650624deab88e87215770e2c7c4cb8f7c488f117673024fe",
+  "sig": "az0eRlSq+iH+/umRkaL5/fhRUB562+j1QqCup/nNRAwzd9cCSbjwPXHP0hWEVrg7CU6C2Qq9NyjvjvsnEKQDAA==",
+  "notes": "After Check after Run Script now works like MaxCare: each account is checked the moment its own script ends (no waiting for the whole run), on every run - accounts checked earlier today are no longer silently skipped."
 }
