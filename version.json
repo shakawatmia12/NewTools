@@ -1,7 +1,7 @@
 {
-  "version": "1.1.189",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.189/update_v1.1.189.zip",
-  "sha256": "f30445741ab4b92e5ec61dfff9ede7fe5b425cb7ccd0e656fcff94a407b325ce",
-  "sig": "ozh74drICExbEtLubXxayMLhbF4ZzpRK8GJ8CVOvdYgVIdj//4mE+xXcIWjW0E7xvimVkwELv7jBfRnhEdFMAQ==",
-  "notes": "Web mode: the whole Facebook page now fits the window (wide reels showed their Like / Comment / Share cut off, worst on small 1024x768 screens). Windows' Open file box no longer pops up and stays. Script 'Auto delete used link / comment' now really deletes them - from Page-system runs too, and it is saved into the Browser scripts file."
+  "version": "1.1.190",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.190/update_v1.1.190.zip",
+  "sha256": "2c4a05ad2937476059af1718bb4c1c7390f6a45f09b6527771f82c39fe7e825f",
+  "sig": "riBg+PvI+NyhBGx+GewnLBWRVEeGO8ShJepADRPhP9LWGgzXtD/jVDvmYcHGBSGWa2iIDFx3ezZxmVc7Tix9Bw==",
+  "notes": "Popups that come up mid-task are now answered while the task runs: the 049 'We suspect automated behavior' Dismiss, Remember Password OK (now checked that the card really went away), Teen Account notice. A notice still up after its answer, or any unknown popup stuck on the screen for a minute, goes to GitHub with its text and buttons."
 }
