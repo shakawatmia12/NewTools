@@ -1,7 +1,7 @@
 {
-  "version": "1.1.191",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.191/update_v1.1.191.zip",
-  "sha256": "b6000929091aa4f13fa378a17c2d8bec0e60224f87d6f7b8d5c1d60f183a6dba",
-  "sig": "IKmPIb/voZN9frtAzUX+cYxWW0hAwSRYYfdUokw40BcE+nmfMXP9zyG1FSR+CiwB6SlsW8Vw0VK2b3CuQOCkAQ==",
-  "notes": "Passkeys: new right-click Create / Check / Delete All Pass Key under Recovery Password mail, a Passkey column that holds the account's own key, and auto sign-in with a saved passkey wherever Facebook asks for one - login 2FA, unlock, 956 and checkpoint, in m, web, emulator and Page mode - with no code and no browser dialog, falling back to the code path when there is no passkey. After Check now reads the friend count on non-English (Chinese/Korean/Russian/Thai) profiles and never reads a 'mutual friends' count as the total. Plus name/gender capture on non-English profiles, Warm Up window-wait and unlock password-change fixes, and broken/wrong Facebook links now reported to the bug tracker."
+  "version": "1.1.192",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.192/update_v1.1.192.zip",
+  "sha256": "6e7c6dff003957536003aacaeb6ecd68ec402222f4d56c85f55c54527489b4b9",
+  "sig": "ysfOVbM7Sgqfw7uBTTnlbUUvlQdhNkuoecpGNDAm2ZerwTXYaa3BUDB9xlfFy/BzrA7mGFFiOZ9baitJyat7Bg==",
+  "notes": "Popups that m.facebook cannot clear (You're back on Facebook, birthday notice, blank actor gateway) are now skipped by switching the same browser to the desktop site and back. The 956 new-password Continue is tapped on the real drawn button, with a desktop-site retry. After Check no longer writes 'Login: Success' / 'Friends 0' when the account hits a lock during the check - the lock status is saved instead. Warm Up profile photo can no longer land in the cover-photo slot. Browser menu (3 dots) gets a phone-style 'Desktop site' tick in m mode. New: Friends Request column, Ads/BM limit + threshold groups, BM 'Verified only', Deactivate Personal Ads Account, amounts in USD, Passkey sub-menu, and Function > Move Page Admin."
 }
