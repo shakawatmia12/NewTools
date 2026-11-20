@@ -1,7 +1,7 @@
 {
-  "version": "1.1.188",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.188/update_v1.1.188.zip",
-  "sha256": "65fd3938496a48c5650624deab88e87215770e2c7c4cb8f7c488f117673024fe",
-  "sig": "az0eRlSq+iH+/umRkaL5/fhRUB562+j1QqCup/nNRAwzd9cCSbjwPXHP0hWEVrg7CU6C2Qq9NyjvjvsnEKQDAA==",
-  "notes": "After Check after Run Script now works like MaxCare: each account is checked the moment its own script ends (no waiting for the whole run), on every run - accounts checked earlier today are no longer silently skipped."
+  "version": "1.1.189",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.189/update_v1.1.189.zip",
+  "sha256": "f30445741ab4b92e5ec61dfff9ede7fe5b425cb7ccd0e656fcff94a407b325ce",
+  "sig": "ozh74drICExbEtLubXxayMLhbF4ZzpRK8GJ8CVOvdYgVIdj//4mE+xXcIWjW0E7xvimVkwELv7jBfRnhEdFMAQ==",
+  "notes": "Web mode: the whole Facebook page now fits the window (wide reels showed their Like / Comment / Share cut off, worst on small 1024x768 screens). Windows' Open file box no longer pops up and stays. Script 'Auto delete used link / comment' now really deletes them - from Page-system runs too, and it is saved into the Browser scripts file."
 }
