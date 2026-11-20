@@ -1,7 +1,7 @@
 {
-  "version": "1.1.190",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.190/update_v1.1.190.zip",
-  "sha256": "2c4a05ad2937476059af1718bb4c1c7390f6a45f09b6527771f82c39fe7e825f",
-  "sig": "riBg+PvI+NyhBGx+GewnLBWRVEeGO8ShJepADRPhP9LWGgzXtD/jVDvmYcHGBSGWa2iIDFx3ezZxmVc7Tix9Bw==",
-  "notes": "Popups that come up mid-task are now answered while the task runs: the 049 'We suspect automated behavior' Dismiss, Remember Password OK (now checked that the card really went away), Teen Account notice. A notice still up after its answer, or any unknown popup stuck on the screen for a minute, goes to GitHub with its text and buttons."
+  "version": "1.1.191",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.191/update_v1.1.191.zip",
+  "sha256": "b6000929091aa4f13fa378a17c2d8bec0e60224f87d6f7b8d5c1d60f183a6dba",
+  "sig": "IKmPIb/voZN9frtAzUX+cYxWW0hAwSRYYfdUokw40BcE+nmfMXP9zyG1FSR+CiwB6SlsW8Vw0VK2b3CuQOCkAQ==",
+  "notes": "Passkeys: new right-click Create / Check / Delete All Pass Key under Recovery Password mail, a Passkey column that holds the account's own key, and auto sign-in with a saved passkey wherever Facebook asks for one - login 2FA, unlock, 956 and checkpoint, in m, web, emulator and Page mode - with no code and no browser dialog, falling back to the code path when there is no passkey. After Check now reads the friend count on non-English (Chinese/Korean/Russian/Thai) profiles and never reads a 'mutual friends' count as the total. Plus name/gender capture on non-English profiles, Warm Up window-wait and unlock password-change fixes, and broken/wrong Facebook links now reported to the bug tracker."
 }
