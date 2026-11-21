@@ -1,7 +1,7 @@
 {
-  "version": "1.1.196",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.196/update_v1.1.196.zip",
-  "sha256": "8656bc639c77918c3fe9be878e9c6bd821041d5d7f5a7f659e01037315d1a83d",
-  "sig": "pVLlBfZYyHooyQvT1rvMcBuTtwd/9nL2ndCp9F9Kb96/wxWTzsbeKBNzrwx52EAuJnb3RlS4jgebIIqoja8bCQ==",
-  "notes": "After Check (Browser) now runs after EVERY task on each account - Warm Up, website order, 24/7 service or any other task - and re-reads the ticked info every time, even if it was read before. Only the manual Open Browser window is left out. The Check Info column is removed from Account Info - Browser (Friend / Ads / BM / Location have their own columns). Add Mail rebuild."
+  "version": "1.1.197",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.197/update_v1.1.197.zip",
+  "sha256": "182515babd46a2edaac33e0e6806b97645d0493f4dc979c7b408c1f0dc70e823",
+  "sig": "PuhGxs6TjMc/vmxT+az9jf98jQ0jUrck6CpcMhr1r9957ySqtT5JwpIhT+zn7gNK5wpFSKtErNKQltRsgouWAQ==",
+  "notes": "After Check reads each account in its task's OWN window right before it closes (no close and reopen), after every task and Login With Browser; Status Detail shows 'Check info complete'. Date created = Facebook's own 'Joined Facebook' date (PC view, About this profile). Birthday read from Accounts Center. 282 captcha now solved inside Run Script; French 282 Start button; 'What happened' notice: See why, wait, back, close, refresh. Reaction picker closed in any language. Many GitHub fixes: dead-page captcha loops, redrawn buttons, touch layer over Like, typing into a gone box, saved-login Continue after 2FA, language false alarms, Note redirect loop, UI freezes (fx/ads cells, import GPU probe), hung login alert."
 }
