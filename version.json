@@ -1,7 +1,7 @@
 {
-  "version": "1.1.195",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.195/update_v1.1.195.zip",
-  "sha256": "a46799a216f2c49083891756c53d473d2ddf3f8e142b23d43a5a6eac6d47de00",
-  "sig": "BTgmga8bXVvCn49K6ViUUvB9Ku/JJT4z6D2CfAkXOa/VKY1VDKwI379//AYj8NjJ6tg28mINPGiSax9EkiazDA==",
-  "notes": "Check Primary Method by Cookie Request now works on accounts with no proxy (this PC's IP); a 2FA code Facebook answers with 'Something went wrong' is said plainly; bug reports keep the version they happened on and no longer reopen a fixed bug from an older build; retry steps / SMS-only walls are not reported as bugs."
+  "version": "1.1.196",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.196/update_v1.1.196.zip",
+  "sha256": "8656bc639c77918c3fe9be878e9c6bd821041d5d7f5a7f659e01037315d1a83d",
+  "sig": "pVLlBfZYyHooyQvT1rvMcBuTtwd/9nL2ndCp9F9Kb96/wxWTzsbeKBNzrwx52EAuJnb3RlS4jgebIIqoja8bCQ==",
+  "notes": "After Check (Browser) now runs after EVERY task on each account - Warm Up, website order, 24/7 service or any other task - and re-reads the ticked info every time, even if it was read before. Only the manual Open Browser window is left out. The Check Info column is removed from Account Info - Browser (Friend / Ads / BM / Location have their own columns). Add Mail rebuild."
 }
