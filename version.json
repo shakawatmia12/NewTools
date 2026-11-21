@@ -1,7 +1,7 @@
 {
-  "version": "1.1.194",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.194/update_v1.1.194.zip",
-  "sha256": "dcad5ebeac43bb2f1b7e41ab4e5ac491f694a75131fb39dbef1dd82e5177f285",
-  "sig": "86lk4a41Bbcmmx1Tq9t4+XSUYqdJQDEQs3ju+KtV4fdZt7Yv2gX2iN5WMA55lapUJ0AT6bgw5uZfKxJ+cGbdAA==",
-  "notes": "Bug sweep: Passkey Create says at once when Facebook gives the account no Passkey option; the 2-step Share's Next / Post buttons now press reliably; the profile name read fixed (incl. non-English names); the 'We added a restriction' info dialog is closed; the restriction details page no longer loops; face photo sources unreachable = retried later; ticking an account no longer freezes the window; closed window / slow page errors grouped instead of reported as bugs; quieter background rate refresh."
+  "version": "1.1.195",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.195/update_v1.1.195.zip",
+  "sha256": "a46799a216f2c49083891756c53d473d2ddf3f8e142b23d43a5a6eac6d47de00",
+  "sig": "BTgmga8bXVvCn49K6ViUUvB9Ku/JJT4z6D2CfAkXOa/VKY1VDKwI379//AYj8NjJ6tg28mINPGiSax9EkiazDA==",
+  "notes": "Check Primary Method by Cookie Request now works on accounts with no proxy (this PC's IP); a 2FA code Facebook answers with 'Something went wrong' is said plainly; bug reports keep the version they happened on and no longer reopen a fixed bug from an older build; retry steps / SMS-only walls are not reported as bugs."
 }
