@@ -1,7 +1,7 @@
 {
-  "version": "1.1.193",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.193/update_v1.1.193.zip",
-  "sha256": "1307655dda7f727d968cf7d681808903bd013aed2f6dc15ba355e2c175ad1aac",
-  "sig": "F8BADJcE5dBJrIEMdQkKGF1wiH7nKlo9AR6HfYQHET6gbL6/evfKUtMDrDr/qKQ1gxhg9inonxowKTWmRAgvAg==",
-  "notes": "Warm Up (Browser Mode): new task 'Page Create After 7days' under Professional Mode - tick it by hand (All leaves it off). From the account's 7th warm-up day it makes one new Facebook Page a day in the middle of a normal warm-up session: an English/international name with a category that matches it (a person = Digital creator / Personal blog / Doctor / Actor..., a shop = its shop category, a brand = a brand category - only categories Facebook really offers), a matching high-quality profile picture and cover photo, a bio, then it switches back to the personal profile and carries on with the warm-up. Works in m and web mode."
+  "version": "1.1.194",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.194/update_v1.1.194.zip",
+  "sha256": "dcad5ebeac43bb2f1b7e41ab4e5ac491f694a75131fb39dbef1dd82e5177f285",
+  "sig": "86lk4a41Bbcmmx1Tq9t4+XSUYqdJQDEQs3ju+KtV4fdZt7Yv2gX2iN5WMA55lapUJ0AT6bgw5uZfKxJ+cGbdAA==",
+  "notes": "Bug sweep: Passkey Create says at once when Facebook gives the account no Passkey option; the 2-step Share's Next / Post buttons now press reliably; the profile name read fixed (incl. non-English names); the 'We added a restriction' info dialog is closed; the restriction details page no longer loops; face photo sources unreachable = retried later; ticking an account no longer freezes the window; closed window / slow page errors grouped instead of reported as bugs; quieter background rate refresh."
 }
