@@ -1,7 +1,7 @@
 {
-  "version": "1.1.197",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.197/update_v1.1.197.zip",
-  "sha256": "182515babd46a2edaac33e0e6806b97645d0493f4dc979c7b408c1f0dc70e823",
-  "sig": "PuhGxs6TjMc/vmxT+az9jf98jQ0jUrck6CpcMhr1r9957ySqtT5JwpIhT+zn7gNK5wpFSKtErNKQltRsgouWAQ==",
-  "notes": "After Check reads each account in its task's OWN window right before it closes (no close and reopen), after every task and Login With Browser; Status Detail shows 'Check info complete'. Date created = Facebook's own 'Joined Facebook' date (PC view, About this profile). Birthday read from Accounts Center. 282 captcha now solved inside Run Script; French 282 Start button; 'What happened' notice: See why, wait, back, close, refresh. Reaction picker closed in any language. Many GitHub fixes: dead-page captcha loops, redrawn buttons, touch layer over Like, typing into a gone box, saved-login Continue after 2FA, language false alarms, Note redirect loop, UI freezes (fx/ads cells, import GPU probe), hung login alert."
+  "version": "1.1.198",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.198/update_v1.1.198.zip",
+  "sha256": "dfff7089ddc7035ad170e64eb15684fd565dfea3bda2f5038d10e0ce5d84a9d3",
+  "sig": "Lw8sQKC0NachtGhQg6W0Lzl6H7z4RPhM1oOO4oL0OXAAUgDUsfIKtg93pNcuKPTMfttbA37n1YYB142aYySWBg==",
+  "notes": "Move Page Admin rebuilt: UI-only invite/leave (no API), Review invite banner, desktop-site view in M mode (no web mode), friend step Move UID -> Admin UID, roster checks, passkey used right. Reel Like reads Facebook's new 'Liked' label; reactions row picked when a press opens it. Composer and name/gender read in any language. Login sees 'Confirm you are human' on the home page. 956 blank page = slow proxy, not unknown step. After Check waits for Facebook's Loading sheet. Passkey create waits for its sheet. One-button notices (sleep mode OK) answered mid-task. Time-waste and page/proxy-slow reports to GitHub. UI freeze in Account Info fixed. Share 2-step composer, hung-tab watchdog, 282 face/video selfie. 250 GitHub issues swept."
 }
