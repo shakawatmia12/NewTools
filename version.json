@@ -1,7 +1,7 @@
 {
-  "version": "1.1.204",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.204/update_v1.1.204.zip",
-  "sha256": "63ad48a463dab99577b11c74b8d09924c4f82293e5e35ea30a6dfe57334d4e64",
-  "sig": "UPxqAX9B2mH53Ynr3wFsuVkeJAcZPB6t6vJ1l9dqM9yKHdHm2KOOxgHuqoKdB6UUNGHMChb3rJamRYSYcYLpCw==",
-  "notes": "New look: every button's colour now says what it does - green starts work (Start, Run, Open), red stops or deletes, blue saves or adds, everything else is quiet. The top bar is one row grouped by job with Start and Stop on the right. The left 'Target App Selection' panel is gone, so the tabs get the full width. Scripts: each pipeline has its own colour (Interaction, Friends, Post, Seeding, Change Info, Recovery, Page) in the Action list, the action picker and a legend; script buttons use full words. Popups, dropdowns and inputs share one dark palette."
+  "version": "1.1.205",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.205/update_v1.1.205.zip",
+  "sha256": "5b3f02b575731eb2e70c9ac87fef16a23dfd3880dd988885217d4ad4c81b113c",
+  "sig": "FtDO0GdV7o+QoQ60cbPR6GmoXAauOZU+16oiMYi6kFDR/wEVgtiq+qV/0ZAKxJ+eTx3ugw+s9/oVReH0qUqWCQ==",
+  "notes": "GPM fix: with GPM, a script on new accounts opened no browser for many minutes - each new account's GPM profile was made one by one (up to 150 s each). Now all are made at the same time, max 45 s each, so every window opens fast."
 }
