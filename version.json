@@ -1,7 +1,7 @@
 {
-  "version": "1.1.205",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.205/update_v1.1.205.zip",
-  "sha256": "5b3f02b575731eb2e70c9ac87fef16a23dfd3880dd988885217d4ad4c81b113c",
-  "sig": "FtDO0GdV7o+QoQ60cbPR6GmoXAauOZU+16oiMYi6kFDR/wEVgtiq+qV/0ZAKxJ+eTx3ugw+s9/oVReH0qUqWCQ==",
-  "notes": "GPM fix: with GPM, a script on new accounts opened no browser for many minutes - each new account's GPM profile was made one by one (up to 150 s each). Now all are made at the same time, max 45 s each, so every window opens fast."
+  "version": "1.1.206",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.206/update_v1.1.206.zip",
+  "sha256": "6722df6789575e1359d8030d76d629d80353aac43493ef705d3c8f2d90572470",
+  "sig": "9t+iPQbO5nwIRfqNtNpa7ExnWIkofLI4o9cxGMz6Fki+QYT4I7kfDEgWKyvQ9qJ+eh2mW2CHLOuSZqvf7tovAg==",
+  "notes": "GitHub bug sweep (275 issues): unlock now presses the 956 'Get started' page in French/Spanish/Portuguese; UK/EU ads-choice + cookie pages answered (no loop); login finishes the password-only box after 2FA; birthday/name read in any language; After Check no longer reports walled accounts as errors; browser windows close/park in ~1 s (no 60-100 s hang); loops on a closed window stop; Account Info table no longer freezes the UI; Breaks step works in Browser scripts; 282 video selfie Upload in any language; far fewer false 'time wasted' reports."
 }
