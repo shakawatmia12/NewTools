@@ -1,7 +1,7 @@
 {
-  "version": "1.1.212",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.212/update_v1.1.212.zip",
-  "sha256": "3fa5ad84b1c8dea10abd77b607e8242bcd81f7e877788faf90d0c6dc1d36d347",
-  "sig": "iX7TtFvghqnbKhE7due10TL4Rd03sh40PNuHQsYUH26rAOGvcXJvGav1+z1pUSNbYHBxDTUk2g2YjlK7V7+9Dg==",
-  "notes": "Mail Info import now reads MetaMax / MaxCare combos on its own (Smart auto-detect: email, password, recovery mail and proxy are found by their shape, in any column order, split on | : ; tab or ----). Hotmail Add Recovery Mail has two choices: Just Add Mail, or Add Mail then Remove Old recovery mail - it adds the new mail, then removes the account's other recovery mails (recently-added ones go at once; a long-standing one Microsoft schedules for later)."
+  "version": "1.1.213",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.213/update_v1.1.213.zip",
+  "sha256": "a7a401c250a6b578692ad7dc1d380409ee75dd1d22cdc13d8a1096810618de81",
+  "sig": "XKAEasoc0fx1rvhh+WZ97rOzvr3Zx+VDlRgFmmBj7X8thyRpLGPEhRhJGWrgPuuKt1FEvwPdnXBryQDlLQjrCQ==",
+  "notes": "Hotmail Change Password works again - Microsoft's new 'Microsoft account notice' page was blocking it, and the sign-in ticket no longer always starts with the old prefix; both handled now (and on login / add-recovery too). 'Add Mail then Remove Old recovery mail' skips a mail Microsoft has already scheduled for removal and reports removed vs scheduled. The code the new recovery mail waits for is re-requested if it is slow to arrive."
 }
