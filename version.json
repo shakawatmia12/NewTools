@@ -1,7 +1,7 @@
 {
-  "version": "1.1.211",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.211/update_v1.1.211.zip",
-  "sha256": "9a36fe5092dfbec74843b9345d23b45eaf34b39a745df2dd57ad28fb685593bc",
-  "sig": "4RQ4kHcEEjnYhx2aX8mWAUNxoCFyaM/7uasuq/qL/feNMz6BkWLRpklRCYDKUVlCiGZn1ptp31zMQhH2aT+DAA==",
-  "notes": "Passkey Create: logs the account in first if it is logged out, and a passkey Facebook made ('Passkey updated') is saved in the app - Status says updated. Suspended / checkpoint accounts keep their cookie. Right-click Copy has 2FA code (6 digits) and UID|2FA code. Primary Location shows the country of the place itself (Nigerian states NG, not the proxy's BD); stored wrong codes are corrected."
+  "version": "1.1.212",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.212/update_v1.1.212.zip",
+  "sha256": "3fa5ad84b1c8dea10abd77b607e8242bcd81f7e877788faf90d0c6dc1d36d347",
+  "sig": "iX7TtFvghqnbKhE7due10TL4Rd03sh40PNuHQsYUH26rAOGvcXJvGav1+z1pUSNbYHBxDTUk2g2YjlK7V7+9Dg==",
+  "notes": "Mail Info import now reads MetaMax / MaxCare combos on its own (Smart auto-detect: email, password, recovery mail and proxy are found by their shape, in any column order, split on | : ; tab or ----). Hotmail Add Recovery Mail has two choices: Just Add Mail, or Add Mail then Remove Old recovery mail - it adds the new mail, then removes the account's other recovery mails (recently-added ones go at once; a long-standing one Microsoft schedules for later)."
 }
