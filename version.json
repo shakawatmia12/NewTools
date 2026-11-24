@@ -1,7 +1,7 @@
 {
-  "version": "1.1.207",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.207/update_v1.1.207.zip",
-  "sha256": "23f1e6b9b17ebed1f36bc86fd4b3fa453cb8f8c52a61ccce7e97cfbbb6c7875b",
-  "sig": "tF7YotzRm63BULXsahSGU9qql4UzcKMRD2xGAFAo1nGQNg/L/HvbFaLjfYJwJ/xUvKL4mLVSUSEnwl306qAUBw==",
-  "notes": "Hotmail Add Recovery works again: Microsoft's new 'Create a passkey' and 'Are you trying to sign in to Thunderbird?' pages are passed, saved sessions are reused, and the terms page no longer ends in error 1086. Also: restriction notice Close is checked (See why fallback); folder hint is no longer a warning."
+  "version": "1.1.208",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.208/update_v1.1.208.zip",
+  "sha256": "fa48a78f6a593e58a11273cbac1ec3a02f1b821f689ff492d950fd887d6f0422",
+  "sig": "Gc23Aiv1nAG/z1f8UMIb9wS91w11vn9omZ+T6st2xjJs5jjVgVIgPefK7APc2QuoovLVQqvpo5yqs+12hNQnDw==",
+  "notes": "Move Page Admin + RDP fixes: browser windows open on their own spot again (the phone engine put all at one place); UI no longer freezes behind page/data saves on slow disks; the full-control switch and the end of the Add new dialog are handled; a WhatsApp/SMS-only code stops that account at once; the password is only ever typed into the password box (never a code box); fewer false warnings."
 }
