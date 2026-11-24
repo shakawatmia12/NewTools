@@ -1,7 +1,7 @@
 {
-  "version": "1.1.208",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.208/update_v1.1.208.zip",
-  "sha256": "fa48a78f6a593e58a11273cbac1ec3a02f1b821f689ff492d950fd887d6f0422",
-  "sig": "Gc23Aiv1nAG/z1f8UMIb9wS91w11vn9omZ+T6st2xjJs5jjVgVIgPefK7APc2QuoovLVQqvpo5yqs+12hNQnDw==",
-  "notes": "Move Page Admin + RDP fixes: browser windows open on their own spot again (the phone engine put all at one place); UI no longer freezes behind page/data saves on slow disks; the full-control switch and the end of the Add new dialog are handled; a WhatsApp/SMS-only code stops that account at once; the password is only ever typed into the password box (never a code box); fewer false warnings."
+  "version": "1.1.209",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.209/update_v1.1.209.zip",
+  "sha256": "393649aa653756c8eefdc87ad81b799b2f6d86307d74a8be3d5865c7b7bf7cdd",
+  "sig": "12WYttN3Kw+nKCUOZzd57yKTaMPJoJmFZaXhkmpa/JW1lEcbHwKiv4K6/1/+oZ9bhLbEGZECqFM9XtyLKhFZBw==",
+  "notes": "Move Page Admin: a deactivated page is reactivated first, then moved; a page in the account's own BM is taken out of the BM, then moved; the admin's 'Review invite' now opens reliably; the Status shows WHY a page failed (phone code, wrong password, checkpoint, blocked...). Proxy clear/assign no longer freezes the app."
 }
