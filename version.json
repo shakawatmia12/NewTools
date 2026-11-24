@@ -1,7 +1,7 @@
 {
-  "version": "1.1.210",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.210/update_v1.1.210.zip",
-  "sha256": "c4f1564ffb0f713efb42e73e11aff6e51ff678664279c695e8d0f2b44917ad0f",
-  "sig": "6POjhKoGOmpOgLayzSpHaWsR16CZUrmiMWJzoI1Q8WapCc8vD7yCQonSn/unLIR3XYsr8/9BHk24eZForKH1CQ==",
-  "notes": "GitHub bug sweep: 328 reports checked one by one. Login no longer waits on the password-only box or Find your account, face photos and Bengali passkey pages fixed, captcha squares checked, UI freezes from the Page list and bug reporter removed, Chrome cache cleanup no longer holds tasks."
+  "version": "1.1.211",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.211/update_v1.1.211.zip",
+  "sha256": "9a36fe5092dfbec74843b9345d23b45eaf34b39a745df2dd57ad28fb685593bc",
+  "sig": "4RQ4kHcEEjnYhx2aX8mWAUNxoCFyaM/7uasuq/qL/feNMz6BkWLRpklRCYDKUVlCiGZn1ptp31zMQhH2aT+DAA==",
+  "notes": "Passkey Create: logs the account in first if it is logged out, and a passkey Facebook made ('Passkey updated') is saved in the app - Status says updated. Suspended / checkpoint accounts keep their cookie. Right-click Copy has 2FA code (6 digits) and UID|2FA code. Primary Location shows the country of the place itself (Nigerian states NG, not the proxy's BD); stored wrong codes are corrected."
 }
