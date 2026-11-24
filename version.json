@@ -1,7 +1,7 @@
 {
-  "version": "1.1.206",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.206/update_v1.1.206.zip",
-  "sha256": "6722df6789575e1359d8030d76d629d80353aac43493ef705d3c8f2d90572470",
-  "sig": "9t+iPQbO5nwIRfqNtNpa7ExnWIkofLI4o9cxGMz6Fki+QYT4I7kfDEgWKyvQ9qJ+eh2mW2CHLOuSZqvf7tovAg==",
-  "notes": "GitHub bug sweep (275 issues): unlock now presses the 956 'Get started' page in French/Spanish/Portuguese; UK/EU ads-choice + cookie pages answered (no loop); login finishes the password-only box after 2FA; birthday/name read in any language; After Check no longer reports walled accounts as errors; browser windows close/park in ~1 s (no 60-100 s hang); loops on a closed window stop; Account Info table no longer freezes the UI; Breaks step works in Browser scripts; 282 video selfie Upload in any language; far fewer false 'time wasted' reports."
+  "version": "1.1.207",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.207/update_v1.1.207.zip",
+  "sha256": "23f1e6b9b17ebed1f36bc86fd4b3fa453cb8f8c52a61ccce7e97cfbbb6c7875b",
+  "sig": "tF7YotzRm63BULXsahSGU9qql4UzcKMRD2xGAFAo1nGQNg/L/HvbFaLjfYJwJ/xUvKL4mLVSUSEnwl306qAUBw==",
+  "notes": "Hotmail Add Recovery works again: Microsoft's new 'Create a passkey' and 'Are you trying to sign in to Thunderbird?' pages are passed, saved sessions are reused, and the terms page no longer ends in error 1086. Also: restriction notice Close is checked (See why fallback); folder hint is no longer a warning."
 }
