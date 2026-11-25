@@ -1,7 +1,7 @@
 {
-  "version": "1.1.216",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.216/update_v1.1.216.zip",
-  "sha256": "8fac54b04c426b162338343163ce1344a2af8c17dd41b8d085d8a8ab2e176e53",
-  "sig": "coxIOCWkvTMoWeON9+oNHmayl9fDPkNCwYuyQbcBwAPejy735IxaBRiod5snYy0t+6U7qVxurZ+ChQ1QLXtoDQ==",
-  "notes": "Hotmail: Open Browser in the account's own emu2/GPM browser with saved session (no FB tab); Add Recovery passes Microsoft's add-email wall and password re-check by recovery code; clear Status messages; Email Recover shows only real recovery + other-recovery sticker with arrow view"
+  "version": "1.1.217",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.217/update_v1.1.217.zip",
+  "sha256": "3a1d6a29c47217a7d450c07c1fa652798d5ed92c3bd2b8e79494a7b02cfce834",
+  "sig": "CWGc+BwKt+Tqq0MGLLckKrWmS1nji7jZogFw9lEVGpmT520xzE9StFx8/ph4EWJ0qrb9ojUDveRHf0QXvRfQCA==",
+  "notes": "Hotmail: smvmail recovery codes are read again (they arrived but the app could not read them). Open Browser opens the Microsoft sign-in directly, no Facebook page first. Add Recovery now says when an old recovery mail could not be removed. Re-adding a recovery that is already on the account is skipped instantly instead of waiting 150 s."
 }
