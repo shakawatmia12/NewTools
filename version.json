@@ -1,7 +1,7 @@
 {
-  "version": "1.1.217",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.217/update_v1.1.217.zip",
-  "sha256": "3a1d6a29c47217a7d450c07c1fa652798d5ed92c3bd2b8e79494a7b02cfce834",
-  "sig": "CWGc+BwKt+Tqq0MGLLckKrWmS1nji7jZogFw9lEVGpmT520xzE9StFx8/ph4EWJ0qrb9ojUDveRHf0QXvRfQCA==",
-  "notes": "Hotmail: smvmail recovery codes are read again (they arrived but the app could not read them). Open Browser opens the Microsoft sign-in directly, no Facebook page first. Add Recovery now says when an old recovery mail could not be removed. Re-adding a recovery that is already on the account is skipped instantly instead of waiting 150 s."
+  "version": "1.1.218",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.218/update_v1.1.218.zip",
+  "sha256": "52e9c1ea5d09670234930b86ea44a057e31db4410c981060235cf7d2456a03b0",
+  "sig": "OgRd7IsrLwk4YHJRoT9yn4K2j1jYcIjnIL7iqG6yPSZLgdR/3DqIlh5qorr/6lajl69GGaX3RF3OwWVEuKJgCQ==",
+  "notes": "Hotmail Add + Remove Old: when Microsoft refuses the removal (error 6001) the app signs in once with a code to the old or kept recovery mail and removes it; old phone numbers are removed too; a recovery that could not be removed is shown as NOT removed. GPM: Chrome's 'Sign in as' popup no longer blocks Facebook login. Passkey: an account with no browser gets one created; Create / Check / Delete All Pass Key are now Browser script steps."
 }
