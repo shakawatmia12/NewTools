@@ -1,7 +1,7 @@
 {
-  "version": "1.1.213",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.213/update_v1.1.213.zip",
-  "sha256": "a7a401c250a6b578692ad7dc1d380409ee75dd1d22cdc13d8a1096810618de81",
-  "sig": "XKAEasoc0fx1rvhh+WZ97rOzvr3Zx+VDlRgFmmBj7X8thyRpLGPEhRhJGWrgPuuKt1FEvwPdnXBryQDlLQjrCQ==",
-  "notes": "Hotmail Change Password works again - Microsoft's new 'Microsoft account notice' page was blocking it, and the sign-in ticket no longer always starts with the old prefix; both handled now (and on login / add-recovery too). 'Add Mail then Remove Old recovery mail' skips a mail Microsoft has already scheduled for removal and reports removed vs scheduled. The code the new recovery mail waits for is re-requested if it is slow to arrive."
+  "version": "1.1.214",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.214/update_v1.1.214.zip",
+  "sha256": "b3eed82c245468df4c4b3007800f82cb64f051127e7a29967df1b969422c8037",
+  "sig": "Tv2Emd+Jo0xSzRsDTVE9fm95ohaQeYq+DJs+y1D9Dbp0Qjm81bZK4OmrlGcvYvZn8oJszSq/qoNWFZh3Auc/BQ==",
+  "notes": "Telegram Backup (Global Settings -> Tools): connect your own Telegram bot - the accounts (Account Info with uid/password/2FA/cookie/token/useragent/folder, folder lists, mail/page accounts, cookies, face photos) are backed up there once a day, and can be downloaded back on any PC with no duplicates. Hotmail recovery-code reader fixed (missed / stale codes). MaxCare Hotmail token detection widened. Import dialog Folder defaults to the open folder."
 }
