@@ -1,7 +1,7 @@
 {
-  "version": "1.1.214",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.214/update_v1.1.214.zip",
-  "sha256": "b3eed82c245468df4c4b3007800f82cb64f051127e7a29967df1b969422c8037",
-  "sig": "Tv2Emd+Jo0xSzRsDTVE9fm95ohaQeYq+DJs+y1D9Dbp0Qjm81bZK4OmrlGcvYvZn8oJszSq/qoNWFZh3Auc/BQ==",
-  "notes": "Telegram Backup (Global Settings -> Tools): connect your own Telegram bot - the accounts (Account Info with uid/password/2FA/cookie/token/useragent/folder, folder lists, mail/page accounts, cookies, face photos) are backed up there once a day, and can be downloaded back on any PC with no duplicates. Hotmail recovery-code reader fixed (missed / stale codes). MaxCare Hotmail token detection widened. Import dialog Folder defaults to the open folder."
+  "version": "1.1.215",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.215/update_v1.1.215.zip",
+  "sha256": "ea845d68b99c90c01d07f86ab512a967db857c88022671de9f0eb466d24a7e8e",
+  "sig": "27Z8/1LNvsNRwbvwoPxIhrkA5yOhHJzhHlt/zrIzy4OQaq89a+Rd/AMWtMyJ5GQQrSAFL0sMkHRmEKuDY4WzCw==",
+  "notes": "Hotmail: MaxCare-format tokens now work. Check Token reads the token only (Live/Die, no sign-in) using each account's own client id. View IMAP reads the mailbox over POP3 when Microsoft blocks IMAP. The recovery-mail one-time code is read reliably again (now taken from the message body), fixing login / Add Recovery 'code did not arrive' and 'incorrect code'. 'Add then Remove Old' shows which old recovery addresses were removed or scheduled. Just Login and Browser login clear Microsoft's privacy-notice page instead of getting stuck."
 }
