@@ -1,7 +1,7 @@
 {
-  "version": "1.1.218",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.218/update_v1.1.218.zip",
-  "sha256": "52e9c1ea5d09670234930b86ea44a057e31db4410c981060235cf7d2456a03b0",
-  "sig": "OgRd7IsrLwk4YHJRoT9yn4K2j1jYcIjnIL7iqG6yPSZLgdR/3DqIlh5qorr/6lajl69GGaX3RF3OwWVEuKJgCQ==",
-  "notes": "Hotmail Add + Remove Old: when Microsoft refuses the removal (error 6001) the app signs in once with a code to the old or kept recovery mail and removes it; old phone numbers are removed too; a recovery that could not be removed is shown as NOT removed. GPM: Chrome's 'Sign in as' popup no longer blocks Facebook login. Passkey: an account with no browser gets one created; Create / Check / Delete All Pass Key are now Browser script steps."
+  "version": "1.1.219",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.219/update_v1.1.219.zip",
+  "sha256": "636810c8ea461961414f4ebc3d6287f57869a2055edda4caef2a281e062c296c",
+  "sig": "wsDi+ChBctROrH3BjA8V2ujOla5obtdJlh+nO4Od4UeWdmPkVv3+6xMm2GBkcgVkJddEhp/xGeL5Zi73Tiw7BQ==",
+  "notes": "GPM: Chrome's 'Sign in as' popup on the Facebook login page no longer appears - the app answers it like Cancel, so login goes on by itself. Status icons: a failed Hotmail step shows the red cross instead of a wrong green tick."
 }
