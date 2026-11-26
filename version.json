@@ -1,7 +1,7 @@
 {
-  "version": "1.1.219",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.219/update_v1.1.219.zip",
-  "sha256": "636810c8ea461961414f4ebc3d6287f57869a2055edda4caef2a281e062c296c",
-  "sig": "wsDi+ChBctROrH3BjA8V2ujOla5obtdJlh+nO4Od4UeWdmPkVv3+6xMm2GBkcgVkJddEhp/xGeL5Zi73Tiw7BQ==",
-  "notes": "GPM: Chrome's 'Sign in as' popup on the Facebook login page no longer appears - the app answers it like Cancel, so login goes on by itself. Status icons: a failed Hotmail step shows the red cross instead of a wrong green tick."
+  "version": "1.1.220",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.220/update_v1.1.220.zip",
+  "sha256": "a779a0df70c78436eb49743cebb52c195b928a502bb330b04afbea6d91126832",
+  "sig": "zTFCYa7ozCdCfPF4B95r05uSha913UpSjZvLs5GL9aHpexYWqrYavQ9W0yTtnRsZoslGJjdWiR556pSdpkMSDw==",
+  "notes": "Passkey: login with a saved passkey now shows 'with passkey' in the log, the Passkey column keeps the key's latest count, and Create waits while Facebook's sheet is still loading. Hotmail: Add Mail then Remove Old recovery with browser (for Microsoft-blocked accounts), smarter recovery code and change-password retries, no 'bridge did not come up'. Facebook daily-limit wall handled. Account sheet: smart column sort that stays put, click a cell selects the row and Ctrl+C copies the cell."
 }
