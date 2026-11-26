@@ -1,7 +1,7 @@
 {
-  "version": "1.1.221",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.221/update_v1.1.221.zip",
-  "sha256": "277a1c01d690409ecdc337d9064d9647613b290dfe6581906af3d953f6b7e44a",
-  "sig": "ozGRE8RHqLJGvNq7MlXMhr0hNp0z2eIZ8Oc0yz24UhvphPMvBkJbLYqjVyeEImAJY16WfGUHJE+TefGAds0YCQ==",
-  "notes": "New: Logout Cookie (right-click > Login FB) logs a Facebook session out without opening a browser. Hotmail: a wrong/empty recovery inbox stops in 45s instead of 150s, the browser stops at once when the code page's address doesn't match the recovery mail, and Add Recovery signs in with the account's existing recovery mail."
+  "version": "1.1.222",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.222/update_v1.1.222.zip",
+  "sha256": "ddb5674e44b41cd8f431cf2557f4a2f7cb67d33cdd5ab68bac669e099c12a71a",
+  "sig": "Plt898YAGWTAD2JTAd29kLKCP0j4lV17FGK1vrlr9v0g6kCgyH18cvUc1ohS/SKQZDvvs+2MGlNZGPHsVN0qDw==",
+  "notes": "Any language: 'We suspect automated behavior' (049) is dismissed in every task (Passkey, Add Mail, Ads, After Check, Warm Up). Passkey: works on Chinese/Thai/other-language accounts and saves the key, relogs in if Facebook logs out mid-task, stops at once when the code goes to WhatsApp/SMS or a mail the account doesn't have, refreshes when Facebook says offline. Login: no more 90 s wasted after the e-mail code, late password box waited for, selfie wall recognized. Cookie column saved after any task. Real mouse works on GPM windows and glides between windows. GitHub bug reports from this PC flow again. New: Update Data."
 }
