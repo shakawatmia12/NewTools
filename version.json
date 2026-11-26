@@ -1,7 +1,7 @@
 {
-  "version": "1.1.220",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.220/update_v1.1.220.zip",
-  "sha256": "a779a0df70c78436eb49743cebb52c195b928a502bb330b04afbea6d91126832",
-  "sig": "zTFCYa7ozCdCfPF4B95r05uSha913UpSjZvLs5GL9aHpexYWqrYavQ9W0yTtnRsZoslGJjdWiR556pSdpkMSDw==",
-  "notes": "Passkey: login with a saved passkey now shows 'with passkey' in the log, the Passkey column keeps the key's latest count, and Create waits while Facebook's sheet is still loading. Hotmail: Add Mail then Remove Old recovery with browser (for Microsoft-blocked accounts), smarter recovery code and change-password retries, no 'bridge did not come up'. Facebook daily-limit wall handled. Account sheet: smart column sort that stays put, click a cell selects the row and Ctrl+C copies the cell."
+  "version": "1.1.221",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.221/update_v1.1.221.zip",
+  "sha256": "277a1c01d690409ecdc337d9064d9647613b290dfe6581906af3d953f6b7e44a",
+  "sig": "ozGRE8RHqLJGvNq7MlXMhr0hNp0z2eIZ8Oc0yz24UhvphPMvBkJbLYqjVyeEImAJY16WfGUHJE+TefGAds0YCQ==",
+  "notes": "New: Logout Cookie (right-click > Login FB) logs a Facebook session out without opening a browser. Hotmail: a wrong/empty recovery inbox stops in 45s instead of 150s, the browser stops at once when the code page's address doesn't match the recovery mail, and Add Recovery signs in with the account's existing recovery mail."
 }
