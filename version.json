@@ -1,7 +1,7 @@
 {
-  "version": "1.1.224",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.224/update_v1.1.224.zip",
-  "sha256": "3a0496fadff2768b68a66ec52bcef75555ef2899f8db900453e544f18743f627",
-  "sig": "eZjLtOOoU6lsyPi6QPQEsupFlcl2myzW0jUSK/9af4er21Wa64sStiSDM0LQTYTXRanK5vItQCYgfSC71SF0CQ==",
-  "notes": "Status Detail keeps each task's real result (e.g. Passkey Create): the 'CookieRefresh: Saved live session cookie' line from closing the browser no longer overwrites it."
+  "version": "1.1.225",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.225/update_v1.1.225.zip",
+  "sha256": "c632f9361315d50386b4d2ab0bbc6f89b55e033f6494a1abe0c9be6d437c9ac2",
+  "sig": "2pOB5s8Zl8BtDw/uSw9Gqc64Ot/f/HYnpqxAP/juw3hi7MduqdEZCLEjUNkT4KKWWhkjRWA75pt7mLoSIoPpDg==",
+  "notes": "Mouse Access works on every browser (window brought to front before a real click); GPM windows all put in the same grid size; country code for every Primary Location and kept on load; no 30 s wait on every page; Copy > Select All (every column, Import reads it back); 282 GPM camera, 956 email unlock steps, friend request count, joined date, contacts dedupe, GitHub send fix."
 }
