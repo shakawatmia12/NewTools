@@ -1,7 +1,7 @@
 {
-  "version": "1.1.222",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.222/update_v1.1.222.zip",
-  "sha256": "ddb5674e44b41cd8f431cf2557f4a2f7cb67d33cdd5ab68bac669e099c12a71a",
-  "sig": "Plt898YAGWTAD2JTAd29kLKCP0j4lV17FGK1vrlr9v0g6kCgyH18cvUc1ohS/SKQZDvvs+2MGlNZGPHsVN0qDw==",
-  "notes": "Any language: 'We suspect automated behavior' (049) is dismissed in every task (Passkey, Add Mail, Ads, After Check, Warm Up). Passkey: works on Chinese/Thai/other-language accounts and saves the key, relogs in if Facebook logs out mid-task, stops at once when the code goes to WhatsApp/SMS or a mail the account doesn't have, refreshes when Facebook says offline. Login: no more 90 s wasted after the e-mail code, late password box waited for, selfie wall recognized. Cookie column saved after any task. Real mouse works on GPM windows and glides between windows. GitHub bug reports from this PC flow again. New: Update Data."
+  "version": "1.1.223",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.223/update_v1.1.223.zip",
+  "sha256": "74bdebc094c370c84ca7eb57be2f81d24d4c407da8857adb5755ce1ce17850ce",
+  "sig": "kHw0coAufM7CflhjienFABoHCCrux22ZAYawtmkqm1UKZgtT7a4IhZUtn5rKDSD7284p3D9EMIdcdY+iayNIBA==",
+  "notes": "Login: when a 'connection restored' message covers Log in on the saved-login screen, the app presses it again instead of waiting 2 minutes. A login done with the e-mail code is no longer logged as 'with passkey'. Gender and Birthday read again (Facebook moved them to Contact and basic info). 'Get more out of Facebook' is never saved as a Name, and wrong names saved that way get fixed. CAPTCHA log tells the truth. A selfie login wall ends that account's script instead of trying again on every step."
 }
