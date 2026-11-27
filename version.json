@@ -1,7 +1,7 @@
 {
-  "version": "1.1.223",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.223/update_v1.1.223.zip",
-  "sha256": "74bdebc094c370c84ca7eb57be2f81d24d4c407da8857adb5755ce1ce17850ce",
-  "sig": "kHw0coAufM7CflhjienFABoHCCrux22ZAYawtmkqm1UKZgtT7a4IhZUtn5rKDSD7284p3D9EMIdcdY+iayNIBA==",
-  "notes": "Login: when a 'connection restored' message covers Log in on the saved-login screen, the app presses it again instead of waiting 2 minutes. A login done with the e-mail code is no longer logged as 'with passkey'. Gender and Birthday read again (Facebook moved them to Contact and basic info). 'Get more out of Facebook' is never saved as a Name, and wrong names saved that way get fixed. CAPTCHA log tells the truth. A selfie login wall ends that account's script instead of trying again on every step."
+  "version": "1.1.224",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.224/update_v1.1.224.zip",
+  "sha256": "3a0496fadff2768b68a66ec52bcef75555ef2899f8db900453e544f18743f627",
+  "sig": "eZjLtOOoU6lsyPi6QPQEsupFlcl2myzW0jUSK/9af4er21Wa64sStiSDM0LQTYTXRanK5vItQCYgfSC71SF0CQ==",
+  "notes": "Status Detail keeps each task's real result (e.g. Passkey Create): the 'CookieRefresh: Saved live session cookie' line from closing the browser no longer overwrites it."
 }
