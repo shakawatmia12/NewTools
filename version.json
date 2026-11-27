@@ -1,7 +1,7 @@
 {
-  "version": "1.1.226",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.226/update_v1.1.226.zip",
-  "sha256": "9d7b0886ffa466d096f461c8d58746947c5a9fbe27db15a37acad260c2e57857",
-  "sig": "soo9PvG1kFraSmGQ0TNiDULDfIMaAUNGwOWLFNzo1pRSZjhSyeLsIzxp+Ea3N5WGAOZOajd7tkDpN6MYCKd4DA==",
-  "notes": "Copy > Select All button (every column, pick what to keep, Import reads it back exactly - big-copy clipboard fix); Primary Location country code one separator; Friend Requests 0 for a logged-in account with none (was left blank); Hotmail > Only Remove Old Recovery (keep the app's recovery, remove the rest)."
+  "version": "1.1.227",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.227/update_v1.1.227.zip",
+  "sha256": "b764953f96ea43ca1c1ab6f3c5b27c048efba1d2d3a332bdd870737ff4181c63",
+  "sig": "ype3785cokvxt5lRrQsRfUpLPQSDleM3aE1O/W8QTjMUBffzVNMavouxRwIS0vl+/I9wzJl1NLeZHXCfQRxyDw==",
+  "notes": "Function > 2FA On / Off (turn Facebook 2FA on with an auth app key, or off); masked-email code match fix (trailing dot); Friend Requests: no false 0 while the page is still loading."
 }
