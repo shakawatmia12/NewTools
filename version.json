@@ -1,7 +1,7 @@
 {
-  "version": "1.1.227",
-  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.227/update_v1.1.227.zip",
-  "sha256": "b764953f96ea43ca1c1ab6f3c5b27c048efba1d2d3a332bdd870737ff4181c63",
-  "sig": "ype3785cokvxt5lRrQsRfUpLPQSDleM3aE1O/W8QTjMUBffzVNMavouxRwIS0vl+/I9wzJl1NLeZHXCfQRxyDw==",
-  "notes": "Function > 2FA On / Off (turn Facebook 2FA on with an auth app key, or off); masked-email code match fix (trailing dot); Friend Requests: no false 0 while the page is still loading."
+  "version": "1.1.228",
+  "url": "https://github.com/shakawatmia12/NewTools/releases/download/v1.1.228/update_v1.1.228.zip",
+  "sha256": "bc391e227afd4799887ff0de7a57c438da7e4bd70062d53435daaca09e70c7c3",
+  "sig": "x02wiFDAJSd6XqT6TlCydk+VwfU4aooH52pS5ubQ7vFKTVnXYoAA6/jcDikmaMJlnPLfm9iNaUBpAUbUPgd2DA==",
+  "notes": "Login: no repeat login after a wrong password; GPM 'Sign in as' chooser blocked in every frame; GPM ProfileInUse auto-restart; Hotmail recovery mail fallback (Email Recover Old / Mail Info); 2FA Thai + SMS/FIDO confirm; passkey/2FA fixes; script-done summary per task."
 }
